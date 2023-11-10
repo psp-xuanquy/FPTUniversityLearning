@@ -1,0 +1,48 @@
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Reference\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\appsettings.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\SangNM\Assignments\Assignment 01\Assigment01_MemberManagement\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

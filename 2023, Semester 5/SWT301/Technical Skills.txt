@@ -1,0 +1,47 @@
+Technical Skils:
+   - Unit Test, JUnit, Regression Testing, DDT, TDD, Continuous Integration, Maven
+	 + Unit Test: Developers phải test code của mình. Đảm bảo các hàm/method chạy đúng như thiết kế, như tính toán.
+
+		      Để test code của mình thì có thể dùng cách truyền thống in ra kết quả chạy hàm; hoặc ngon hơn, dùng các thư viện Unit 		      Testing Framework để giúp tự động hóa quá trình kiểm thử giúp tăng độ chính xác, tránh nhàm chán việc đọc từng kết                       quả kiểm thử bằng mắt.
+
+	 + JUnit: Là thưu viện giúp dân Dev kiểm thử code của họ 1 cách tiện lợi bằng cách viết các câu lệnh assert() để so sánh kết quả 	   	          trả về của hàm có đúng như kì vọng ko (expected ?== value)
+		  
+                  Có rất nhiều thư viện khác tương đương với NNLT bạn quen
+		  Google "unit test framework for C#, JS, Java, Python"
+
+	 + TDD(Test Driven Development): Kĩ thuật viết code của dân Dev nhưng kèm theo code chính là các đoạn code khác dùng để test 	   	                                 code chính. Dân Dev khi viết code sẽ làm luôn các test case dùng để test hàm của họ, viết luôn các 					 đoạn code dùng để test code chính (code dùng để test code chính gọi là "test script", ví dụ lệnh 					 assertEquals chính là các test script)
+					
+					 Vậy việc làm app, viết code của Dev phải kèm theo các test case, test script để đảm bảo code luôn 				                 xanh --> kĩ thuật TDD - viết code làm app hướng theo cả việc kiểm thử code.
+
+	 + DDT(Data Driven Testing): Kĩ thuật viết code kiểm thử, test script mà tách riêng bộ data kiểm thử ra 1 chỗ (mảng)
+				     	  (data kiểm thử: dữ liệu đầu vào vs expected value)
+				     lát hồi nhồi/fill data kiểm thử này vào trong các câu lệnh so sánh 
+					   so sánh expected == actual ?
+
+			  	     LỆNH SO SÁNH assert() đc tách riêng với bộ data kiểm thử được gọi là DDT: kiểm thử mà tách riêng data.
+				
+				      
+				     Bộ data lát hồi đc nhồi vào hàm kiểm thử, hàm so sánh theo kiểu tham số hóa, tức là data đầu vào 				                     expected đc cho tên gọi và map vào chỗ gọi hàm so sánh.
+				
+				     DDT còn đc gọi tên khác là kĩ thuật tham số hóa data kiểm thử.
+
+	 + Regression Testing: Kiểm thử lại những thứ đã từng kiểm thử để đảm bảo rằng hàm, app đã ổn vẫn tiếp tục ổn.
+
+			       Nghề Dev viết code, chỉnh sửa code, nâng cấp code, fix bug, thêm bớt tính năng. Code/app đã từng test ngon, 				       nếu ko đụng thì nó vẫn ngon. Nhưng nếu đem code ra                                sửa thì phải test lại để 	                      	       đảm bảo rằng nó vẫn ổn.
+			
+			       Vậy nếu sửa code thì phải test lại --> Kiểm thử hồi quy (Regression Test)
+			       và nếu kiểm thử này bằng tay rất dễ sinh chủ quan, sai sót và cực kì nhàm chán do phải làm lại, test lại thứ 			       đã từng 
+		               --> Sai sót này nên được tránh, ko nên để xảy ra (Pesticide Paradox)
+
+			       nếu ta có TDD, DDT, Test Script, có code để test app, hàm thì Regression sẽ diễn ra rất nhanh, chính xác 			       vì chỉ việc chạy lại bộ code kiểm thử, nhìn xanh là xong.
+	
+	 + Continuous Integration(Tích hợp liên tục): Code của dự án, của team phải để ở 1 nơi chung - 1 SERVER - thường là GIT SERVER 	                                                         (GitHub, GitLab, Bitbucket...)	
+			
+						      Code của anh em, code gom trên server phải đc đảm bảo chất lượng, nghĩa là code phải 						              có màu xanh - màu xanh của expected == actual
+
+						      Để đảm bảo Project chứa code ngon, xanh thì:
+							* Code để trên server.
+							* Bất kì ai upload, update code trên server PHẢI ĐƯỢC CHECK NGAY XANH ĐỎ.
+							* Việc này diễn ra ko ngừng nghỉ, liên tục khi bất kì ai thay đổi code trên server, 							  liên tục để đảm bảo code luôn ngon, nếu ko ngon thì phải được check liên tục trên 							  server để đảm bảo code ngon gọi là tích hợp liên tục (code đưa lên gọi là tích 							          hợp, liên tục đc check).
+						     	* Để code đc check hiệu quả, liên tục cần đồ chơi cài thêm chính là những app đặc 								  biệt sinh ra chỉ để check (CI TOOL: Jenkins, Bamboo CI, Circle, CI, Team City CI,                                                           Javis CI Githubs Actions) - nó sẽ phối hợp với test script để đảm bảo xanh đỏ.
+								

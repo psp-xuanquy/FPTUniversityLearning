@@ -1,0 +1,7 @@
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.csproj.AssemblyReference.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.frmManageCategories.resources
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.csproj.GenerateResource.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.AssemblyInfoInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.AssemblyInfo.cs
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\Demo\DemoCodeFirst\obj\Debug\net6.0-windows\DemoCodeFirst.csproj.CoreCompileInputs.cache

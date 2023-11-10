@@ -1,0 +1,5 @@
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\Repository\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\Repository\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\Repository\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\Repository\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\Repository\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
