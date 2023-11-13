@@ -1,0 +1,16 @@
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\bin\Debug\net5.0\appsettings.json
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\bin\Debug\net5.0\Repositories.dll
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\bin\Debug\net5.0\Repositories.pdb
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+C:\Users\xquy1\Downloads\SaleManagement-master\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll

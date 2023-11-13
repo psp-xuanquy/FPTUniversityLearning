@@ -1,0 +1,15 @@
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
