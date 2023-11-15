@@ -1,0 +1,58 @@
+Schedule teacher: 1 lớp chỉ đc tạo 2 slot trong 1 tuần 
+lớp đó sẽ ko đc trùng phòng học không trùng slot 
+Startday sẽ đc chuyển vào tuần tiếp theo khi tạo
+Startday > Today
+PT này k đc trùng lớp với PT khác
+có thể thay đổi slot ngày đó nếu PT bận việc
+
+Schedule admin: Xem đc những ngày nào sẽ có lớp học
+Schedule user: Chọn ngày để xem lịch học như fap lun 
+Guest thì bắt buộc phải đăng nhập mới đc xem
+
+
+
+
+kịch bản 1:
+đầu tiên để có khóa học cho guest có thể đăng kí thì service manager sẽ đăng nhập vào web vào trang quản lí khóa học chọn thêm khóa học điền đầy đủ thông tin khóa học và bấm nút insert để thêm khóa học mới
+bây giờ tôi sẽ demo kịch bản 1...
+trong này thì tên khóa học: - Kí tự đầu bắt buộc ghi hoa và không có các kí tự đặc biệt
+			    - Giá khóa học từ 0 - 100.000.000
+			    - Số tháng của khóa học từ 0 - 36 (nếu chọn 0 thì sẽ mặc định có 7 slot để khách hàng có thể trải nghiệm)	
+		            
+sau khi đã tạo xong khóa học mới để thu hút khách hàng cho khóa học mới tạo đó thì service manager sẽ tạo 1 sự kiện đầu tiên service manager sẽ đăng nhập vào web vào trang quản lí sự kiện chọn thêm sự kiện và điền đầy đủ thông tin sự kiện và bấm 
+nút insert để thêm sự kiện mới 
+tôi sẽ demo kịch bản 2
+trong này thì tên sự kiện: - Kí tự đầu bắt buộc ghi hoa và không có các kí tự đặc biệt
+			    - Daystart > Today
+			    - Dayend > Daystart 	
+			    - Khuyến mãi từ 0% - 100% 
+
+Achievements 
+ - Về mặt thành tựu thì chúng tôi đã có thể tạo ra 1 trang web gần như là đầy đủ các chức năng cơ bản của 1 trung tâm Yoga.
+Limitations - Nguyên
+ - Tuy nhiên còn 1 vài hạn chế mà web chúng tôi không xử lý được:
+	+ Tiếp theo là không thể chỉnh sửa hoặc xóa một học viên trong lớp.
+	+ Học viên không thể đánh giá PT.
+	+ Cuối cùng là học viên không thể nhận được thông báo khi PT thay đổi lịch học hoặc thay giáo viên.
+
+Bài thuyết trình nhóm tôi đã kết thúc. Cảm ơn quý hội đồng đã lắng nghe sau đây là phần đặt câu hỏi mà quý hội đồng dành cho chúng tôi!
+ - Xin mời quý hội đồng đặt câu hỏi!
+
+
+
+
+
+
+
+
+khóa học : tạo khóa học 
+tên khóa học phải in hoa chữ cái đầu tiên và không được nhập kí tự đặc biệt
+giá khóa học ít nhất là 0 ( cho khóa học free ) tối đa là 100.000.000 không thể nhập < 0
+số tháng nhập vào ít nhất là 0 tối đa là 36 tháng khi nhập 0 tự động chuyển đổi thành 7 slot học ( khóa học free )
+ảnh bỏ vào tối đa 10mb
+Describe được nhập thoải mái 
+
+thông báo tên sự kiện bị lỗi
+
+
+

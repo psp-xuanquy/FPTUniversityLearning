@@ -1,9 +1,0 @@
-Performance: The system must be capable of handling 500 simultaneous users
- without any decrease in response time. To confirm this, a test can be performed by 
-simulating a load of 500 concurrent users and measuring the system's response time. If the response time is still acceptable,
- the test will be considered successful. Otherwise, it will be deemed a failure.
-
-Security: The system is required to use multi-factor authentication for all user accounts to prevent unauthorized access to sensitive data.
-To test this requirement, a fake account can be created and an attempt can be made to log in without providing the necessary second factor, 
-such as a PIN or biometric verification. If the system denies access and prompts the user to provide the missing factor, 
-the test is considered successful. If not, the test is considered a failure.

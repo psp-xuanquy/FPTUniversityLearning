@@ -1,0 +1,71 @@
+SWR - Thầy Giáo Làng
+
+*Slot1: 
+- Quy trình làm phần mềm => bức tranh toàn cảnh kì 5.
+- Phân tích từng mục đích, việc cần làm của từng giai đoạn.
+- Cảnh báo về kì thực tập ( cần vượt qua kì 5, hơn 21 kì sẽ bị đuổi, hãy học xong mới đc chơi,..)
+- Luật về lớp học ( muốn nghỉ thì mail, được ăn, học các môn khác khi học môn của thầy, đến lớp trả bài)
+- review về CV
+*SLot 2:
+- Thầy dạy cách trả bài bằng sơ đồ tư duy:
+    vd: Thầy có chia sẻ 5 gợi ý bao gồm: 
+       1. Thầy nhắc lại quy trình phần mềm swe, và ánh xạ vào kì 5 và 6 => tầm quan trọng của kì này)
+       2. Chia sẻ tài nguyên học tập: có tài nguyên gây ấn tướng: PE của môn SWR và SWT, đã có trên youtube)
+       3. Bức tranh toàn cảnh 0 kì, và những chỗ quan trọng và đính kèm, nhất là kì OJT => thầy review về kì 7, 8 ,9 (đc học vượt).
+       4. Thực tập, co 1 phần thú vị đó là chuẩn bị OJT:  CV.
+- Nói 1 chút vè câu chuyện đi thực tập: 
+       + Kể 1 câu chuyện 1 K12 phải học lại từ đầu.
+       + Kể câu chuyện đc thực tập đến 8 tháng, có thể kéo dài sau dự án. No thì học tiếp/ Yes thì 
+         làm đơn vừa làm vừa học (đc miễn điểm danh)/ Bảo lưu tối đa 2 kì liên tiếp. 
+       + Fsoft (Rớt vẫn có chỗ ngồi=> phòng FA <FPT Academy> -> ổn thì làm dự án) . Cty còn lại => RỚT thì ở nhà, đậu thì vào làm.
+               [Phòng FA: có 1 mentor ra đề tài nghiên cứu mỗi ngày 8 tiếng/16 tuần/4 tháng, sau 1,2 tuần-> phỏng vấn (pass<ON BOARD>/failed<ngồi FA>). Fail hoài thì tạch Thực tập.]
+       + Tùy kì thực tập phỏng vấn mỗi khác. Thầy exam về 1 số câu phỏng vấn (Lập trình Hướng đối tượng là gì? 4 đặc tính của lập trình HDT? Hãy nói cho a nghe về LT HDT?ba có 2 căn chia cho 3 thằng con đó có phải là thử kế trong LT HDT hay k?), 
+       + Tình huống cần Cpi: CV đẹp, GPA >8 không cần phỏng vấn-> thẳng lên làm Project, đc ưu tiên. 
+       + Bằng tốt nghiệp có ghi Rank tốt nghiệp => nếu TB điểm <7 => k chứng minh đc. Có thể đk cải thiện điểm.
+       + Danh sách các Cty có thể nộp đơn. Nên làm ở SG. [ BA: cần 1 người để khai thác; PO: product ower tự tạo ra tính năng hay còn gọi là sở hữu tính năng. ] Momo phổ biến PO; TGDD phổ biến BA; ACXON ATIVE 100% scrum; NET COMPANY sv FPT là giám đốc; Cheat Code là gì? Cheat enzym là gì? => vào công ty GAME.
+       + Có những Cty k nằm trong trg đưa ra => đc Thưc tập vs ĐK phải Phỏng vấn đậu sớm => photo giấy đậu để thẩm định.
+       + Những yêu cầu về kiến thức cần có. BlockChange k cần thiết lắm vì đang bị tranh cãi.
+         => youtube của thầy sẽ hiểu NF (Nomalization Form), SOLID <khó> (SOLID_ tôi đi code dạo), Design patterns <khó> nhá hàng Singleton, Dêpndency Injection/IoC <khó hiểu> => đỉnh cao, có trên youtube của thầy; RestAPI phải học, làm app nhanh hơn.
+- Nói cho thầy về:
+  1. OOP - Object Oriented Paradigm/Programming
+     - là cách lập trình mà tập trung vào việc tìm ra các object và sự kết hợp giữa các object.
+     - object là 1 thứ gì đó, sự vật, hiện tượng, một cái THING gì đó mà có đặc điểm và hành vi, và nó khác biệt với đối tượng khác dựa trên các đặc điểm và hành vi này
+       EX: sv name: Long, yob:2k3
+           sv name: Linh, yob:2k3
+       LIÊN QUAN ĐÉN THIẾT KẾ/ TÌM RA CÁC ĐỐI TƯỢNG, TA CÓ 4 NGUYÊN LÝ:
+            + NL1: ABSTRACTION : tính trừu tượng hóa (biến đổi những bản chất phức tạp thành thông tin đơn giản mà không biển đổi bản chất gốc).
+            + NL2: ENCAPSULATION: tính đóng gói (thiết kế public và private những thông tin nội tại về 1 object ra thế giới bên ngoài).
+            + NL3: INHERITANCE: tính kế thừa => rất nhiều class (re- use: ko làm gì mà vẫn có, nhưng vẫn có tính đồng bộ cao, sd extend or ":" trong code.=>Tóm lại:  khi code nhìu class => tạo ra các class con ( chung actin) => gom info chung 1 nơi => thừa hưởng hoàn toàn từ class trước.
+            + NL4: POLYMORPHISM: tính đa (ánh) xạ, đa hình <chỉ khi nào có tính kế thừa> (
+2. DATABASE:
+*ERD:
+- tư ERD => ra  table => có đc Cơ sở dữ liệu DB - database
+-               Table thì còn gọi là RELATION (Quan hệ- về mặt thông tin)
+*DBMS/RDBMS:
+- có DB thì cần có 1 cái tool để quản lý data  lưuu trong table
+- Trong Database -> Tool này đc gọi là: DBMS
+                 -> Database management sýtem - hệ quản trị CSDL
+                 -> Tool này chỉ chơi vs table -> còn gọi là RDBMS - Realational database mângement system Hệ quản trị CSDL quan hệ
+                   EX: Oảcle, DB2, SQL Server, My SQL, PostgreSQL
+- Có cái loại DB mà ko dựa trên Table kiểu hàng cột đpej như EXCEL ma cho linh hoạt hơn, gọi là No-SQL DB
+Cần cái tool để quản lý no-SQL DB: MôngDB, Redis,...
+
+*SQL:
+    Có 3 loại:
+       *DDL: CREATE, DROP, ALTER
+       *DML: SELECT, UPDATE, DELETE
+       *DCL: GRANT, REVOKE
+
+     RIÊNG SELECT TRÊN NHIỀU TABLE - JOIN CHIA THÀNH NHIỀU NHÓM NHỎ HƠN
+=> XEM BÀI LEFT CHOICE CỦA THẦY BD.
+
+*Slot3
+- Kiểm thử p/mềm
++ Tìm sai sót và khiếm khuyết của app (BUG)
++
+
+
+Mapping: 1. Mua tên miền_domain name    ( abc.com,....)
+         2. Thuê server                 ( HDD/SSd/OS,cài app)
+          ( Host, Hosting)
+

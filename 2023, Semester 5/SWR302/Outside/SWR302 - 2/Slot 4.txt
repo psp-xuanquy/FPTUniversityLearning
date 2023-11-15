@@ -1,0 +1,1194 @@
+R/E:  REQUIREMENTS ENGINEERING
+      Các kĩ thuật để tìm ra yêu cầu phần mềm/ tính năng của p/,
+
+I. CÁC TỪ VIẾT TẮT
+- REQs: requirements
+BA: Bussiness Analyst
+PO: Product Owner
+PM: Project Manager
+Mgt: Managerment
+PRJ: Project
+PROD: Product
+
+					ANALYZE (V)
+					ANALYSIS (N)
+					ANALYST (N HUMAN)
+
+II. 3 E
+
+III. VÍ DỤ VỀ REQS
+
+IV. WHY R/E TẠI SAO LẠI CẦN PHẢI HỌC VỀ CÁCH TÌM Y/C P/M
+- 56% và 82%
+- 
+
+V. SCOPE
+- 3 CÂU HỎI CẦN HỎI, TRẢ LỜI KHI BẮT ĐẦU LÀM 1 APP
+
+VI. PHÂN BIỆT 1 SỐ THUẬT NGỮ
+- As-is system vs. To-be system
+- Project vs. Product
+
+VII. PHẦN MỀM VÀ NƠI TÌM RA CHÚNG
+Bàn về câu chuyện nơi phần mềm được sinh ra, cách nó được sinh ra, câu chuyện đi kèm việc phần mềm đc viết ra
+PHẦN MỀM ĐC VIẾT RA DƯỚI CÁC HÌNH THỨC CƠ BẢN SAU:
+CŨNG ĐỒNG NGHĨA VỚI VIỆC BẠN CÓ THỂ NỘP ĐƠN VÀO NHỮNG CHỖ DƯỚI ĐÂY
+
+TRONG GIANG HỒ, NGOÀI XÃ HỘI
+1. CÔNG TY CÔNG NGHỆ, mà cách thức kinh doanh/kiếm tiền, cách thức vận hành, PHỤ THUỘC 100% VÀO PHẦN MỀM. 
+* Ví dụ: Grab, Taxi xanh, Be, MoMo, GoJek, Lazada, Shoppe, Beamin, Agoda,...
+- App chết, mất nguồn thu ngay
+- Cần có đội ngũ support, nâng cấp, bảo trì cái app một cách xịn sò,
+
+* A IN-HOUSE DEVELOPMENT TEAM
+- Grab nuôi sẵn trong nhà 1 nhóm dev chỉ để viết/nâng cấp/bảo trì app Grab
+- Cơ hội, job liên quan đến SE here!!!
+
+* ĐẶC TRƯNG CÔNG VIỆC
+- Nhóm dev sẽ code các tính năng được công ty đưa ra!!!
+- Công ty đưa ra tính năng mới (phụ thu trời nắng; cuốc xe im lặng) và dev code!!!
+- Công ty đưa ra, nhưng thực ra là 1 gã chịu trách nhiệm nghĩ ra tính năng mới
+	GÃ NÀY GỌI LÀ PO - PRODUCT OWNER, GÃ "SỞ HỮU" ĐỀ XUẤT CÁC TÍNH NĂNG MỚI CHO APP
+- MoMo: năm kia Tết Âm lịch có game: đập lu
+	    trước	       game: lắc lắc
+            nay                game: săn thẻ LONG LÂN QUY PHỤNG
+- PO LÀ GÃ: TÌM XEM APP ĐỐI THỦ CÓ TÍNH NĂNG GÌ HAY
+            TỰ NGHĨ, TƯ DUY RA TÍNH NĂNG HAY
+	    SURVEY KHÁCH HÀNG CỦA APP, SURVERY THIÊN HẠ ĐỂ TÌM TREND, ĐỂ ĐỀ XUẤT TÍNH NĂNG MỚI
+
+
+
+2. CÔNG TY "LỚN", có sử dụng phần mềm trong nhiều hoạt động, ko phụ thuộc 100% vào phần mềm
+* Ví dụ: TPBank, TGDD, CellPhoneS, CoopMart, Bảo hiểm nhân thọ, Sabeco, Tân Hiệp Phát, Hòa Phát...
+
+* IN-HOUSE DEV TEAM LUÔN, CHỈ ĐỂ BẢO TRÌ NÂNG CẤP NHỮNG APP ĐANG DÙNG TRONG CÔNG TY
+   - App quản lí bán hàng, quản lí khó, quản lí chăm sóc khách hàng thân thiết, online shopping
+     App quản lí nhân viên, app quản lí sản xuất
+
+* ĐẶC TRƯNG CÔNG VIỆC
+   - Dev team sẽ làm việc/viết code theo yêu cầu từ phía công ty luôn
+				phía công ty chính là các phòng ban khác cần phần mềm để trợ giúp cho hoạt động của họ đc hiệu quả 
+				phòng nhân sự cần phần mềm để quản lí nhân viên 
+				kho hàng cần phần mềm quản lí kho
+
+   - Dev Team <-------------------> Các phòng ban khác: kế toán, nhân sự, bán hàng, kho, sản xuất
+		        BA
+			Business Analyst: KĨ NĂNG GIAO TIẾP VỚI NGƯỜI KHÁC, KHÁC CHUYÊN MÔN
+
+
+--------------------------------------------------
+2 CÔNG TY Ở TRÊN, VỊ TRÍ DEV KO "SANG" VÌ LÀ NHÂN VIÊN 1 CTY KO CHUYỂN HẲN VỀ LÀM PHẦN MỀM	
+--------------------------------------------------
+
+
+3. CÔNG TY CHUYÊN LÀM PHẦN MỀM
+DEFAULT LÀ PHẢI CÓ DEV TEAM. DEV LÀ NHÂN VẬT CHÍNH
+
+DEV CÓ DANH PHẬN RÕ RÀNG
+
+
+* Ví dụ: Fsoft, Misa, KiotViet, VinaGame, Amazon, FB, Nintendo, Ea Sport, Riot...
+
+TRONG CÁC CÔNG TY CHUYÊN LÀM PHẦN MỀM ĐÃ LIỆT KÊ Ở TRÊN CHIA THÀNH 2 NHÓM
+* NHÓM 1: Adobe, Amazon, Microsoft, FB, Nintendo, EA, Riot, VinaGame, Misa, KiotViet, Fsoft
+
+
+  CÔNG TY LÀM PRODUCT-BASED: tự nghĩ ra mà làm, hy vọng thiên hạ đón nhận app này
+
+- MS tự nghĩ ra app Office, tự bỏ tiền túi trả lương cho dev của mình, làm app
+- Nintendo + Niantic Lab hợp tác làm app Pokemon Go, tự bỏ tiền túi trả lương cho dev của mình
+- Riot, EA y chang khi đưa ra các tựa game 
+- Hoặc thành công - trùm 1 cõii
+       thất bại - thị trường ko đón nhận nhiều, nguồn thu ko đủ bù chi --> dẹp app, LỖ TIỀN TÚI!!!
+Ví dụ: Google từng tốn tiền và thất bại với Google+ (MXH cạnh tranh trực tiếp với FB) 
+       VCCorp tốn tiền úi và thất bại??? với Lotus (MXH dành do người Việt)
+
+- Khi đề xuất ý tưởng làm app, LUÔN CẦN 1 THAO TÁC LÀ: KHẢO SÁT NHU CẦU THỊ TRƯỜNG VÀ ĐÁNH GIÁ ĐỐI THỦ, TIỀM NĂNG
+    [Shark luôn hỏi điều này trên Shark Tank, Thương Vụ Bạc Tỉ]
+
+   GỌI CHUNG LÀ ĐƯA RA CÁC SẢN PHẨM, TUNG CÁC SẢN PHẨM (APP) RA THỊ TRƯỜNG
+
+- Các sản phẩm làm của cty này THÌ TÍNH NĂNG DO PO ĐƯA RA!!!
+- Các sản phầm/phần mềm/app chỉ hướng đến số đông người dùng, CÀNG NHIỀU USER CÀNG TỐT -> $
+- Phần mềm/Product rất đa dạng: từ OS, các tool 
+                                Windows, iOS, Android, Ubuntu, FireFox, CocCoc, chương trình sửa video, nhạc, ảnh, 
+
+THƯỜNG NHỮNG PHẦN MỀM NÀY LÀ CÓ NUT DOWNLOAD, HOẶC THUÊ TRẢ TIỀN THEO KHẢ NĂNG SỬ DỤNG (Gmail, Office365, Jira, Notion, Trelo,Figma)
+VUA HOẶC ĂN MÀY 
+
+* ĐẶC TRƯNG CTY DẠNG NÀY
+- Tự bỏ tiền túi, tự nghĩ ra app, làm, đưa ra thị trường mong thị trường đón nhận 
+- Quá trình làm thường là bí mật, leak dần dần 
+* NHÓM 2: TMA, Nash Tech, Larion, Alca, Fsoft
+  CÔNG TY LÀM DỊCH VỤ - SERVICE-BASED: làm app theo đơn đặt hàng từ bên ngoài
+
+CTY PHẦN MỀM <-------------------------------------------------Bên ngoài đặt hàng làm app để họ dùng trong công việc của họ
+                đưa ra yêu cầu về phần mềm                    Họ có thể là: nhà hàng, khách sạn, quán ăn, cửa hàng tiện lợi,
+             ---------------------------------------->        bệnh viện, trường học, trung tâm, cty du lịch, cửa tiệm, ngân hàng,
+                 đưa ra cá app để khách hàng
+                  dùng trong công việc của họ                 bảo hiểm, bất động sản, công ty dịch vụ buôn bán sản phẩm khác 
+            "CHÚNG EM 3 ĐỜI CUNG CẤP DỊCH VỤ LÀM PHẦN MỀM THEO YÊU CẦU CỦA CÁC BÁC DOANH NGHIỆP"
+                  GÃ ĐỂ NÓI CHUYỆN VỚI KHÁCH HÀNG (BA)
+
+NHÓM 2 CHIA THÊM 1 NHÁNH NHỎ HƠN
+
+CTY P/MỀM <------------------------------ CTY P/MỀM KHÁC GỌI  <------------------- bên ngoài đặt hàng làm app để dùng: nhà hàng, k/s
+                                            HỎI: CÓ LÀM APP X NÀY KO?              bv, trường học, trung tâm...
+
+                                          đẩy dự án p/mềm ra bên ngoài nhờ
+                                          bên ngoài làm giùm, trả $
+                                            CÒ OUT SOURCE
+
+LÀM P/MỀM DẠNG DỊCH VỤ NHƯNG GỌI LÀ GIA CÔNG
+VÌ KHÔNG TIẾP XÚC TRỰC TIẾP VỚI BÊN XÀI APP/USER XÀI APPP
+
+VD: 
+
+FSOFT     <---------------------    CTY IT NHẬT BẢN, MĨ <-------------- CTY/TRƯỜNG HỌC MĨ NHẬT
+
+          ---------------------->         BÊN NÀY TỰ ĐI LÀM NỐT MỌI CHUYỆN VỚI KHÁCH HÀNG
+            ĐƯA SOURCE CODE                         BA CỦA CTY NHẬT, MĨ 
+ 
+                BA NHÀ MÌNH
+            BA THUẬN LỢI LÀ NÓI CHUYỆN VỚI
+                        BA KHÁC BÊN CTY IT CÒ
+            BrSE - Bridge Software Engineer: KĨ SƯ CẦU NỐI!!!
+
+
+- ĐẶC TRƯNG DẠNG CÔNG TY SERVIEC, OUTSOURCE
+- Ko cần bỏ tiền túi ra làm app, vì làm theo đặt hàng nên có người trả tiền cho app mình làm
+- Ko cần lo đi bán app như bên product vì app sinh ra đã có sẵn người đặt hàng đem về dùng 
+- Ko lo ế app vì app là phiên bản làm theo AI ĐÓ YÊU CẦU 
+
+                       APP LÀM THEO YÊU CẦU CỦA AI ĐÓ ĐƯỢC GỌI LÀ CUSTOMIZED APP BESPOKE APP 
+                NGƯỢC LẠI APP LÀM CHO SỐ ĐÔNG BÁ TÁNH DÙNG (GAME, TOOL): GENERIC APP 
+
+- AI SẼ ĐẾN ĐẶT HÀNG MÌNH? - SỐ MÁ GIANG HỒ THÌ MỚI CÓ CTY ĐẾN ĐẶT HÀNG LÀM APP
+- CÓ NGƯỜI ĐẶT HÀNG LÀ CÓ TIỀN!!!
+[NGOẠI TRUYỀN...]
+- CÂU HỎI BỐI RỐI: EM NÊN ĐI LÀM Ở CTY NÀO??? PRODUCT BASED HAY OUT-SOURCE/SERVICE-BASED 
+                   EM NÊN ĐI LÀM Ở CTY NÀO, CTY PRODUCT HAY CTY OUT-SOURCE 
+
+
+4. CÔNG TY START-UP VỀ CÔNG NGHỆ
+* Ví dụ: 30-Shine, VECA, THOGIOITHO, JUPVIEC, ELSA, ...
+- Công ty/Founder tự nghĩ ra 1 app đặc biệt, chưa từng có trên thị trường (toàn cầu, hoặc local) 
+tự bỏ tiền túi ra làm, hoặc đi kêu gọi vốn từ các Shark 
+- APP CTY TỰ NGHĨ RA, ĐÓ CHÍNH LÀ PRODUCT
+CTY START UP CHÍNH LÀ CTY LÀM PRODUCT; NHƯNG THƯỜNG CHỈ 1 PRODUCT
+- CÁC FOUNDER PHẢI VỪA ĐẢM NHẬN VAI TRÒ TECHNICAL ĐỂ LÀM RA S/P, VÀ HỌC THÊM CÁC KIẾN THỨC VỀ KINH DOANH, THỊ TRƯỜNG, QUẢN LÍ
+
+>>>>> PACE (HỌC VIỆN ĐÀO TẠO DOANH NHÂN - CHỨNG CHỈ)
+      VIỆT ĐỨC, VIỆT PHÁP - BẰNG CẤP ĐẠI HỌC!!!
+>>>> TỰ NGHĨ RA S/P, TỰ BỎ TIỀN TÚI LÀM SP/APP, TỰ ĐI BÁN, HY VỌNG BÁ TÁNH CHẤP NHẬN
+
+BẠN KO LÀ FOUNDER, MÀ CHỈ LÀ DEV ĐC MƯỚN, THƯỜNG LƯƠNG START-UP CAO CHO DÂN DEV VÌ CẦN CODE NGÀY ĐÊM ĐỂ RA APP SỚM CHIẾM LĨNH THỊ TRƯỜNG 
+5. FREELANCER
+- Làm coder dạo, coder tự do
+- TA CODE " XIỀNG, BÁ ĐẠO" làm nhanh, chất lượng, ta lên các nền tảng mướn code dạo - FREELANCE ĐẤU THẦU/BỎ GIÁ TỐT CHO 1 JOB ĐC POST TRÊN MẠNG,
+LÀM TRỰC TIẾP VỚI NGƯỜI POST, TIỀN THANH TOÁN TRỰC TIẾP VÀO TÀI KHOẢN; CHỈ QUAN TÂM CHẤT LƯỢNG + DEADLINE, LÀM TỰ DO GIỜ GIẤC, ĐỊA ĐIỂM 
+
+- XÂY DỰNG PROFILE, THƯƠNG HIỆU TỪ HÔM NAY: viết bài cho StackOverflow, Medium, tech forum 
+                                                 Xây dựng GitHub đẹp trai 
+                                                 Xây dưngj Profile trên Linked in, Indeed 
+x
+- HOẶC CÓ NHIỀU TIỀN CHO 1 DỰ ÁN HỜI, HOẶC ĐÓI 1 THỜI GIAN DO KO DỰ ÁN 
+--> TỪ VIỆC LÀM FREELANCER, MỞ CTY LÀM CODE/APP CÓ CƠ SỞ, VÌ KHI CÓ SỐ MÁ, ĐẤU THẮNG NHIỀU DỰ ÁN --> MƯỚN THÊM DEV 
+
+
+6. LÀM REMOTE 
+- LÀM DEV CHO 1 CTY NÀO ĐÓ, LÀM KHOÁN THEO PROJECT, GIỜ, VIỆC CÓ ĐỀU ĐỀU, LƯƠNG CAO
+- XÂY DỰNG SỐ MÁ, THƯƠNG HIỆU Y CHANG FREELANCER 
+
+TỔNG KẾT
+
+
+CÓ RẤT NHIỀU CTY ĐỂ CHÚNG TA NỘP ĐƠN VÀO ĐỂ ĐƯỢC LÀM PHẦN MỀM TUY NHIÊN NHƯNG NẾU NỘP ĐƠN VÀO CTY KHÔNG PHẢI LÀ CTY PHẦN MỀM 
+
+TH1 GRAB
+
+TH2 TGDD, NGÂN HÀNG
+
+--> DANH PHẬN CỦA DÂN DEV KHÔNG ĐƯỢC THỪA NHẬN CAO; LƯƠNG THÌ OKIE
+
+TH3 CTY PHẦN MỀM
+--> DANH PHÂN CỦA DÂN DEV LÀ CHÍNH YẾU CỦA CTY, DANH PHẬN CAO, LƯƠNG THÌ ỔN LUÔN
+
+- Có 2 loại app nếu theo cách phân loại dựa trên tính phổ biến của app với người dùng, dựa trên dễ tiếp cận 
+ GENERIC APP, PRODUCT hướng đến số đông: game, tool, mxh, os 
+ CUSTOM APP, CUSTOMIZED APP, BESPOKE APP làm theo đơn đặt hàng, đc viết riêng theo nhu cầu của cty đặt hàng
+                                                                                       VD: app tính bill 7-11 chỉ dành cho 7-11 xài 
+
+- Em nên làm cty nào: cty làm PRODUCT, GENERIC 
+                    hay cty SERVIEC-BASED/OUTSOURCE
+                    hay các cty còn lại...
+- PRODUCT: chuyên sâu, nhưng chỉ 1 vài món
+- SERVIEC-BASED, OUTSOURCE: nhà tôi ba đời... làm đa dạng các loại app tùy theo đặt hàng 
+- CÁC CTY CÒN LẠI: CŨNG ĐỦ CẢ: PRODUCT (MOMO), Service nội bộ: app QLKho cho TGDD
+
+- BA và PO đều là NHỮNG GÃ LÀM VIỆC VỚI REQUIREMENTS; CHỈ KHÁC NHAU Ở CHỖ LÀ REQUIREMENTS ĐẾN TỪ ĐÂU: TỪ AI ĐÓ NÓI CHO/TỪ K/HÀNG LÀ BA
+                                                                                                      TỰ NGHĨ RA, TÌM RA, THAM KHẢO ĐÂU ĐÓ LÀ PO 
+
+===============================================================================================================
+[NGOẠI TRUYỆN - BẢNG LƯƠNG CỦA NGHỀ IT, VÀ CÁC CTY THỰC TẬP]
+===============================================================================================================
+VIII. PHÂN LOẠI REQUIREMENTS - REQUIREMENTS ĐC CHIA THÀNH NHỮNG DẠNG GÌ???
+
+Liên quan đến việc làm phần mềm, thì có 2 loại reqs
+1. PROJECT REQS
+* Định nghĩa: là câu phát biểu liên quan đến các công việc/thứ xoay quanh việc quản lí dự án - project management
+tức là những công việc liên quan đến 3 khía cạnh
+- Time/Thời gian: làm nhanh lên, cần thêm thời gian, OT
+- Budget/ngân sách: tiết kiệm những thứ gì đó, trang thiết bị, tem tém lại
+-  HR/human resourse/resource: con người, nguồn lực, máy móc trang thiết bị
+Mấy cái câu yêu cầu liên quan đến việc quản lí con người, tài nguyên, thiết bị, thời gian, ngân sách -> xếp vào nhóm PROJECT MANAGEMENT
+GÃ CHỊU TRÁCH NHIỆM VỀ NHỮNG REQS NÀY LÀ: PM - PROJECT MANAGEMENT, LƯỢNG ĐỘ PHÂN GIẢI TỪ 2K.
+-  HỌC CHỨNG CHỈ QUÁN LÍ ĐỂ CÓ THỂ QUẢN LÍ ĐC CON NGƯỜI 
+ - PACE
+ - CHỨNG CHỈ QUẢN LÍ DỰ ÁN: PMI/PMP, PMI BOK (Body of Knowledge)
+                     TEAM/SOFTWARE DEVELOPMENT PROCESS/MODEL:
+                       SCRUM MASTER
+- liên quan đến quản lí dự án, ta đọc thêm về tam giác quản lí dự án 
+golden triangle of project management 
+  thường có 3 đỉnh: time/budget/scope 
+                      HR + quality (trong tam giác)
+PM: cân đối, làm cho hài hòa các khía cạnh của tam giác quản lí 
+     người quản lí phải đối diện với các vấn đề: thời gian, budget, scope...
+* Ví dụ: 
+- Dev said: cần mua ngay IP Camera độ phân giải .. để tiến hành thử nghiệm model nhận diện biến số 
+- PM said: anh em tăng ca từ tuần này, tối đến 20:00 để đẩy nhanh tiến độ 
+- Dev/PM said: xin thêm người cho dự án 
+- Dev said: cần mua màn hình chạm để thử nghiệm UI cho chức năng tạo bill
+
+
+
+2. PRODUCT REQS 
+* Định nghĩa: là câu phát biểu đề cập trực tiếp về các tính năng của app sẽ làm; nói về tên các chức năng, tên các màn hình mà app to-be sẽ phải cung cấp cho user.
+GÃ TÌM RA, LIỆT KÊU CÁI REQS NÀY, CHƠI VỚI REQS LÀ: PO/BA/PRODUCT MANAGER
+* Ví dụ:
+- K/h said: App cần có tính năng in bill dùng bữa của thực khách và phối hợp với nhà bếp về việc chế biến món ăn trong bill 
+- App cần có tính năng cho phép bác sĩ xem lại lịch sử ra đơn thuốc cho bệnh nhân
+- App cung cấp chức năng cho shipper để nhận đơn hàng cần giao và cập nhật trạng thái đơn hàng
+- App cần có tính năng cho phép user cập nhật profile
+- App cần có tính năng cho phép user feedback, comment
+- App cần có tính năng cho phép admin xem được các thống kê (dashboard)
+- App dễ dùng
+- App có giao diện dễ sử dụng
+- App đa ngôn ngữ để tiện cho nhiều loại/nhóm người dùng 
+- " APP CẦN CÓ <TÍNH NĂNG GÌ ĐÓ> ĐỂ GIÚP <AI ĐÓ> HOÀN THÀNH CÔNG VIỆC CỦA HỌ"
+                                                 LÀM CÔNG VIỆC CỦA HỌ
+- " APP CẦN ĐEM LẠI <TRẢI NGHIỆM GÌ, CẢM XÚC GÌ> CHO USER"
+
+PHÂN LOẠI REQS/PRODUCT REQS
+Đều là những câu phát biểu đề cập đến tính năng phần mềm, app phải làm gì cho ai đó 
+
+" a statement says that WHAT THE SYSTEM MUST DO TO SUPPORT FOR CUSTOMERS/END-USERS"
+
+2.1 BUSINESS REQS (GÓC NHÌN WHY - GÓC NHÌN VỀ TÍNH CẦN THIẾT CỦA VIỆC PHẢI LÀM APP)
+                                  LÍ DO GÌ LÀM APP)
+                   DÀNH CHO CÁC SẾP, NGƯỜI CÓ QUYỀN QUYẾT ĐỊNH BẬT ĐÈN XANH CHO VIỆC LÀM APP 
+
+
+
+2.2 USER REQS ( GÓC NHÌN WHAT, GÓC NHÌN APP CẦN LÀM GÌ CHO AI ĐÓ) 
+              DÀNH CHO END-USER
+- Câu phát biểu cực kì dễ hiểu, dành cho dân thường cũng hiểu đc, về tính năng/chức năng/tên màn hình-page mà khách hàng/user mong đợi sẽ đc dùng để hỗ trợ cho công việc của họ
+- Ai viết ra câu này: khách hàng phải nói ra (bác sĩ, sinh viên, giảng viên, nhân viên, thủ kho,... bên công ty đặt hàng phải nói ra đc) 
+                                                                                                                và có thể là BA, PO viết ra giùm, nói giùm sau quá trình làm việc với k/hàng 
+*VÍ DỤ:
+- App có chức năng/tính năng quản lí profile (pass, fullname, avatar...)
+- App có tính năng tạo mới đơn thuốc cho bệnh nhân (app QLBV)
+- App có tính năng/màn hình/page cho phép sv xem đc thời khóa biểu môn học (app FAP)
+- App có tính năng/màn hình/page cho phép giảng viên điêm danh môn học  (app FAP)
+- App có tính năng/màn hình/page cho phép người mua xem đc trạng thái đơn hàng (app Lazada,...) 
+
+* CÂU USER NÀY CÒN ĐC VIẾT LẠI CHO ĐẸP TRAI HƠN, THEO TEMPLATE ĐỦ DỄ HIỂU NHƯNG CHUẨN MỰC BAO HÀM VÀI THÔNG TIN CƠ BẢN
+AS A <ROLE> I WANT TO <WHAT> SO THAT <PURPOSE, GOAL, TARGET>
+
+- App cần có chức năng cho phép sv xem bảng điểm (app FAP)
+- As a student,
+            I want to view my own transcript 
+                    so that I know exactly my studying progress
+
+USER STORY ~ USER REQS 
+
+* QC CHẮC CHẮN CŨNG CẦN ĐỌC NHỮNG USER REQS ĐỂ HIỂU APP, HIỂU GÓC NHÌN CỦA USER, ĐỂ SAU NÀY CÒN LÀM CÁC TEST CASE 
+
+(EARLY TESTING TRONG 7 VIÊN NGỌC RỒNG - 7 NGUYÊNN LÍ KIỂM THỬ)
+
+
+2.3 SYSTEM REQS (GÓC NHÌN WHAT, GÓC NHÌN APP CẦN LÀM GÌ CHO AI ĐÓ)
+                DÀNH CHO DEV TEAM
+ BA + DEV TEAM SẼ VIẾT RA NHỮNG CÂU NÀY, CÂU NÀY MANG NỘI DUNG KĨ THUẬT LẬP TRÌNH NHIỀU HƯỚNG VỀ CÀI ĐẶT/IMPLEMENTATION
+ USER, CUSTOMER KO CẦN ĐỌC
+ NÓ LÀ CHI TIẾT HƠN CHO USER REQS
+      1 USER REQ THÌ CÓ THỂ HIỄN ĐẠT THÀNH N REQUIREMENTS 
+
+Ví dụ: 
+
+  FAP App: 
+     User req (góc nhìn của người dùng, student, lecturer, academic staff)
+   - App cần cung cấp tính năng import/hay tạo danh sách sinh viên từ Excel của bên Tuyển sinh
+   - As a ... i want to import student list from Excel file so that...
+ 
+    MORE DETAIL HƠN CHO DÂN DEV, HOẶC ÍT NHẤT LÀ ĐỂ THỐNG NHẤT CÁCH LÀM
+    SYSTEM REQUIREMENTS 
+- App cần cung cấp tính năng import/tạo danh sách sv từ Excel 
+  - File Excel theo định dạng như sau: STT, Tên, Phone, Địa chỉ, Chuyên ngành,...
+  - Hệ thông sẽ quét từ trên xuống, import ds sv vào hệ thống, tự động genate mssv 
+   theo công thức <SExxxxxx>, xx: ứng với K nhập học, nay đang là K19
+                              xxxx còn lại tự tăng dần, và reset lại ở chuyên ngành khác
+                  <SSxxxxxx>, xx: ứng với 
+
+CUỐN SRS/SDD CỦA ĐỒ ÁN TỐT NGHIỆP, CỦA QUY TRÌNH LÀM PHẦN MỀM NÓ DÀY VÌ VIẾT CHI TIẾT REQUIREMENTS
+
+
+  2.3.1 FUNCTIONAL REQUIREMENTS     (FN)
+-  Câu phát biểu (statement) về việc APP PHẢI LÀM GÌ/CÓ CHỨC NĂNG GÌ/CÓ TÍNH NĂNG GÌ/CÓ MÀN HÌNH GÌ CHO AI ĐÓ DÙNG
+- viết chi tiết hơn so với user req
+- MANH MỐI: VERB _ OBJECT (có đc cái target, goal, purpose - làm gì cũng phải có mục đích)
+* Ví dụ: app cần có tính năng tạo mới giỏ hàng, đơn hàng
+         mã đơn hàng 
+
+  2.3.2 NON FUNCTIONAL REQUIREMENT   (NF)
+- Câu phát biểu (statement) VỀ TRẢI NGHIỆM, CẢM XÚC MÀ APP ĐEM LẠI CHO USER
+                            VỀ TÍNH CHẤT, CHẤT LƯỢNG MÀ APP CẦN CÓ CHO USER
+ADJECTIVE TÍNH TỪ MÔ TRẢ CHẤT LƯỢNG
+
+- Ví dụ: App dễ dùng 
+         App màu sắc hài hòa
+         App an toàn 
+         App chạy nhanh
+         App hỗ trợ cùng lúc X users
+         sau 3s khi lick, app phải trả về kq ngay và luôn
+
+MẸO: nhanh- chậm, đẹp-xấu-dễ dùng, đa nền- đa ngôn ngữm 
+
+NON            -                      FUNCTIONAL
+ko focus, ko tập trung
+ko ép/ghép cụ thể vào 1
+chức năng nào cả, mà nói 
+chung cho toàn bộ app
+
+APP DỄ DÙNG (CHO TOÀN APP), tui ko đề cập 1 chức năng nào cụ thể, mà chơi toàn app lun
+
+* LƯU Ý CHO NF:
+
+- HÃY VIẾT CÂU NF NÀY PHẢI THẬT SỰ CỤ THỂ, CÓ ĐỘ ĐO - METRICS
+  KO CÓ ĐỘ ĐO, SẼ TRANH CÃI LÀ ĐÃ ĐẠT ĐƯỢC HAY CHƯA
+
+    app phải chạy nhanh -> thế nào là nhanh???
+                         viết lại: app chạy nhanh, mỗi xử lí ko quá 3s 
+                          cứ căn cứ theo 3s mà đo, để xem NF đã thỏa chưa
+- NHANH: TÍNH = GIÂY
+- ĐẸP: : CĂN CỨ THEO STYLE THIẾT KẾ, NGÔN NGỮ THIẾT KẾ
+- DỄ DÙNG: CĂN CỨ THEO THỜI GIAN TRAINING, 30 PHÚT DÙNG NGON
+- BẢO MẬT: tiêu chuẩn mã AES (Advanced Encryption Standard)
+
+XEM THÊM CÂY BẢN ĐỒ TƯ DUY CỦA MÔN SWE TRÊN GITHUB
+
+---------------------------------------
+- USER REQS (USER STORY): CÂU PHÁT BIỂU VỀ TÍNH NĂNG PHẦN MỀM CẦN CÓ, ĐC VIẾT DỄ ĐỌC DỄ HIỂU VỚI DÂN THƯỜNG
+- SUSTE, REQS: CÂU PHÁT BIỂU CHI TIẾT HƠN CHO USER REQS, CÓ NÓI CÁC CHI TIẾT KĨ THUẬT CÀI ĐẶT (1 - N, 1 USER REQS CÓ NHIỀU SYSTEM REQS)
+-------------------------------------------
+
+IX. STAKEHOLDERS - NHỮNG NGƯỜI LIÊN QUAN 
+- Những người có tham gia, dính đến việc làm 1 cái app nào đó
+- Lý thuyết: stakeholders gồm 
+                            dev team, 
+                            phía khách hàng (gã đặt hàng làm app)
+                            user - những người sẽ xài cái app mình viết
+                  ví dụ BV Chợ Rẫy đặt hàng FSoft làm app QLBV
+                  stake holders gồm
+                                  dev team (công ty IT mình đang làm việc)
+                                  phía khách hàng, chính là BV, giám đốc BV,trưởng khoa,
+                                  bác sĩ, bác sĩ xét nghiệm, bác sĩ chụp chiếu, nhân viên thu ngân,
+                                  tiếp tân
+                                  (vừa là khách hàng, vừa là user - xài app)
+
+NHƯNG TRONG THỰC TẾ LÀM ĂN, LÀM DỰ ÁN PHẦN MỀM, HAY CẤC DỰ ÁN NON-IT THÌ
+STAKEHOLDERS HAY ĐC NGẦM HIỂU LÀ PHÍA KHÁCH HÀNG, PHÍA USER
+
+Ba Má dẫn mình đến cửa hàng Yamaha để mua con xe! 
+                                                 EXCITER cho MÌNH dùng
+Ba Má là customer of Yamaha
+         người xuống tiền, yêu cầu dịch vụ
+                                          con xe EXCITER
+                                                     Mình dùng, Mình là User
+Ba Má dẫn mình đến cửa hàng Yamaha để mua con xe NVX cho Ba Má dùng
+
+Ba Má là customer đồng thời là user. USER GÃ XÀI APP 
+
+PHÂN LOẠI STAKEHOLDERS
+1. DEV TEAM 
+- PM (Project Manager) có quyền đuổi người khỏi dự án; quản lí về dự án: time ql 
+thời gian/budget - tiền bạc/scope - những tính năng cần làm cho app/HR - human 
+resource - quản lí con người, nhân lực
+PM chơi với Project Requirements
+HỌC CHỨNG CHỈ PMP/PMI - Nên đi làm từ 1 năm rồi mới nên học chứng chỉ này
+                       vì đi làm thì mới quen đc các khái niệm khi làm dự án;
+                       dễ dàng tiếp thu kiến thức chứng chỉ     
+
+                      - Sách luyện chứng chỉ: PM BOK - Body Of Knowledge
+- Developer/Dev
+- QC/Tester
+- BA cũng là dev team nhưng ta tách ra trong bối cảnh môn học này
+
+2. BA, PO, BrSE, Product Manager
+- BA
+Những gã này đều liên quan đến reqs, nhiệm vụ của những gã này là tìm ra đc các reqs. Tìm reqs thì nó lại liên quan đến loại app
+Có mấy loại app?
+- App generic (app quốc dân), tự cty nghĩ ra cái app này sau khi khảo sát thị trường, thấy có cơ hội làm app cho bá tánh xài
+                                                                                                     gã tự nghĩ ra reqs, gọi là: PO, Product Manager (sếp PO)
+
+
+
+- App customized (app độ riêng), cty p/m ko cần tự nghĩ ra app, mà có bên ngoài đến đặt hàng làm app riêng cho họ 
+cần có gã nói chuyện đc với bên đặt hàng: gã BA, BrSE (Bridge Software Engineer - hay xuất hiện khi làm việc với cty Nhật Bản trong mô hình outsource)
+                                                 Kĩ sư cầu nối, nối giữa Japan và Việt Nam 
+
+BA, BrSE        --- khách hàng cụ thể nào đó
+PO/Prod Manager --- tự nghĩ, tự dòm thiên hạ
+
+*BA 
+- Những từ gây nhầm lẫn
+ - BA: Business Administration - Quản trị kinh doanh, khối ngành kinh tế
+ - MBA: Master of Business Administration - Thạc sĩ quản trị kinh doanh, khối ngành kinh tế 
+                     - dân SE đc quyền học món MBA, chỉ cần học thêm vài môn kinh tế
+                       trước khi thi tuyển
+                     - Việt Pháp, Việt Đức, FSB Viện đào tạo quản lí F 
+
+ - BA: Business Analytics - Phân tích kinh doanh, thuộc khối ngành kinh tế
+                     
+                    *CHỐT HẠ
+                      BẰNG CẤP - DEGREE (vô thời hạn)
+                      KHÁC VỚI CHỨNG CHỈ CERTIFICATE (có thời hạn)
+
+ - BA: Business Analyst (BA trong lĩnh vjwc IT, IT BA)********************************
+        CHUYÊN VIÊN ĐI (GẶP) KHÁCH HÀNG 
+----------------------------------------------------------------
+
+BÀN VỀ BA - CON NGƯỜI CÓ VỊ TRÍ TRONG CÔNG TY, JOB TITLE, CHỨC DANH NGHỀ NGHIỆP
+- nó là 1 vị trí tuyển dụng việc làm, nhưng ko dễ xin, do ảnh hưởng đến khách hàng
+- có thể xin thực tập: BA ở cty service-based như Fsoft
+                       PO ở cty product-based như Momo, GHTK, Grab,...
+                                PO dễ có hơn
+
+1. ĐỊNH NGHĨA BA
+- Gã ngành SE, hoặc non-SE, chịu trách nhiệm tìm ra tính năng phần mềm từ khách hàng gã này sẽ giao tiếp với tất cả các bên liên quan
+đặc biệt là giao tiếp với mọi thành viên trong dev team 
+
+2. CÔNG VIỆC CHÍNH CỦA BA
+- Tìm ra các requirements từ thế giới khách hàng!!! CÔNG VIỆC CHỦ ĐẠO, CHÍNH YẾU 
+REQS có 2 loại (FN, NF)
+- Tìm ra các nhóm người dùng/đám user xài app; identify the USER GROUP, USER ROLE,
+USER CLASSES 
+- Tạo ra các SPECIFICATION, DOCUMENT CHỨA CÁC REQS TÌM THẤY 
+- Quản lí sự thay đổi của các tính năng 
+  Các version khác nhau của phần mềm liên quan đến: thêm tính năng, fix bug
+  Những sự thay đổi này của app cần đc lưu lại để dành cho việc support sau này
+khi app bị bug, lỗi, xem lỗi xảy ra ở version nào; để mở lại code của version kiểm tra,
+tìm nguyên nhân, fix
+
+Quản lí toàn bộ các reqs, và sự thay đổi của requirements, nằm ở TẬP TIN TÊN LÀ CHANGE LOG, HOẶC
+RELEASE NOTES, HOẶC Ở TOOL XỊN SÒ: JIRA CONFLUENCE tool dùng để quản lí reqs 
+
+3. CÁC KĨ NĂNG CẦN CÓ CỦA NGHỀ BA                                  /PO/PRODUC MANAGER
+3.1 KĨ NĂNG CỨNG HARD SKILLS
+- Kĩ năng ngành SE là điều căn bản (nên) phải có
+- Học thêm kiến thức về BA - chứng chỉ BA
+- 
+3.2 KĨ NĂNG MỀM SOFT SKILLS 
+- Kĩ năng phỏng vấn/đặt câu hỏi. BA phải đặt câu hỏi với khách hàng với user
+ Ví dụ làm app QLBV thì phải biết cách đặt câu hỏi với bác sĩ, y tà, quầy thu ngân, tiếp tân
+Quầy thu ngân, tiếp tân: nhận bệnh, tạo hồ sơ bệnh nhân, thu tiền khám, phân bổ bệnh nhân về phòng khám
+Bác sĩ: ko cần tạo lại hồ sơ bệnh nhân vì quầy thu tiền đã có; bác sĩ chỉ cần xem lại lịch sử đơn thuốc 
+tạo mới đơn thuốc
+
+
+HỎI CÂU CHUYỆN NGƯỜI TA ĐANG LÀM, HIỂU AS IS SYSTEM ĐỂ RA ĐC TO BE SYSTEM
+NHỮNG CHUYỆN NGƯỜI TA ĐANG LÀM BẰNG TAY THÌ NAY SẼ LÀM BẰNG APP CỦA MÌNH
+Đặt câu hỏi có 2 loại câu hỏi
+- Câu hỏi đóng (close-end question) Yes/No Multiplechoice
+             loại câu hỏi khi đc hỏi thì câu trả lời chỉ có vài đáp án 
+             ví dụ:- liệt kê các loại giảm giá mà cửa hàng đã áp dụng
+                   - có làm bản đồ gắng với event hay ko???
+                   - có cần lưu ngày sinh của bệnh nhân?
+                   - có cần báo cáo danh thu theo tuần hay ko?  
+DÙNG ĐỂ CONFIRM VỀ REQUIREMENTS, XÁC ĐỊNH CHÍNH XÁC LỰA CHỌN TRONG CÁC LỰA CHỌN
+BA CÓ KINH NGHIỆM VỀ DỄ DÙNG DẠNG CÂU HỎI NÀY
+
+- Câu hỏi mở(open-end question) Câu hỏi essay
+  còn gọi là câu hỏi dò thông tin, vì đáp án, câu trả lời là tự dom tùy khách hàng trả lời
+  DÙNG ĐỂ HIỂU AS-IS SYSTEM, DO BA ĐỨNG NGOÀI CTY, NGOÀI DOANH NGHIỆP Ở GÓC ĐỘ VẬN HÀNH 
+CHO NÊN PHẢI DÒ TỪNG THÔNG TIN, ĐỂ HIỂU CÁCH HỌ ĐANG LÀM -> TÌM RA ĐC GIẢI PHÁP TIN HỌC HÓA
+
+CÂU HỎI ĐC ƯU TIÊN SỬ DỤNG, ĐỂ HIỂU AS-IS
+
+
+
+*TƯ DUY HỆ THỐNG - SYSTEM THINKING 
+-Khi viết app, phải nhìn app trong tổng thể một hệ các app đã đang sẽ có phục vụ cho nhu cầu của khách hàng. 
+Đừng bao giờ nhìn app đứng 1 mình, mà phải nhìn app có giao tiếp với app khác; vì nhìn ra điều này sẽ giúp ta/dev team có những tính toán trong việc thiết kế và mở rộng app sau này
+- Ví dụ: viết app bán hàng/thu ngân; CHẮC CHẮN CŨNG SẼ CÓ NGÀY DÍNH ĐẾN APP QUẢN LÍ KHO, KẾ TOÁN,... VÌ BÁN THÌ LIÊN QUAN HÀNG, HÀNG THUỘC KHO, TIỀN, TIỀN THUỘC KẾ TOÁN
+
+                       app login = thứ khác cách login truyền thống (user/pass), chính là: Gmail, FB, device
+                       app bán hàng online, có khi là web app nhưng cũng có thể là MOBILE 
+                       app ATM, thẻ liên ngân hàng, chuyển tiền liên ngân hàng
+                       VIẾT SẴN API ĐỂ EXPORT HÀNH ĐỘNG CỦA APP RA BÊN NGOÀI
+                       APP CŨNG SẴN SÀNG XÀI API CỦA BÊN KHÁC!!!
+
+                     MoMo chạy qua chạy lại giữa ngân hàng, app khác nhau 
+
+* TỔ CHỨC VÀ ĐIỀU PHỐI - ORGANIZER, FACILITATOR
+- Có những tình huống BA giao tiếp cùng lúc với nhiều user/ai đó cụ thể bên phía khách hàng
+Ví dụ: để hiểu quy trình khám bệnh của BV khi nhận viết cái app QLBV thì BA 
+     phải phỏng vấn nhân viên bệnh viên để hiểu quy trình khám/chữa bệnh, mún hiểu cả quy trình 
+     thì phải mời/nói chuyện với: quầy nhận bệnh - bác sĩ - bác sĩ xét nghiệm/chụp chiếu
+     BA tiệm nhất là làm việc cùng lúc với bác sĩ, nhân viên, bác sĩ xét nghiệm, chụp chiếm
+                              > anh là người biết quản lí nhóm, điều phối phiên họp
+                                có nhiều khách hàng/user cùng tham gia
+Làm cho n người trong cùng 1 phiên họp/thảo luận, họp để tìm reqs, họp để hiểu as-is system PHỐI HỢP ĐC CÙNG VỚI NHAU VÀ CUNG CẤP ĐỦ THÔNG TIN CHO BA VỀ CÁI APP ĐANG LÀM (to be system)
+
+* MÔ HÌNH HÓA - VẼ ĐC CÁC MÔ HÌNH
+- Dân BA để hiểu đc việc các cty hoạt động thế nào, khi nghe phỏng vấn, trả lời từ khách hàng, thì BA phải vẽ lại đc các luồng thông tin, luồng xử lí của khách hàng hiện đang dùng 
+ 
+- BA cũng phải biết vẽ 1 loạt các loại mô hình để phản ánh đc cách mà khách hàng đang vận hành công việc, vẽ phác thảo đc những UI, DB của app sẽ làm
+
+HÌNH VẼ SẼ DỄ DÀNG TRUYỀN ĐẠT CÁI AS-IS SYSTEM ĐANG DIỄN RA NHƯ THẾ NÀO 
+       CŨNG DỄ DÀNG THỐNG NHẤT VỀ CÁC TÍNH NĂNG SẼ LÀM THÔNG QUA XEM CÁC MÀN HÌNH CHẠY NHÁP THẾ NÀO (FIGMA, BALSAMIQ)
+
+Có câu: A PICTURE IS WORTH MORE THAN THOUSAND OF WORDS
+
+3.3 CÁC KĨ NĂNG/KIẾN THỨC KHÁC CẦN CÓ 
+- Phải đọc các tin tức về xã hội, để có thể là nền tảng giúp cho ta tìm ra các giải pháp phần mềm khi thấy nhunwgx điều bất cập/PAIN xung quanh
+Ví dụ thẻ tích điểm = đóng dấu là 1 cách quản lí KHTT thủ công
+-> cơ hội làm app là gì???
+
+KHI CÓ APP SẼ GIÚP CHO AI ĐÓ GIẢI TỎA ĐC NỖI ĐAU, ĐẠT ĐC GỌI LÀ GAIN [PAIN/GAIN]
+Thu mua ve chai truyền thống
+  pain: chạy xe không rao/la việc thu mua
+        chờ mãi chả thấy ai đến gom để bán để bỏ heo
+
+  gain: app kết nối 
+- HỌC, ĐỌC VỀ KIẾN THỨC CHUYÊN NGÀNH MÀ APP SẼ ĐC VIẾT,
+              KIẾN THỨC CHUYÊN NGÀNH VỀ NHÁNH/HƯỚNG MÀ CTY PHẦN MỀM MÌNH THEO ĐUỔI
+Ví dụ: Công ty Misa là công ty chuyên về làm phần mềm kế toán
+       tui là dev, BA của cty, tui phải học về kế toán, và quan tâm đến các thông tin đc phát hành từ BỘ TÀI CHÍNH: thông tư, nghị định, hướng dẫn...
+      Công ry FSoft có nhiều nhánh sản phẩm, có nhánh làm app cho ngân hàng 
+      BA nhánh này hiểu về các nghiệp vụ ngân hàng
+
+
+     LÀM APP LOẠI NÀO, CẦN HỌC HIỂU NGHIỆP VỤ (CÁCH KHÁCH HÀNG LÀM VIỆC) CỦA APP ĐÓ 
+
+ĐÂY ĐC GỌI LÀ DOMAIN KNOWLEDGE - KIẾN THỨC CHUYÊN NGÀNH (CỦA APP ĐANG LÀM)
+                                KO PHẢI KIẾN THỨC CHUYÊN NGÀNH SE
+
+- BA KO CHỈ LÀ NGHE KHÁCH HÀNG NÓI, MÀ CÒN TƯ VẤN NGƯỢC LẠI 1 GIẢI PHÁP TỐT, HỢP LÍ CHO KHÁCH HÀNG
+Nghe khách hàng kể về tích điểm đóng dấu -> BA tư vấn là tích điểm theo cố tiền mua mỗi khách hàng 1 QR
+Nghe khách hàng kể về bán hàng ở nhà hàng: tiếp tân chào mời 
+                                           bồi bàn đưa menu, ghi giấy
+                                           gọi vào nhà bếp chế biến
+                                           khách thêm món/ghi giấy, gọi nhà bếp
+
+BA tư vấn, để xuất
+            - khách gọi món, tiếp tân nhập; bồi nhập món; nhà bếp có máy in
+             in những món cần chế biến 
+
+ 
+3.4 LÀM SAO ĐỂ CÓ THỂ TRỞ THÀNH BA/PO?
+- PM - Project Manager - gã này vừa làm việc với khách hàng, vừa làm việc với dev team, hiểu tính năng hiểu nhu cầu khách hàng, lại hiểu về công việc lập trình.
+
+- QC/TESTER: GÃ NÀY CỰC KÌ HIỂU APP Ở GÓC ĐỘ NGƯỜI DÙNG, thiết kế test case chính là xài được phần mềm ở vai trò user; hiểu tính năng, hiểu màn hình đáp ứng được 
+cho nhu cầu user -> chuyển sang app khác cùng phân khúc, dùng lại được các kĩ năng. LÀM BA CHO APP CÙNG PHÂN KHÚC, QC PHÙ HỢP, VÌ ĐÃ BIẾT TÍNH NĂNG, NHU CẦU CỦA USER.
+(Cùng phân khúc: làm app cho 7-11 cũng giống như GS25 cũng giống như Circle-K)
+
+- DEVELOPER ĐƯỢC LUÔN, TUY NHIÊN PHẢI HỌC THÊM SOFTSKILLS, ĐẶC BIỆT LÀ GIAO TIẾP
+(Kỹ năng code của dev sẽ giúp BA đánh giá nhanh reqs khách hàng nói implement khó dễ ra sao biết được ERD thế nào, nghe khách hàng nói infor cần lưu trữ, xử lý là hình
+dung ngay solution)
+
+- EXPERT-USER: GÃ USER XÀI APP ĐẾN MỨC PRO; GÃ NÀY CŨNG LÀ 1 ỨNG VIÊN CHO VỊ TRÍ BA, TUY NHIÊN BA VỀ TÍNH NĂNG, KHÔNG ĐI SÂU ĐƯỢC VÀO DEV TEAM, DO XUẤT PHÁT ĐIỂM CỦA 
+ANH TA LÀ USER, NON-TECH
+
+	       Ví dụ: Style of Me, Virus, Chim Sẻ Đi Nắng...gã pro trong game => review, bình luận, chê, khen tính năng, game nào đó; có nhiều kĩ năng chơi 
+		      => đề xuất tính năng cho tựa game mới okie...vì đã lăn lộn trong giới game, nắm được tâm lí gamer, biết gamer cần gì, thích gì và không thích gì
+		      HỢP TÁC HÃNG GAME ĐỂ ĐÓNG VAI BA, PO
+		      BA, PO CHO 1 LÃNH VỰC MÀ GÃ CHUYÊN SÂU !!!
+
+- BA TỪ DEV, SE, DĨ NHIÊN DỄ DÀNG ĐỔI NHÁNH APP: BÁN HÀNG, NGÂN HÀNG, BẢO HIỂM, TRƯỜNG HỌC, XUẤT NHẬP KHẨU...
+
+- ROOKIE BA: CHỦ ĐỘNG CHỌN BA LÀM NGHỀ, HÀNH NGHỀ
+	- Học kĩ năng cứng (SE) và mềm
+	- Làm đệ tử cho 1 gã BA có nghề, thâm niên -> đi cùng gã này để học nghề
+
+ * DÙ LÀ XUẤT PHÁT TỪ AI, BẠN CŨNG BẮT BUỘC PHẢI HỌC CHỨNG CHỈ BA
+	- IIBA là tên tổ chức cấp chứng chỉ BA.
+	- Scrum.org: là tên tổ chức cấp chứng chỉ PO.
+	- PMI: là tên tổ chức cấp chứng chỉ PM, và cả BA.
+
+Chứng chỉ BA chia nhiều level
+
+LỜI KHUYÊN: NÊN ĐI LÀM TỪ 1 NĂM TRỞ LÊN THÌ MỚI NÊN ĐĂNG KÝ HỌC CHỨNG CHỈ BA VÌ NGHỀ NÀY GIAO TIẾP VỚI XÃ HỘI, PHẢI ĐI LÀM TRƯỚC THÌ MỚI HIỂU ĐƯỢC CÂU CHUYỆN BA DÍNH 
+ĐẾN XÃ HỘI
+
+NGAY TẠI THỜI ĐIỂM ĐI HỌC, CÓ THỂ XEM TRƯỚC TÀI LIỆU LUYỆN THI CHỨNG CHỈ BA => Google "BA BOK" BOK: Body of knowledge
+VN: bacs.vn, FPT Software Academy
+
+
+=======================================================================================================================================================================
+3. CUSTOMER - 4. USER
+
+- Customer: nguời đặt hàng làm app. Tùy loại app, tùy loại mô hình công ty mà customer có thể khác nhau; NHƯNG ĐIỂM CHUNG LÀ: GÃ ĐƯA RA ĐỀ NGHỊ LÀM APP, GÃ ĐƯA RA MONG
+ĐỢI VỀ TÍNH NĂNG PHẦN MỀM MÀ ANH EM DEV TEAM MÌNH PHẢI VIẾT
+
+- User: người xài app, mở app lên, nhấn chuột, input gõ từ bản phím nhập data, click để xem app trả về kết quả.
+
+	2. GÃ NÀY CÓ THỂ LÀM 1, CÓ THỂ LÀ 2 GÃ KHÁC NHAU TÙY LOẠI APP, TÙY LOẠI CÔNG TY MÀ APP XUẤT HIỆN NHƯNG ĐỀU LÀ GÃ LIÊN QUAN LÀM APP, ĐƯA RA YÊU CẦU, ĐƯA RA TÍNH 
+	NĂNG PHẦN MỀM
+
+Ví dụ đời thường
+	- Ba má dẫn mình đi đến tiệm Yamaha mua con NVX cho ba má xài => Customer of Yamaha, User of NVX, product by NVX 
+									(tui mua và tui xài: mua là khách hàng, xài là user)
+
+	- Ba má dẫn mình đến tiệm Yamaha mua con xe Exciter cho mình xài => Customer (ba má), User of Exciter (mình) 
+									  	  (tui mua và người khác xài)
+	
+	CÔNG TY PHẦN MỀM ............. BỆNH VIỆN CHỢ RẪY
+					     7-11
+					    FPT UNI
+				     giám đốc, hiệu trưởng
+			<$	 xuống tiền cho công ty phần mềm
+			-------------> app
+
+					     tui mua				ai xài??? TÙY NGỮ CẢNH
+					 				giám đốc bv khô xài app nhưng bác sĩ thì xài
+								  thầy hiệu trưởng không xài nhưng gv, sv, nv đào tạo xài
+
+
+	THẾ GIỚI DI ĐỘNG CÓ NUÔI DÀN DEV RIÊNG (BA, PO)
+	GRAB			     DEV RIÊNG (BA, PO)
+	LAZADA,SHOPEE		     DEV RIÊNG (BA, PO)
+
+	TGDD: Dàn Dev, BA nhận yêu cầu làm app từ: PHÒNG KẾ TOÁN, KHO, BÁN HÀNG (nhiều nhân viên)
+	      Phòng kế toán, kho, bán hàng đặt hàng bạn dev làm app CHO HỌ XÀI
+				  		(customer & user)
+
+	SHOPEE, MOMO: Dàn Dev riêng (BA, PO)
+		      Sếp lớn về kinh doanh yêu cầu thêm tính năng cho app Shopee, Momo
+		      (Customer)			of dàn Dev
+		      Code xong sếp không xài, mà BÁ TÁNH NGOÀI KIA LÀ USER
+
+CHỐT HẠ: BA, PO THÌ: ĐỀU PHẢI THƯỜNG XUYÊN LÀM VIỆC VỚI DÂN NON-TECH, DO ĐÓ KĨ NĂNG XÃ HỘI, SOFTSKILLS CỰC KÌ QUAN TRỌNG 
+	 KĨ NĂNG NGOẠI NGỮ KHÔNG KÉM PHẦN QUAN TRỌNG DO CÁC DỰ ÁN P/M Ở VN PHẦN NHIỀU LÀM VIỆC VỚI NƯỚC NGOÀI
+
+USER, CUSTOMER CHIA 2 NHÁNH NHỎ
+* DIRECT USER
+- Người dùng trực tiếp
+  Những user trực tiếp mở app lên, nhập info/data, nhấn nút, chờ app xử lí, dùng kết quả xử lí để hoàn thành công việc của họ
+
+  Ví dụ: app FAP, student, lecturer, academic staff là direct user vì họ dùng app trong công việc học hành/đào tạo
+	 app Lazada, Shopee, tui, bạn, customer mua hàng là direct user
+	 Garena: tui, bạn, các game thủ là direct user
+
+* INDIRECT USER
+- Người dùng gián tiếp
+  LÀ NHỮNG GÃ CẦN THÔNG TIN XỬ LÍ TỪ APP NHƯNG KHÔNG TRỰC TIẾP CHẠM SỜ APP
+	- THƯỜNG LÀ CÁC SẾP Ở NGOÀI ĐỜI
+	  Thầy hiệu trưởng ............ app FAP; thầy hiệu trưởng không có account FAP
+	  nhưng vẫn cần thông tin từ FAP để ra quyết định!!!
+	  dàn lính tức là direct user xài FAP để lấy info đưa cho thầy HT
+	
+	CÁC INFO NÀY THƯỜNG LÀ INFO TRONG DASHBOARD!!! info trond dashboard chính là info gom nhóm, tổng hợp cho ra xu hướng, cho ra được cái thống kê
+	- Thống kê doanh thu theo ngày, tuần, tháng
+	- Thống kê doan thu theo sản phẩm
+	- Bao nhiêu user mới đăng ký trong tháng
+	- Bao nhiêu cmt/feedback tệ về....
+
+	SELECT COUNT, SUM, AVG, MIN, MAX CÓ GROUP BY <CHIA NHÓM MÀ ĐẾM>
+
+  CÁC SẾP CẦN INFO NÀY, NHƯNG KHÔNG LOGIN VÀO ĐỂ XEM, LÍNH LẤY GIÙM 
+
+CHỐT HẠ QUAN TRỌNG: KHÔNG ĐƯỢC BẮT CÁC SẾP NGOÀI ĐỜI CẦN PHẢI CÓ ACCOUNT ĐỂ XÀI APP
+		    KHÔNG ĐƯỢC BẮT CÁC SẾP NGOÀI ĐỜI LÀM ADMIN, ĐỂ CRUD SẢN PHẨM, CRUD USER
+
+  CHO SẾP LÀM ADMIN, CHÚNG MÌNH BỊ ĐUỔI
+
+  SẾP MƯỚN CHÚNG MÌNH VỀ LÀM ADMIN !!!
+
+  ADMIN: ANH LÀ GÃ ĐƯỢC MƯỚN VỀ QUẢN LÝ DATA, ĐỂ DATA SẴN DÙNG CHO MỌI USER KHÁC
+
+	ADMIN KHÔNG ĐỒNG NHẤT VỚI CÁC SẾP TO NGOÀI ĐỜI !!!
+	SẾP NHỎ VẪN CÓ THỂ LÀ ADMIN, VÍ DỤ TRƯỞNG PHÒNG KINH DOANH LÀ SẾP NGOÀI ĐỜI, LÀ GÃ CHỦ ĐỘNG UPDATE GIÁ SP TRONG APP
+
+- NGƯỜI MÀ CÓ QUYỀN CRUD DATA MẠNH, ĐÓ ĐƯỢC XEM LÀ ADMIN, không cần account phải tên là: Admin, mod, moderator, ad, admin, administrator; mà trường phòng Hoangnt cũng
+  là admin được rồi.
+
+  ADMIN LÀ ROLE, KHÔNG CẦN LÀ USER NAME
+
+  - Phòng đào tạo trường mình: lien, dung, duong, thy, hanh,...admin của FAP
+    THẦY HT INDIRECT USER VÌ YÊU CẦU CHÚNG TÔI ĐƯA INFO    
+
+
+5. USER PERSONA
+- CHÂN DUNG NGƯỜI DÙNG (HAY DÙNG BÊN KHỐI NGÀNH KINH TẾ - MARKETING)
+- CHỈ DÙNG Ở LOẠI HÌNH CÔNG TY LÀM PRODUCT (NGÀNH NÀO CŨNG ĐƯỢC)
+- CỨ LÀM PRODUCT/GENERIC APP, CỨ LÀM APP, SẢN PHẨM (NGÀNH KHÁC) HƯỚNG ĐẾN SỐ ĐÔNG NGƯỜI DÙNG APP QUỐC DÂN, SẢN PHẨM QUỐC DÂN, SẼ XA USER PERSONA
+
+Microsoft, AWS, Riot, EASport, Ninteneo, Momo, Grab,...- NHỮNG SẢN PHẨN TỰ CÔNG TY NGHĨ RA
+							(Không làm theo đặt hàng cụ thể của ai đó)
+							(làm theo đặt hàng cụ thể doin là SERICE-BASED, OUT-SOURCE)
+- Những công ty làm product bản chất là: LÀM APP THEO ĐƠN ĐẶT HÀNG CỦA BÁ TANH TOÀN THIÊN HẠ
+ (bỏ tiền túi trước, làm, bán, ban càng nhièu càng tốt - CÓ THỂ SẬP TIỆM HOẶC 1 ĐẾ CHẾ)
+
+  ĐỂ LÀM CÁC SẢN PHẨM NÀY, BẮT BUỘC PHẢI ĐI QUA 1 QUÁ TRÌNH GỌI LÀ: NGHIÊN CỨU THỊ TRƯỜNG
+
+Nghiên cứu thị trường để tìm ra được gu/nhu cầu/thói quen/mong ước của tập khách hàng dự kiến mà app ta/sản phẩm cảu ta sẽ nhắm tới !!!
+
+CHÍNH LÀ VIỆC THIẾT KẾ CÁC SURVEY, GOOGLE FORM, BẢN CÂU HỎI VÀ ĐI THU THẬP PHẢN HỒI
+
+- SAU KHI KHẢO SÁT THỊ TRƯỜNG TA TÌM RA ĐC TREND/GU/MONG ƯỚC CỦA USER/BÁ TÁNH
+
+[BẠN HAY NHẬN ĐC LINK ĐIỀN VÀO SURVEY GOOGLE FORM, ĐÓ CHÍNH LÀ BÀI THỰC HÀNH KHẢO SÁT THỊ TRƯỜNG, NHU CẦU CỦA 1 NHÓM LÀM DỰ ÁN, HỌ TÍNH TOÁN ĐƯA RA 1 SẢN PHẨM X NÀO ĐÓ RA THỊ TRƯỜNG
+- SHARK CŨNG LUÔN HỎI: ĐÃ KHẢO SÁT NHU CẦU CHƯA, SỐ LIỆU ĐÂU??? NHU CẦU USER/NHỮNG KHÁCH HÀNG BẠN/SẢN PHẨM HƯỚNG TỚI LÀ GÌ???
+- KHẢO SÁT THƯỜNG DÀNH CHO APP GENERIC/PRODUCT
+
+- HÃNG GAME, LÀM TOOL LUÔN TÌM CÁCH CÓ ĐC TREND/GU/NHU CẦU CỦA BÁ TÁNH
+       GAME: LÀM TRIỂN LÃM GAME, PHÁT PHIẾU ĐIỀU TRA LẤY QUÀ TẶNG, LÊN FORUM, CHANNEL ĐỂ XEM REVIEW > TÌM RA ĐC CÁI GA 
+]
+
+
+- CÓ DATA SAU KHI SERVEY LÀ TÌM ĐC NHU CẦU -> SẴN SÀNG LÀM SẢN PHẨM 
+
+- CÓ ĐC DATA SAU KHI SERVEY, NGƯỜI TA LẤY MẪU SỐ CHUNG NHẤT, DỰNG LÊN HỒ SƠ GIẢ VỀ USER X NÀO ĐÓ 
+
+USER: NGUYỄN VĂN A 
+TUỔI: 25
+GIỚI TÍNH: NAM/NỮ
+TRÌNH ĐỘ: ...
+SỞ THÍCH LÚC RẢNH: ...
+GU THỜI TRANG: ...
+MUA SẮM: ...
+ẢNH ĐẠI DIỆN
+
+ĐÂY LÀ 1 USER GIẢ, ĐẠI DIỆN CHO 1 ĐÁM USER CÓ CÙNG HỒ SƠ NHƯ TRÊN -> NÓ CHO DEV TEAM CÁI CẢM GIÁC ĐÓNG VAI ĐC LÀM VIỆC VỚI USER THẬT NÀO ĐÓ -> DỄ DÀNG HÌNH DUNG RA TÍNH NĂNG CỦA PHẦN MỀM DỰA THEO HỒ SƠ ĐÃ ĐỀ CẬP
+
+HỒ SƠ GIẢ ĐẠI DIỆN CHO 1 ĐÁM USER THẬT GỌI LÀ USER PERSONA
+                                                       CHÂN DUNG NGƯỜI DÙNG (DÙNG TRONG KHỐI NGÀNH KINH TẾ CỰC NHIỀU)
+
+6. BILL OF... QUYỀN LỢI VÀ TRÁCH NHIỆM CỦA USER/CUSTOMER ĐỐI VỚI DỰ ÁN PHẦN MỀM ĐANG LÀM CHO CHÍNH HỌ
+- NẾU USER/CUSTOMER MUỐN CÔNG TYU MÌNH LÀM APP CHO HỌ DÙNG, VẬY USER/CUSTOMER 
+- CẦN PHẢI CÓ TRÁCH NHIỆM GÌ (Bill of Responsibilities)
+- USER CÓ QUYỀN ĐÒI HỎI GÌ Ở MÌNH/CTY PHẦN MỀM (Bill of Rights)
+(CỦA IX - STAKEHOLDERS)
+
+Requirements Bill of Rights for Software Customers - khách hàng có quyền đòi hỏi gì với cty phần mềm 
+
+- Anh/cty phần mềm: tui gửi tiền cho anh, anh viết app cho tui!!! HIỂN NHIÊN
+- YÊU CẦU BA, ANH PHẢI CÓ VỐN TỪ VỰNG GIỐNG NHƯ KHÁCH HÀNG TUI ĐỂ DỄ DÀNG NÓI CHUYỆN 
+ - Ví dụ: khách hàng là BV Chợ Rẫy, thì bác sĩ, giám đốc, bác sĩ xét nghiệm khi nói chuyện với BA nhà mình, họ sẽ dùng thuật ngữ y khoa: lâm sàng, xét nghiệm, trị số trung bình, dị ứng, tái khám, y lệnh, chỉ số sinh hiệu (vital signs - huyết áp, nhịp tim...)
+          chỉ định, chống chỉ định...
+        > phải có vốn từ vựng đủ để hiểu bác sĩ, bệnh viện đang chạy thế nào, run thế nào as is system thế nào, để còn chuẩn bị thiết kế các màn hình cho app sẽ viết
+          
+          khách hàng là shop thời trang, thì chủ shop, bé thu ngân, bé bán hàng sẽ nói về: ship, freeship, ordder, discount, COD, đồng kiểm, đổi trả, chuyển kho nội bộ, xuất hàng kiểu LIFO, FIFO, expired date 
+
+- YÊU CẦU BA, ANH PHẢI NGỒI XUỐNG NGHE CHÚNG TÔI KỂ VỀ CÁCH CHÚNG TÔI ĐANG LÀM VIỆC KHỔ SỞ THẾ NÀO KHI CHƯA CÓ APP CỦA CÁC ANH
+Ví dụ: BA, nghe tui kể về quy trình bán hàng nè:
+                       về quy trình khám chữa bệnh nè: 
+
+- BA, VÌ TÌNH HÌNH KINH DOANH CÓ THAY ĐỔI, NÊN TÔI THAY ĐỔI 1 VÀI CÁI YÊU CẦU, ĐỀ NGHỊ ÔNG XEM XÉT (change requirement)
+
+- Đồ án làm app: Quản lý TKB Đại Học FPT
+                  - nhóm SE hỏi bên Phòng Đào Tạo về việc làm TKB 
+                  - Phòng Đào Tạo trả lời TKB sắp xếp theo bloack 6 tuần!!!
+                                    đang làm app thì trường đổi block 10 tuần!!!
+                  - Nhóm SE phải sửa db, để lưu đc thời khóa biểu mới!!!
+- Bộ tài chính có sửa đổi về mức tính thuế thu nhập cá nhân/giảm trừ gia cảnh 
+- Giảm từ gia cảnh từ 9 triệu nhảy lên 11 triệu 
+              người phụ thuộc trừ 3 triệu 6 lên 4.4 triệu
+
+CODE CỦA CÁI APP QUẢN LÍ NHÂN SỰ VÀ TIỀN LƯƠNG PHẢI UPDATE THEO!!!
+
+- ChatGPT phiên bản đầu tiên ko có tính năng ưu tiên server lúc cao điểm; nhu cầu quá cao về sử dụng của user, thấy mùi tiền, bổ sung tính năng ChatGPT Plus
+
+VIỆC THAY ĐỔI REQUIREMENTS ĐẾN TỪ CHÍNH SÁCH NHÀ NƯỚC, NHU CẦU KINH DOANH CỦA KHÁCH HÀNG
+-> BA ÔNG PHẢI HIỂU VỀ ĐIỀU NÀY ĐỂ TÍCH HỢP VÀO TRONG APP ÔNG ĐANG LÀM CHO TUI
+
+
+Requirements Bill of Responsibilities for Software Customers - KHÁCH HÀNG, ÔNG ĐÃ ĐÒI CHÚNG TÔI XYZ VẬY ÔNG PHẢI CÓ TRÁCH NHIỆM GÌ VỚI BA/CTY PHẦN MỀM CHÚNG TÔI
+- Khách hàng/user, anh đặt hàng chúng tôi làm app, anh đưa tiền cho chúng tôi, anh nhận về app vậy anh cần phải làm thêm những điều sau để chúng tôi làm app ngon cho các anh
+
+* KHÁCH HÀNG, ÔNG PHẢI CÓ TRÁCH NHIỆM CHUYỂN GIAO/TRAIN CÁC NGHIỆP VỤ (BUSINESS) CÁC CÁCH MÀ CÁC ÔNG ĐANG LÀM VIỆC = TAY, EXCEL, APP CŨ, KỂ CHO CHÚNG TÔI VỀ AS IS CỦA CÁC ÔNG 
+- các ông đang khám bệnh, kê thuốc, xét nghiệm ra sao, để tui làm màn hình
+- các ông đang tính lương nhân viên ra sao, để tui làm app tính lương 
+- các ông đang quản lí sinh viên điểm thi ra sao, để tui làm app FAP, Quản lí đào tạo 
+* KHÁCH HÀNG, ÔNG BẬN VIỆC CỦA ÔNG, NHƯNG CŨNG CẦN DÀNH CHÚT THỜI GIAN CHO BA CHÚNG TÔI ĐỂ CHÚNG TÔI HỎI, LÀM RÕ VỀ REQS
+
+* KHÁCH HÀNG, ÔNG PHẢI CUNG CẤP THÔNG TINH CHÍNH XÁC, CHÍNH XÁC THÌ MỚI LÀM MÀN HÌNH VÀ NÚT NHẤN XỬ LÍ CHÍNH XÁC ĐC THEO CÁCH CÁC ÔNG MUỐN
+
+* KHÁCH HÀNG, ÔNG PHẢI ĐƯA RA TIÊU CHÍ XÁC NHẬN TÍNH NĂNG NÀO ĐÓ CHÚNG TÔI SẼ LÀM LÀ ĐẠT HAY KO, TIÊU CHÍ ĐÁNH GIÁ TÍNH NĂNG CÓ ỔN KO, HÀI LÒNG KO - ACCEPTANCE CRITERIA 
+
+AC CHO TÍNH NĂNG LOGIN 
+- màn hình login hỗ trợ 3 loại user: student, lecturer, academic staff (FAP)
+- chỉ login dùng email của trường @fpt.edu.vn 
+- chỉ login đúng campus mình đang thuộc về 
+
+AC CÓ THỂ ĐC VIẾT THEO TEMPLATE HOẶC VIẾT TỰ DO (như 3 ví dụ trên)
+TEMPLATE DÙNG BDD - GIVEN WHEN THEN
+
+GIẢ SỬ TA CÓ 1 USER STORY - FUNCTIONAL REQ NHƯ SAU 
+AS A STUDENT, I WANT TO LOGIN TO THE SYSTEM SO THAT I CAN...
+AS A LECTURER, I WANT TO LOGIN TO THE SYSTEM SO THAT I CAN...
+AS A STAFF, I WANT TO LOGIN TO THE SYSTEM SO THAT I CAN...
+
+BA, PO, CUSTOMER PHẢI NGỒI XUỐNG ĐỊNH NGHĨA RÕ HƠN VỀ LOGIN LÀ SAO???
+PHẦN MÔ TRẢ CỤ THỂ CHO 1 USER STORY/FUNCTIONAL REQ ĐC GỌI LÀ AC - ACCEPTANCE CRITERIA, TIÊU CHÍ NGHIỆM THU/CHẤP THUẬN 1 TÍNH NĂNG CỦA APP LÀ NGON 
+
+AC: 
+- màn hình login hỗ trợ 3 loại user: student, lecturer, academic staff (FAP)
+- chỉ login dùng email của trường @fpt.edu.vn 
+- chỉ login đúng campus mình đang thuộc về 
+
+GIVEN   YOU ARE A FUer
+WHEN    YOU ARE OPEN THE LOGIN PAGE 
+THEN    THE SYSTEM (FUTURE FAP) WILL SHOW THE LOGIN page with the required selection such that: USING THE @FPT.EDU.VN EMAIL 
+      AND THE CAMPUS SELECTION 
+
+style viết requirements theo phong cách Agile
+
+
+==================================================
+CHỐT HẠ IX 
+- stake-holders là bất kì ai có liên quan đến làm app, nhưng thường ta hẫy nghĩ họ chính là USER/CUSTOMER
+- USER,CUSTOMER, CÓ LÚC LÀ RIÊNG BIỆT, CÓ LÚC LÀ 1, NHƯNG HỌ ĐỀU LÀ GÃ ĐƯA RA YÊU CẦU, TÍNH NĂNG PHẦN MỀM
+- KO ĐC SUY NGHĨ SẾP SẾP LỚN LÀ ADMIN, ADMIN LÀ NGƯỜI ĐC MƯỚN ĐỀ QUẢN LÍ DATA SẴN DÙNG CHO MỌI NGƯỜI
+- USER/CUSTOMER CÓ QUYỀN VÀ NGHĨA VỤ VỚI BA, CTY PHẦN MỀM
+- MUỐN LÀM NGHỀ BA, PO: NGOÀI KIẾN THỨC SE, CẦN CÓ THÊM KĨ NĂNG MỀM, CHUYÊN NGÀNH CỦA APP SẼ VIẾT(kế toán, kho, bán hàng, y khoa, sản xuất, du lịch...) - DOMAIN KNOWLEDGE, CẦN HỌC THÊM CÁC CHỨNG CHỈ LIÊN QUAN
+
+
+
+X. REQUIREMENTS ENGINEERING ACTIVITIES 
+- CÁC CÔNG VIỆC CHÍNH CỦA GÃ BA/PO LIÊN QUAN ĐẾN TÌM KIẾM RA CÁC YÊU CÂU PHẦN MỀM
+- CÁC HOẠT ĐỘNG CHÍNH CỦA GÃ BA/PO LIÊN QUAN ĐẾN TÌM RA YÊU CẦU PHẦN MỀM
+
+CÓ 2 VIỆC CHÍNH LIÊN QUAN ĐẾN YÊU CẦU PHẦN MỀM MÀ GÃ BA PHẢI ĐẢM NHẬN 
+X.1 REQUIREMENTS DEVELOPMENT (QUAN TRỌNG!!!!!!!!!!) TÌM RA CÁC REQUIREMENTS 
+
+  X1.1 REQUIREMENTS ELICITATION !!!!!!!!!!! CÁC TUYỆT KĨ CỦA NGHỀ BA/PO NẰM Ở ĐÂY 
+ 
+
+  X1.2 REQUIREMENTS ANALYSIS
+ 
+  X1.3 SPECIFICATION
+
+  X1.4 REQUIREMENT VALIDATION
+
+
+X.2 REQUIREMENTS MANAGEMENT (QUẢN LÍ CÁC REQUIREMENTS ĐÃ TÌM THẤY)
+
+
+==================================
+CÁC TUYỆT KĨ HÀNH NGHỀ BO,PO, CÁC TUYỆT KĨ ĐI KHÁCH 
+X1.1 REQUIREMENTS ELICITATION
+1. INTERVIEWING !!!!!!!!!!!!!!!!!
+2. WORKSHOP
+3. GROUP SESSION
+4. QUESTIONAIRE/SURVEY
+5. OBSERVATION/ETHNOGRAPY
+6. DOCUMENT COLLECTION
+7. USER INTERFACE ANALYSIS
+8. SYSTEM INTERFACE ANALYSIS
+9. PROTORYPING
+10. BRAIN-STORMING
+
+
+=======================================
+
+1. INTERVIEWING !!!!!!!!!!!!!!!!!!!!!!!!!!!
+ĐI PHỎNG VẤN KHÁCH HÀNG, LÀ PHƯƠNG PHÁP PHỔ BIẾN NHẤT, THÔNG DỤNG NHẤT CỦA DÂN BA HAY
+ĐC DÙNG NHẤT, VÌ NÓ GIÚP CHO BA HIỂU ĐC RÕ AS-IS SYSTEM 
+HIỂU ĐC CÁCH KHÁCH HÀNG ĐANG LÀM VIỆC (BẰNG TAY, BẰNG APP CŨ)
+HIỂU ĐC NỖI ĐAU CỦA HỌ, PAIN; HIỂU ĐC RẰNG CẦN CÓ 1 CÁI APP ĐỂ FIX NHỮNG CÁI PAIN
+- Ví dụ As is system của hệ thống tích điểm chính là tích điểm = thẻ có đóng dấu
+  Pain: phiếu bị mất, ko chính xác về tiền mua...
+  To be system: fix đc những vấn đề này
+
+BA phải là gã cầm cái thẻ giấy, tư duy về nhước điểm, và ra giải pháp mới
+
+- Ví dụ: Kiểm tra, sàng lọc xe máy vi phạm về chủ sở hữu, xe ma, xe không chính chủ
+	 Hiện trạng: bắt xe vi phạm giao thông, vụ trộm cắp  -> lòi ra xe ko chính chủ/vấn đề
+
+	To-be: MỘT DATABASE CHỨA TOÀN BỘ BIỂN SỐ
+	       1 CON XE WINNER CÓ 2 CAMERA NHẬN DẠNG BIỂN SỐ XE LƯU THÔNG PHÍA TRƯỚC
+		BỒ CÂU, SELECT TRONG DB -> XE CHÍNH CHỦ, HOÁN CẢI 
+
+NÓI CHUYỆN, GIAO TIẾP DỄ HIỂU NHAU!!!
+ĐỂ CÓ BUỔI PHỎNG VẤN NGON LÀNH KHÁCH HÀNG/USER TA CẦN CÁC BƯỚC SAU
+
+B1*****: CHUẨN BỊ CHO PHỎNG VẤN (PREPARATION)
+- Lựa chọn người/khách hàng/user mình sẽ phỏng vấn
+  App QLBV, thì mình sẽ dự tính phỏng vấn ai??? Bác sĩ, Trưởng khoa
+
+  App FAP, thì mình sẽ dự tính phỏng vấn ai???
+
+  CHỌN NGƯỜI ĐẠI DIỆN ĐỦ "BAO" NHỮNG NGƯỜI CÙNG HỆ
+     BỘ MÔN SE: CHỌN 1-2 NGƯỜI
+	    BIZL CHỌN 1-2 NGƯỜI
+  THƯỜNG LÀ CÁC SẾP CỦA PHÒNG BAN, ĐƠN VỊ (THƯỜNG LIÊN QUAN ĐẾN CRUD, DASHBOARD)
+
+- Chuẩn bị kiến thức nền (domain knowledge, background knowledge) của lãnh vực mà app sẽ đc viết. 
+Ví dụ: làm app về QLBV bạn cần có kiến thức cơ bản về y khoa, quy trình khám chữa bệnh, BHYT...: TỰ HỌC,
+TỰ ĐỌC, TỰ QUAN SÁT, VÀ LẤY KINH NGHIỆM TỪ CÁC DỰ ÁN ĐÃ LÀM TRƯỚC ĐÓ, VÀ LÀM LÍNH BA TẬP SỰ CHO 1 BA KINH
+NGHIỆM KHÁC
+
+- Chuẩn bị bộ câu hỏi sẽ hỏi khách hàng/user/bác sĩ/thu ngân/thủ kho/giảng viên/sếp....
+  CÓ 2 LOẠI CÂU HỎI
+  - Câu hỏi đóng (close-ended)
+  - Câu hỏi mở (open-ended)
+
+ƯU TIÊN DÙNG CÂU HỎI MỞ ĐỂ DÒ TÌM THÔNG TIN CỦA AS-IS
+
+- CHUẨN BỊ ĐỒ CHƠI
+  - Trang phục: lần đầu tiên gặp nên formal (trang trọng); lần sau thoải mái hơn...
+		- Quần tây, kaki, đầm công sở 
+		- Áo sơ mi, thun có cổ!!!
+		- Giày thể thao, tây okie
+  - Máy tính xách tay: để demo những sản phẩm tương đương của cty
+			search và giới thiệu solution cho khách/user, giới thiệu UI mẫu....
+			ko nên dùng máy của mình để gõ những ý mà khách hàng đang nói 
+		Mình BA---------------------face to face-------------- Khách hàng (bác sĩ, thủ thư, thu ngân)
+
+			mình gõ để notes ý -> ko hay về tâm lí với người đối diện 
+  - NÊN CÓ THƯ KÍ/TRỢ LÍ/BA TẬP SỰ
+			- Gã tập sự sẽ là người gõ văn bản, biên bản, notes, ghi chú...
+			- Gã này sẽ note nhừng điều quan trọng trong quá trình mình đang trò chuyện
+  - BÀN VỀ VIỆC GHI ÂM???
+			"TRICK - GHI ÂM NGẦM", NHƯNG CHỈ ĐỂ DÀNH CHO VIỆC NGHE LẠI SAU NÀY ĐỂ HIỂU RÕ QUY TRÌNH
+						CHỨ KHÔNG DÙNG ĐỂ CHỐNG LẠI K/H
+ 
+				 GHI ÂM ĐỂ LÀM TƯ LIỆU DỰ ÁN, KO PUBLIC CHO K/H
+
+  - 2 BÚT, XẤP GIẤY A4 ĐỂ PHÁC THẢO LAYOUT, GHI CÔNG THỨC, VẼ QUY TRÌNH... ĐỂ TRONG FOLDER NHỰA
+
+  - HỢP ĐỰNG NAME-CARD, HỘP ĐỰNG CARD-VISIT
+  - USB ĐỂ XIN DOCUMENT VÀ TÀI LIỆU, EXCEL CỦA KHÁCH HÀNG -> MAI MỐT CÒN LÀM DB
+
+- BOOK TRƯỚC LỊCH HẸN VỚI KHÁCH HÀNG, BOOK LUÔN NƠI GẶP: GẶP Ở CTY/SHOP/CỬA HÀNG/BV CỦA K/H
+							 GẶP Ở CTY MÌNH
+							 GẶP Ở QUÁN CAFE, CÔNG SỞ
+ PHẢI BOOK TRƯỚC VÌ VIỆC CHÍNH CỦA K/H, VIÊJC K/H ĐC TRẢ LƯƠNG KO PHẢI LÀ GẶP MÌNH, MÀ HỌ LUÔN
+ BẬN CV CỦA RIÊNG HỌ Ở CTY
+ BOOK TRƯỚC ĐỂ TÔN TRỌNG CÔNG VIỆC CỦA K/H 
+
+
+B2*****: TIẾN HÀNH PHỎNG VẤN (CONDUCT, DOING, WHILE)
+- XUẤT HIỆN CHUYÊN NGHIỆP, ĐÚNG GIỜ (LÀ ĐẾN SỚM 5/10 PHÚT, TỪ HAO BUILDING LẠ, CHỈNH TRANG TRANG PHỤC)
+  ĐẾN TRỄ K/H KO CHỜ, HỌ LÀM VIỆC CỦA HỌ!!!
+
+- NÓI CHUYỆN TỰ NHIÊN, FACE TO FACE, EYE TO EYE TẠO SỰ TIN CẬY
+- MÌNH CHỦ ĐỘNG HỎI, CHỦ ĐỘNG GHI CHÉP
+- CHỦ ĐỘNG XIN TÀI LIỆU/VĂN BẢN; TRẤN AN, HAY LÀ XIN TEMPLATE, XIN DATA GIẢ
+       >>>>>> CẦN CÓ MẢNH INFO, CỘT EXCEL ĐỂ TẠO TABLE SAU NÀY
+- THƯ KÍ TRỢ LÍ LO GHI CHÉP, MÌNH HỎI ĐÁP, DÙNG NHUẦN NHUYỄN 2 LOẠI CÂU HỎI: ĐÓNG MỞ
+- DÙNG GIẤY BÚT, MÁY LAP CỦA MÌNH ĐỂ ĐỀ XUẤT PHƯƠNG ÁN, CÙNG THẢO LUẬN, PHÁC THẢO UI, CÔNG THỨC,
+QUY TRÌNH, LUỒNG MÀN HÌNH VỚI KHÁCH HÀNG, MÌNH GIỮ LẠI TỜ A4 VỪA VẼ NÓ CHÍNH LÀ DOCUMENT/REQS SAU NÀY
+
+- DÙNG BẢNG CỦA CTY VẼ LÊN -> CHỤP LẠI BẢNG!!!
+
+- KĨ NĂNG GIAO TIẾP, ĐẶT CÂU HỎI, THẦN THÁI -> ĐEM RA MÀ DÙNG 
+
+- KẾT THÚC ĐÚNG GIỜ, HẸN LẦN GẶP KẾ...
+  NẾU KHÁCH HÀNG MUỐN KÉO DÀI THÊM CHO GỌN, CHO XONG, THÌ MÌNH SẴN SÀNG  
+
+
+
+B3*****: HẬU PHỎNG VẤN (POST INTERVIEW)
+- BA VỀ LẠI CTY PHẦN MỀM CÙNG TRỢ LÍ
+- VIẾT BIÊN BẢN CUỘC HỌP, GHI LẠI DIỄN BIẾN CÂU CHUYỆN VÀ NHỮNG REQS MÌNH TÌM RA TỪ VIỆC TRAO ĐỔI VỚI KHÁCH HÀNG 
+  BIÊN BẢN LÀ CÁI FILE .DOCX
+
+- GỬI EMAIL CHO KHÁCH HÀNG; SẾP MÌNH; SẾP K/H ĐỂ 
+		KHÁCH HÀNG CONFIRM LẠI Ý ĐÃ GHI TRONG BIÊN BẢN, COI MÌNH BA HIỂU CÓ ĐÚNG HAY KO?
+		SẾP 2 BÊN: ĐỂ CÁC SẾP BIẾT MỌI VIỆC ĐANG CHẠY!!!
+
+- NẾU KHÁCH HÀNG CÓ REPLY ĐIỀU CHỈNH GÌ ĐÓ, ĐẤY LÀ "FINAL REQS"
+
+- LẶP LẠI ĐIỀU NÀY CHO MỖI LẦN GẶP
+
+BIỂN BẢN CUỘC HỌP - MEETING MINUTES ghi lại nhật kí câu chuyện
+DOCX GỒM CÁC THÀNH PHẦN CHÍNH NHƯ SAU
+- Thời gian địa điểm diễn ra cuộc gặp
+- Ai tham gia cuộc gặp: bên mình và bên k/h; chức danh đi kèm
+- Chủ đề gặp gỡ: Hiểu về quy trình khuyến mãi 
+- Nội dung thảo luận:
+    Q
+    A
+    Q
+    A
+- Đính kèm các document
+
+- OPEN ITEMS: NHỮNG VẤN ĐỀ CÒN  BỎ NGỎ, CẦN LÀM RÕ LẦN SAU
+
+HẸN LẦN GẶP KẾ TIẾP LÀ NGÀY NÀO, NỘI DUNG GÌ!!!
+
+VIẾT EMAIL CHO KHÁCH HÀNG GỬI BIÊN BẢN NÀY
+
+VÀO TRONG YOUTUBE GIÁO.LÀNG XEM KĨ THUẬT VIẾT EMAIL CHUYÊN NGHIỆP 
+
+
+
+Best regard,
+-- 
+HoangNT
+
+
+
+Yours sincerely,
+--
+Hoang-Nguyen The (Ms.)
+
+Hoang-Nguyen The (Mr.)
+
+Giang hồ gươm giáo anh ko sợ
+Chỉ sợ đường về thiếu bóng em 
+
+
+Trân trọng, 
+--
+HoangNT
+
+Chào đoàn kết, thân ái, và quyết thắng, 
+--
+HoangNT
+
+
+2. WORKSHOP
+3. FOCUS GROUP
+- BA đều làm việ ckieeur giao tiếp trực tiếp với user/khách hàng (gã, bên đặt hàng mình làm app cho họ dùng)
+- Khách hàng/user là gã trình bày vấn đề, giải thích công việc họ đang làm 
+- BA lắng nghe, đặt câu hỏi, điều phối cuộc họp - MEETING
+Focus group					 Workshop
+	BA phải giao tiếp cùng lúc với nhiều người bên k/h 
+	BA phải giao tiếp cùng lúc với vài bác sĩ + 1 2 tiếp tân
+				lấy info trong 1 lần gặp đc nhiều hơn
+				  reqs xung đột giữa các bê, giải quyết
+				  đc vì lí do các bên cùng trình bày 
+				  vấn đề của họ -> nếu có conflict nó
+				  xh ngay 
+
+Mỗi lần gặp chỉ tập trung 	    Mỗi lần gặp đông k/h, user, khai thác thảo luận n				    nhiều chủ đề
+vào 1 chủ để nào đó 
+Ví dụ bữa nay BA gặp 3 bác sĩ
+tai mũi ọng
+Bữa mai BA gặp 3 người bên
+nhân bệnh/thu ngân
+
+	   - BA mời ai đó phát biểu, trình bày cái AS IS của họ!!!
+	   - 		KĨ NĂNG TỔ CHỨC, ĐIỀU PHỐI (FACILITATOR)
+
+4. QUESTIONAIRE/SURVEY - LÀM BẢN ĐIỀU TRA, ĐẶT CÂU HỎI, SURVEY, TÌM TREND
+- BA, PO, LÀM BẢNG CÂU HỎI (GOOGLE FORM, IN GIẤY) ĐI HỎI CÁC USER MÀ HỌ NHẮM ĐẾN ĐỂ TÌM ĐC CÁI GU/TREND; CÓ SỐ LIỆU VỀ NHÀ THỐNG KÊ LẠI -> TREND, SỞ THÍCH 
+		>>>> USER PERSONA
+
+- THƯỜNG CHỈ ÁP DỤNG CHO APP GENERIC 
+
+THƯỜNG DÀNH PO
+
+BA CỦA TGDD: PHỎNG VẤN PHÒNG BÁN HÀNG, ĐỂ LÀM TÍNH NĂNG APP BÁN HÀNG CHO CTY TGDD
+	     SURVEY ĐỂ XEM TRÌNH ĐỘ AM HIỂU IT, QUY TRÌNH, ĐỀ XUẤT VỀ APP SẼ LÀM CHO HỌ
+ 
+6. DOCUMENT COLLECTION: sưu tầm, sưu tập, gom góp tất cả các document, tài liệu mà bên khách hàng đang dùng; có cái gì liên quan đến công việc họ đang làm, có info cần lưu trữ, show ra, XIN HẾT, VÌ ĐÂY CHÍNH LÀ MANH MỐI ĐỂ TÌM RA ERD
+- Dữ liệu làm ăn của k/h nhạy cảm: doanh số bán hàng trong tuần, tháng, năm, tồn kho...
+				   bảng lương nhân viên
+-> thường xin template, dàn khùng, nếu có xin data giả 
+
+	-> bill giấy viết tay, hóa đơn bán lẻ, phiếu tích điểm,.... -> table
+
+5. OBSERVATION/ETHNOGRAPHY
+- Trăm nghe ko bằng 1 thấy, trăm tahays ko bằng 1 sờ...
+BA xin vào cty k/h để ddc xem k/h làm công việc as-is thế nào
+- BA xin vào đứng kế cô thu ngân của TGDD để xem nhập/xuất tiền/hàng hế nà
+- BA xin vào đứng kế bác sĩ để xem bác sĩ khám chữa bệnh thế nào
+* LỢI ÍCH
+- THẤY RÕ ĐC LUỒNG DATA CỦA K/H CHẠY TỪ CHỖ NÀY SANG CHỖ KHÁC, USER NÀY SANG USER KHÁC
+
+- Bán hàng: tít tít sản phầm k/h chọn mua, màn hình Create an Order sẽ nhảy số, nhảy dòng sản phẩm khách mua 
+	    tít ko đc trên máy đọc bar-code cố định
+		máy cầm tay để tít
+		  máy cầm tay tịt
+			gõ bàn phím mã vạch sản phẩm
+- CỰC HAY, GIÚP HIỂU RÕ ĐIỀU KHÁCH HÀNG KỂ, LUỒNG DATA CHẠY, THỨ MÀ USER TỐI ƯU HƠN KHI HỌ LÀM VIỆC CỦA HỌ
+- KO DỄ LÀM, VÌ:
+
+
+7. USER INTERFACE ANALYSIS
+- HỌC CÁC MÀN HÌNH, CÁC XỬ LÍ MÀN HÌNH TỪ CÁC APP TƯƠNG ĐƯƠNG CÓ SẴN TRÊN THỊ TRƯỜNG 
+- TRÊN THỊ TRƯỜNG CÓ NHỮNG CÁI APP QUẢN LÍ X GÌ ĐÓ, TA DÙNG BẢN TRIAL, COMMUNITY, XEM YYOUTUBE HƯỚNG DẪN SỬ DỤNG, TA DOWNLOAD CÁI DOCUMENT HƯỚNG DẪN SỬ DỤNG...
+-> CÓ ĐC KINH NGHIỆM, KIẾN THỨC, TRI THỨC VỀ LÃNH VỰC BẠN ĐANG LÀM APP
+
+-> giúp ta thiết kế màn hình
+-> giúp thiết kế ERD (do màn hình có info
+-> giúp thiết kế luồng màn hình (screen flow), từ màn dashboard, gọi màn hình thêm, xóa, sửa gì đó...
+
+
+8. SYSTEM INTERFACE ANALYSIS
+- PHÂN TÍCH CÁCH APP MÌNH GIAO TIẾP VỚI APP KHÁC; ĐỂ SAU ĐÓ RA ĐC NHỮNG REQS LIÊN QUAN ĐẾN TÍCH HỢP HỆ THỐNG
+
+ - App mình giao tiếp app khác ko, thiết bị khác hay ko? Có, với ai? MoMo, GHN, Google Map, Google API để login... -> để giao tiếp thành công, thì cần biết quy tắc giao tiếp giữa các app, info chuyển giao giữa 2 bên 
+
+    >>>> chơi với MoMo, app cần chuyển info gì??? đơn hàng(detail hay ko), callback url
+			app sẽ nhận info gì từ app ngoài, thiết bị
+
+  App mình chơi với Payment: MoMo, Moca... -> sandbox
+		    Delivery: GHN, GHTK...
+					  ban đầu phải dùng data giả để kết nối,demo
+				SANDBOX: MÔI TRƯỜNG GIẢ CỦA APP THẬT NHÀ NGƯỜI TA
+  https://sandbox.momo.v
+
+9. PROTOTYPING
+- ĐỂ HIỂU KHÁCH HÀNG, TA CÓ THỂ DÙNG PHƯƠNG PHÁP: PHÁC THẢO CÁI UI, CÁI APP ĐƯA CHO KHÁCH HÀNG TRẢI NGHIỆM THỬ; TRẢI NGHIỆM THỬ KHÁCH THẤY CẦN ĐIỀU CHỈNH NÀY NỌ, KO CẦN ĐIỀU CHỈNH THÊM, ĐÓ CHÍNH LÀ CÁCH ĐỂ KHAI THÁC MONG ƯỚC CỦA USER/REMENTEMENTS
+
+- DÙNG FIGMA, JUST IN MIND, BALSAMIQ: CUNG CẤP TOOL ĐỂ LÀM MÀN HÌNH DEMO CỰC MẠNH
+   -> ĐƯA K/H XEM, FEEDBACK (CHÍNH LÀ LẤY ĐC Y/C)
+
+  GÕ KEYWORD: PROTOTYPING TOOL, MOCK-UP TOOL, WIREFRAME TOOL
+
+10. BRAIN-STORMING
+- CÔNG NÃO, TẬN DỤNG NĂNG LỰC SUY NGHĨ CỦA 1 NHÓM ĐỂ TÌM SOLUTION 
+- hay dùng cho vấn đề khó, app generic
+
+- Anh em ngồi xuống, tìm ý tưởng về app sẽ khuynh đảo thị trường 
+  Mỗi anh em làm việc độc lập trong phòng họp, từ nghĩ ý tưởng, gạch đầu dòng
+  Họp lại để xem tất cả anh em tìm đc bao nhiêu phương án; gạch đi/vote những thứ dùng và ko dùng -> còn lại là requirements
+
+
+CHỐT HẠ CHO CÁC PHƯƠNG PHÁP TÌM REQS
+- LUÔN LÀ KĨ NĂNG MỀM ĐỂ HIỂU NGƯỜI TA
+- KO CÓ PHƯƠNG ÁN NÀO LÀ TỐT NHẤT, MÀ CHỈ LÀ CHỌN SỰ PHÙ HỢP; HOẶC PHỐI TRỘN
+- NHƯNG PHƯƠNG PHÁP HIỆU QUẢ NHẤT, PHỔ BIẾN NHẤT, HAY DÙNG NHẤT LÀ: INTERVIEW 
+- LUÔN CHUẨN BỊ KIẾN THỨC NỀN CHO LÃNH VỰC MÀ APP ĐC VIẾT, VÀ CHẠY
+
+===============================================================================
+X.1.3 SPECIFICATION - ĐẶC TẢ YÊU CẦU PHẦN MỀM 
+- Sau khi áp dụng tất cả tuyệt chiêu, tuyệt kĩ để tìm hiểu khách hàng, nhu cầu của họ, as is system/legacy system ĐÃ ĐẾN LÚC DÂN BA PHẢI GOM CÁC REQS ĐÃ TÌM THẤY ĐỂ VÀO 1 NƠI, GOM VÀ TỔ CHỨC LẠI INFO CỦA DỰ ÁN, REQS TÌM THẤY GOM VÀO TRONG 1 DOCUMENT ĐẸP, CHUẨN 
+>>>> DOCUMENT LIÊN QUAN ĐOẠN ELICITATION ĐỂ LIỆT KÊ RA CÁC REQS CỦA APP CẦN LÀM 
+     DOCUMENT NÀY ĐC GỌI LÀ
+	- BRD	: Business Requirements Document
+	- SRS	: Software Requirements Specification - BẢN ĐẶC TẢ Y/C PHẦN MỀM 
+	- FRS/FRD: Functional Requirements Specification/Document 
+
+3 TÀI LIỆU NÀY VIẾT TỰ DO = NOTEPAD CŨNG ĐƯỢC
+ NHỮNG VIẾT CHUẨN FORMAL ĐẸP ĐẼ, GỌI LÀ VIẾT THEO ĐỊNH DẠNG, TEMPLATE 
+ TEMPLATE NÀY MANG TÊN IEEE-830 (IEEE-829 - TÀI LIỆU TEST CASE, TEST PLAN)
+		CUỐN KHÓA TỐT NGHIỆP TRƯỜNG 3 CHỮ TUÂN THEO IEEE-830
+
+* BÀI TẬP VỀ NHÀ:
+- LÊN TRÊN MẠNG, SEARCH 1 CUỐN SRS NÀO ĐÓ, VIẾT BẰNG TIẾNG ANH VỀ 1 CÁI APP NÀO ĐÓ 
+  - SRS CỦA CTY NÀO ĐÓ
+  - SRS CỦA CÁC BẠN SV NƯỚC NGOÀI, KHI LÀM ĐỒ ÁN, BÀI THUYẾT TRÌNH
+  - NĂM PUBLIC CUỐN NÀY: 2015 .... 2023
+  - TRUNG BÌNH 40-50 TRANG TRỞ LÊN!!!
+
+- THUYẾT TRÌNH NHÓM VỀ CUỐN NÀY!!!
+- THUYẾT TRÌNH TUẦN 9 SAU NGHỈ HÈ
+
+LỊCH HỌC THỨ 4 TUẦN SAU: HỌC CÁCH VẼ SƠ ĐỒ USE CASE DIAGRAM!!!
