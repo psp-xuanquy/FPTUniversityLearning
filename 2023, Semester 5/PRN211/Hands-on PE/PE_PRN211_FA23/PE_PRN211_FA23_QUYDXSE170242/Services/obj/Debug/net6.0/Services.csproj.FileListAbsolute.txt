@@ -1,0 +1,22 @@
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\bin\Debug\net6.0\Services.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\ref\Services.dll
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\bin\Debug\net6.0\Services.deps.json
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\bin\Debug\net6.0\Services.dll
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\bin\Debug\net6.0\Services.pdb
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.dll
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\Services.pdb
+D:\Template\PE_PRN211_FA23_QUYDXSE170242\Services\obj\Debug\net6.0\ref\Services.dll
