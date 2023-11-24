@@ -1,8 +1,0 @@
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.csproj.AssemblyReference.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.frmAirConditionerManagement.resources
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.frmLogin.resources
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.csproj.GenerateResource.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.AssemblyInfoInputs.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.AssemblyInfo.cs
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\PRN211_FA23_PE_TrialTest\obj\Debug\net6.0-windows\AirConditionerShop_DaoXuanQuy.csproj.CoreCompileInputs.cache

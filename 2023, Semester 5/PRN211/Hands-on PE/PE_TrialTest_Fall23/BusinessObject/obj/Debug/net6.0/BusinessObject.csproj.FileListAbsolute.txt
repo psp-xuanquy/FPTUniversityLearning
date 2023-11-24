@@ -1,5 +1,0 @@
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache

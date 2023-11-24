@@ -1,5 +1,0 @@
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.AssemblyReference.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\DataAccessObject\obj\Debug\net6.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\DataAccessObject\obj\Debug\net6.0\DataAccessObject.AssemblyInfoInputs.cache
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\DataAccessObject\obj\Debug\net6.0\DataAccessObject.AssemblyInfo.cs
-C:\Users\xquy1\OneDrive\Documents\FPT\2023, Semester 5\PRN211\pe_hands-on\PRN211-23FA-PE-TrialTest\DataAccessObject\obj\Debug\net6.0\DataAccessObject.csproj.CoreCompileInputs.cache
