@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.exe
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.deps.json
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ref\ThreadingDemo.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\bin\Debug\net5.0\ThreadingDemo.pdb
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ref\ThreadingDemo.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.pdb
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.genruntimeconfig.cache
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\ThreadingDemo\obj\Debug\net5.0\ThreadingDemo.csproj.AssemblyReference.cache

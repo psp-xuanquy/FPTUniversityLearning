@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.exe
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.deps.json
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\ref\DemoSlot10_ConcurrencyProgramming.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\bin\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.pdb
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\ref\DemoSlot10_ConcurrencyProgramming.dll
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.pdb
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.genruntimeconfig.cache
+C:\Users\HP\source\repos\DemoSlot10_ConcurrencyProgramming\DemoSlot10_ConcurrencyProgramming\obj\Debug\net5.0\DemoSlot10_ConcurrencyProgramming.csproj.AssemblyReference.cache

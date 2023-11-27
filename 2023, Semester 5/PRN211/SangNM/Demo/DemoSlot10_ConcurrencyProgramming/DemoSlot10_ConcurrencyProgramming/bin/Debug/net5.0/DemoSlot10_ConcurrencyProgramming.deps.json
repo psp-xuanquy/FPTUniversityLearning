@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DemoSlot10_ConcurrencyProgramming/1.0.0": {
+        "runtime": {
+          "DemoSlot10_ConcurrencyProgramming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoSlot10_ConcurrencyProgramming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

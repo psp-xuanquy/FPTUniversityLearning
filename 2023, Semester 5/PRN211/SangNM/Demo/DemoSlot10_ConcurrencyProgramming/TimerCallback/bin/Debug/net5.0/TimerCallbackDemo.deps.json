@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TimerCallbackDemo/1.0.0": {
+        "runtime": {
+          "TimerCallbackDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimerCallbackDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
