@@ -1,0 +1,14 @@
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\bin\Debug\net6.0\Quy.FAP.exe
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\bin\Debug\net6.0\Quy.FAP.deps.json
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\bin\Debug\net6.0\Quy.FAP.runtimeconfig.json
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\bin\Debug\net6.0\Quy.FAP.dll
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\bin\Debug\net6.0\Quy.FAP.pdb
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.AssemblyInfoInputs.cache
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.AssemblyInfo.cs
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.dll
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\refint\Quy.FAP.dll
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.pdb
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\Quy.FAP.genruntimeconfig.cache
+C:\Users\xquy1\Downloads\Quy.FAP\Quy.FAP\obj\Debug\net6.0\ref\Quy.FAP.dll
