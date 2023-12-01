@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\bin\Debug\net8.0\PlayWithDataTypes.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\bin\Debug\net8.0\PlayWithDataTypes.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\bin\Debug\net8.0\PlayWithDataTypes.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\bin\Debug\net8.0\PlayWithDataTypes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\bin\Debug\net8.0\PlayWithDataTypes.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\refint\PlayWithDataTypes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\PlayWithDataTypes.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\PlayWithDataTypes\obj\Debug\net8.0\ref\PlayWithDataTypes.dll

@@ -1,0 +1,174 @@
+independent platform: độc lập nền tảng
+dependent platform: 
+file .JAR .WAR dùng trên hệ điều hành nào cũng đc 
+
+NNLT: C, Pascal, C++, 			Java(OOP) :
+	|			     1 source / 1 pp
+	V				|
+App	App	App			V
+|	|	|		       JVM ---> (M)OS  (L)OS  (W)OS
+V	V	V		(independent platform)	|
+win	MacOs	Linux					V
+				    		    Hardware
+
+					JDK(Java development Kit)
+
+C#	VB.NET	   C++	  .NET	     J#
+|	  |	    |	    |         |
+---------------------------------------
+		    |
+		    V
+		.NET framework - cross platform
+		    |
+	-------------------------
+	|	    | 		|
+      (W)OS	  (M)OS	      (L)OS
+
+
+
+--------------------------
+Ghi chú nhanh về C# - DOT NET .NET (C SHARP)
+
+0. Lưu ý về máy tính và thư mục chứa code (Áp dụng chung cho các ngôn ngữ lập trình) *****
+
+- Tên UserName login vào máy ko nên có dấu tiếng việt, có dấu 'cách'
+- Code của mình ko để ở thư mục (Folder) có dấu tiếng việt hoặc có dấu cách, dấu unicode vì các trình biên dịch(App đi kèm SDK/App đi kèm NNLT mình dùng nó ko thân thiện với kí tự unicode)
+
+Ví dụ: source lưu ở thư mục D:\Kỳ 5 -> Ăn đòn
+			    D:\KY 5 -> Ăn đòn
+			    D:\KY5  -> OKE
+- Được quyền dùng thêm dấu gạch ngang, dấu _, dấu . trong tên thư mục vẫn oke nhưng vẫn yêu cầu viết liền tên
+
+I. .NET framework, .NET CORE, .NET, .NET SDK, CROSS-PLAFORM, INDEPENDENT PLATFORM ************
+
+- SDK: SOFTWARE DEVELOPMENT KIT - Bộ công cụ lập trình, bộ công cụ và thư viện của 1 ngôn ngữ lập trình nào đó ta sẽ dùng để viết app
+-> Đây là thứ bắt buộc phải có để bắt đầu 1 ngôn ngữ lậpt rình nào đó hoặc bắt đầu 1 loại app nào đó !!!
+									> Thường sẽ lên website chĩnh hãng download về để cài đặt và dùng 
+
+* Để lập trình với C# (VB.NET, C++ .NET ... - 1 Họ ngôn ngữ của microsoft) ta cần cài .NET SDK(Chứa hư viện để viết cide, chứa môi trường máy ảo để chạy app)
+
+>>>> Lịch sử tiến hóa của .NET SDK ban đầu gồm các tên gọi sau (Theo trình tự thời gian)
++ .NET Framework	>	.NET CORE	>	.NET(hiện nay)
+Chỉ chạy trên windows		.LINUX		    cả windows và linux và .....
+						    Đa nền tảng, independent platform
+								cross platform
+		"Write once, run any where"
+
+* Để lập trình với .NET về lí thuyết cần
+- .NET + NOTEPAD (Gõ code)
+
+* Để lập trình với .NET về thực hành cần
+- .NET SDK + 1 IDE là tuyệt vời nhất: VISUAL studio code (Microsoft), RIDER (JET brain)
+	   + 1 code editor nào đó (Visual studio code, notepad++, sublime text, atom)
+
+> Khi cài visual studio, mặc nhiên máy tính đc cài luôn .NET SDK ở thư mục
+C:\PROGRAM FILES\DOTNET
+Và bộ cài tự động Add/tạo 1 biến môi trường trỏ thằng vào thư mục này 
+- biến trong lập trình int a = 10; int yearOfBirth = 2002;
+					Tên gọi 1 value nào đó, dùng viết code
+- Biến môi trường: tên gọi cho 1 value nào đó , biến này đc các app cùng share, cùng xài biến này do OS - hệ điều hành quản lí, giúp các app chia sẻ info
+
+Ví dụ: JAVA_HOME -> trỏ vào nơi cài tomcat
+	Ai sau này cần sài TOMCAT, xin value biến này, xin qua hệ điều hành
+
+	PATH -> trỏ vào nơi cài .NET SDK c:\PROGRAM FILES\DOTNET
+	Ai cần tìm DOTNET, Lệnh SDK, thì vào đây mà LẤY
+
+> Ta cos thể kiểm tra phiên bản SDK, runtime/máy ảo DOTNET bằng lệnh ở của sổ CMD: Gõ DOT net Enter, sau đó nhìn gợi ý gỡ lại: DOTNET --........
+
+Các phiên bản SDK/Máy ảo ảnh hưởng đến lúc ta tọa mới project trong visual studio(VS) 
+==========================================================
+Bắt đầu viết code...
+
+II. Tạo thư mục chứa code của mình viết ra mỗi buổi học, C: D: E: tùy bạn...
+- Ví dụ: D:\SOURCE\SEMSESTER-5
+	 D:\SOURCE\KY5
+	 D:\SOURCE\PRN211
+	 D:\PRN211
+
+	Cấm tuyệt đối dấu tiếng việt, dấu cách, kí tự đặc biệt...(vẫn đc dùng ._-)
+
+- Tạo tiếp 1 thư mục con
+D:\PRN211 
+	\Session01-Intro
+
+	\Session02-OOP
+=================================================================================================
+.NET CLI NGOẠI TRUYỆN (COMMAND LINE INTERFACE) - HỌC VÀI LỆNH DOTNET CƠ BẢN KHI CÀI XONG .NET SDK
+
+- Khi cài VS hoặc .NET SDK riêng lẻ, thì ta có đc bộ lệnh gõ ở của sổ CMD/POWERSHELL dùng trong mọi việc liên quan đến tạo project build và run app - ở mức độ dòng lệnh 
+- Lệnh .NET này đc gọi chung là DOTNET CLI (Command Line Interface)
+- Mọi lệnh dùng từ khóa DOTNET... phía sau làm tham số
+* Ví dụ:
+> Tạo mới 1 project ko dùng Tool mà dùng CMD
+	dotnet new console -n HelloCS --use-program-main -f net6.0
+> Build app từ project bất kì:
+	Chuyển đến thư mục chứa project
+	Gõ DOTNET BUILD (ta sẽ có trong tay 2 tập tin .EXE và .DLL)
+> Run app từ project bất kì
+	Chuyển đến thư mục chứa project
+	Gõ DOTNET RUN (Sẽ build rồi mới run luôn cái app .EXE)
+> Chạy riêng file EXE (Bản chất là gọi DLL)
+	- double click lên file .exe
+	- hoặc gõ tên-tập-tin.exe và enter
+> Chạy riêng file DLL
+	- dotnet tập-tin-dll và enter
+> Đem file DLL sang máy linux, MacOS chỉ cần có cài SDK là run ngon lành (cross platform)
+=================================================================================================
+III. Phân biệt SOLUTION | PROJECT
+
+IV. Coding Convention - quy tắc viết code - Quy ước viết code
+1. Quy tắc đặt tên solution
+
+2. Quy tắc đặt tên project 
+
+3. Quy tắc đặt tên NAME-SPACE (Ko gian tên - giống y chang package bên java)
+
+4. Quy tắc đặt tên class 
+
+5. Quy tắc đặt tên hàm (Funtion), Method (Hành vi, hành động)
+- Pascal case notation 
+- Tên hàm theo cú pháp: VERB + Object (Động từ đi trước, bổ ngữ theo sau_
+- Tên hàm chữ hoa từng chữ đầu từ (Pascal style)
+* Ví dụ: 
+	ComputeSalary()						Java: Con lạc đà - camel case notation
+	GetName()							computeSalary()
+	ToString()							getName()
+	TryParse()							toString()
+	Execute()							...
+	GetAddress()
+	ShowFullname()							...
+	Main()								main()
+
+6. Quy tắc đặt tên biến - Property của 1 object
+
+7. Quy tắc đặt tên biến cục bộ - LOCAL VARIABLE
+
+8. Quy tắc đặt tên hằng số (Biến mà ko cho thay đổi value)
+
+9. Quy tắc đặt tên Delegate!!
+
+10. Quy tắc ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
