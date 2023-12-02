@@ -10,7 +10,6 @@ namespace Quy.FAP.StudentManagerVer3
     {
         //gõ propfull + tab + tab giúp tự động generate backed field + get/set chuẩn mới
         private int myVar;
-
         public int MyProperty
         {
             get { return myVar; }

@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManager", "Q
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer2", "Quy.FAP.StudentManagerVer2\Quy.FAP.StudentManagerVer2.csproj", "{91C89FC2-C338-4C64-87C5-E525005E3827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.FAP.StudentManagerVer3", "Quy.FAP.StudentManagerVer3\Quy.FAP.StudentManagerVer3.csproj", "{2B42B0E2-0445-459D-9042-8CF7207E2D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer3", "Quy.FAP.StudentManagerVer3\Quy.FAP.StudentManagerVer3.csproj", "{2B42B0E2-0445-459D-9042-8CF7207E2D63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.FAP.StudentManagerVer4", "Quy.FAP.StudentManagerVer4\Quy.FAP.StudentManagerVer4.csproj", "{BA82D7CF-1243-4F17-A854-E2B84696170F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer4", "Quy.FAP.StudentManagerVer4\Quy.FAP.StudentManagerVer4.csproj", "{BA82D7CF-1243-4F17-A854-E2B84696170F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.FAP.StudentManagerVer5", "Quy.FAP.StudentManagerVer5\Quy.FAP.StudentManagerVer5.csproj", "{18BB9F50-3CA0-418F-9069-56495E391F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.FAP.StudentManagerVer6", "Quy.FAP.StudentManagerVer6\Quy.FAP.StudentManagerVer6.csproj", "{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{BA82D7CF-1243-4F17-A854-E2B84696170F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA82D7CF-1243-4F17-A854-E2B84696170F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA82D7CF-1243-4F17-A854-E2B84696170F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BB9F50-3CA0-418F-9069-56495E391F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BB9F50-3CA0-418F-9069-56495E391F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BB9F50-3CA0-418F-9069-56495E391F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BB9F50-3CA0-418F-9069-56495E391F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

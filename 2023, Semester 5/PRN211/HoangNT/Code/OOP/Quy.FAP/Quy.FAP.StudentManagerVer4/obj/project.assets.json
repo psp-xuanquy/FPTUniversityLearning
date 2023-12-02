@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\Quy.FAP\\Quy.FAP.StudentManagerVer4\\Quy.FAP.StudentManagerVer4.csproj",
+      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer4\\Quy.FAP.StudentManagerVer4.csproj",
       "projectName": "Quy.FAP.StudentManagerVer4",
-      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\Quy.FAP\\Quy.FAP.StudentManagerVer4\\Quy.FAP.StudentManagerVer4.csproj",
+      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer4\\Quy.FAP.StudentManagerVer4.csproj",
       "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
-      "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\Quy.FAP\\Quy.FAP.StudentManagerVer4\\obj\\",
+      "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
