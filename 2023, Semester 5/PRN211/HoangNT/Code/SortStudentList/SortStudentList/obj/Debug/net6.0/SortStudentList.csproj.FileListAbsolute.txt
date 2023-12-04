@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\bin\Debug\net6.0\SortStudentList.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\bin\Debug\net6.0\SortStudentList.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\bin\Debug\net6.0\SortStudentList.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\bin\Debug\net6.0\SortStudentList.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\bin\Debug\net6.0\SortStudentList.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\refint\SortStudentList.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\SortStudentList.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\StudentManagement\StudentManagement\obj\Debug\net6.0\ref\SortStudentList.dll
