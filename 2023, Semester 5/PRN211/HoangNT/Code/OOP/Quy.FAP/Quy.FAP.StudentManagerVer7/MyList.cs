@@ -68,7 +68,7 @@ namespace Quy.FAP.StudentManagerVer7
             //Sắp xếp ID trc khi in
             for (int i = 0; i < _count - 1; i++)
             {
-                for (int j = i + 1; i < _count; i++)
+                for (int j = i + 1; j < _count; j++)
                 {
                     if (_list[i].Gpa < _list[j].Gpa)
                     {

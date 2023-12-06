@@ -5,19 +5,23 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManager", "Quy.FAP.StudentManager\Quy.FAP.StudentManager.csproj", "{2AD28E19-6303-4996-B617-6D3837731485}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer2", "Quy.FAP.StudentManagerVer2\Quy.FAP.StudentManagerVer2.csproj", "{91C89FC2-C338-4C64-87C5-E525005E3827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer02", "Quy.FAP.StudentManagerVer2\Quy.FAP.StudentManagerVer02.csproj", "{91C89FC2-C338-4C64-87C5-E525005E3827}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer3", "Quy.FAP.StudentManagerVer3\Quy.FAP.StudentManagerVer3.csproj", "{2B42B0E2-0445-459D-9042-8CF7207E2D63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer03", "Quy.FAP.StudentManagerVer3\Quy.FAP.StudentManagerVer03.csproj", "{2B42B0E2-0445-459D-9042-8CF7207E2D63}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer4", "Quy.FAP.StudentManagerVer4\Quy.FAP.StudentManagerVer4.csproj", "{BA82D7CF-1243-4F17-A854-E2B84696170F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer04", "Quy.FAP.StudentManagerVer4\Quy.FAP.StudentManagerVer04.csproj", "{BA82D7CF-1243-4F17-A854-E2B84696170F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer5", "Quy.FAP.StudentManagerVer5\Quy.FAP.StudentManagerVer5.csproj", "{18BB9F50-3CA0-418F-9069-56495E391F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer05", "Quy.FAP.StudentManagerVer5\Quy.FAP.StudentManagerVer05.csproj", "{18BB9F50-3CA0-418F-9069-56495E391F56}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer6", "Quy.FAP.StudentManagerVer6\Quy.FAP.StudentManagerVer6.csproj", "{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer06", "Quy.FAP.StudentManagerVer6\Quy.FAP.StudentManagerVer06.csproj", "{67E2EF01-4630-4AB3-B0AB-A75A99A8EC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.FAP.StudentManagerVer7", "Quy.FAP.StudentManagerVer7\Quy.FAP.StudentManagerVer7.csproj", "{C419E6A9-E0EF-4B95-8505-9C35118CC875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer07", "Quy.FAP.StudentManagerVer7\Quy.FAP.StudentManagerVer07.csproj", "{C419E6A9-E0EF-4B95-8505-9C35118CC875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.FAP.StudentManagerVer8", "Quy.FAP.StudentManagerVer8\Quy.FAP.StudentManagerVer8.csproj", "{CCA50791-A36A-4F5D-9536-431F1033AE55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer08", "Quy.FAP.StudentManagerVer8\Quy.FAP.StudentManagerVer08.csproj", "{CCA50791-A36A-4F5D-9536-431F1033AE55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer09", "Quy.FAP.StudentManagerVer9\Quy.FAP.StudentManagerVer09.csproj", "{AC337B9D-873A-45A3-B4F6-8F2BC0440C50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.FAP.StudentManagerVer10", "Quy.FAP.StudentManagerVer10\Quy.FAP.StudentManagerVer10.csproj", "{FBDFEF2A-363B-4551-BE66-F9574B612043}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{CCA50791-A36A-4F5D-9536-431F1033AE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCA50791-A36A-4F5D-9536-431F1033AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCA50791-A36A-4F5D-9536-431F1033AE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC337B9D-873A-45A3-B4F6-8F2BC0440C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC337B9D-873A-45A3-B4F6-8F2BC0440C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC337B9D-873A-45A3-B4F6-8F2BC0440C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC337B9D-873A-45A3-B4F6-8F2BC0440C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDFEF2A-363B-4551-BE66-F9574B612043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDFEF2A-363B-4551-BE66-F9574B612043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDFEF2A-363B-4551-BE66-F9574B612043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDFEF2A-363B-4551-BE66-F9574B612043}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

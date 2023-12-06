@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\bin\Debug\net6.0\Quy.FAP.StudentManagerVer9.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\bin\Debug\net6.0\Quy.FAP.StudentManagerVer9.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\bin\Debug\net6.0\Quy.FAP.StudentManagerVer9.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\bin\Debug\net6.0\Quy.FAP.StudentManagerVer9.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\bin\Debug\net6.0\Quy.FAP.StudentManagerVer9.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\refint\Quy.FAP.StudentManagerVer9.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\Quy.FAP.StudentManagerVer9.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.FAP\Quy.FAP.StudentManagerVer9\obj\Debug\net6.0\ref\Quy.FAP.StudentManagerVer9.dll

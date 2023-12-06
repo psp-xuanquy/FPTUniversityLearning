@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer7\\Quy.FAP.StudentManagerVer7.csproj",
-      "projectName": "Quy.FAP.StudentManagerVer7",
-      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer7\\Quy.FAP.StudentManagerVer7.csproj",
+      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer7\\Quy.FAP.StudentManagerVer07.csproj",
+      "projectName": "Quy.FAP.StudentManagerVer07",
+      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer7\\Quy.FAP.StudentManagerVer07.csproj",
       "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
       "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Code\\OOP\\Quy.FAP\\Quy.FAP.StudentManagerVer7\\obj\\",
       "projectStyle": "PackageReference",

@@ -33,5 +33,6 @@ internal class Program
         s = new Student() { Id = "SE09", Name = "Cuong", Yob = 2004, Gpa = 10.0 };
         listSE.addNew(s);
         listSE.printByGpaDesc();
+        listSE.printByIDAsc();
     }
 }

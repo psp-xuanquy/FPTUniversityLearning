@@ -57,7 +57,7 @@ internal class Program
         Student s1 = new Student(id: "SE-33", name: "Dao");
         Student s2 = new Student(id: "SE-66", name: "Xuan");
         Student s3 = new Student(id: "SE-99", name: "Quy");
-        Student[] s = new Student[30]; 
+        Student[] s = new Student[12]; 
         s[0] = new Student() { Id = "SE-00", Name = "Alpha", Yob = 2001 };
         s[1] = new Student() { Id = "SE-01", Name = "Beta", Yob = 2003 };
         s[2] = new Student() { Id = "SE-02", Name = "Caesar", Yob = 2005 };
@@ -71,7 +71,7 @@ internal class Program
         s[10] = new Student() { Id = "SE-10", Name = "Kappa", Yob = 2003 };
         s[11] = new Student(id: "SE-11", name: "Caba") { Yob = 1999};
 
-        Console.WriteLine("Student List before sorting:");
+        Console.WriteLine("Student List before sorting by Yob in descending order:");
         foreach (var student in s)
         {
             Console.WriteLine(student);
@@ -95,7 +95,7 @@ internal class Program
             }
         }
 
-        Console.WriteLine("Student List after sorting:");
+        Console.WriteLine("Student List after sorting by Yob in descending order:");
         foreach (var student in s)
         {
             Console.WriteLine(student);
