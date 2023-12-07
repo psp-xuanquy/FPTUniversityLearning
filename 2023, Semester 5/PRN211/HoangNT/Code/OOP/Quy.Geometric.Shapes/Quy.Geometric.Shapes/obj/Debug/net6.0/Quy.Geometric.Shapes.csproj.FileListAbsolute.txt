@@ -1,0 +1,29 @@
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.exe
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.deps.json
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.runtimeconfig.json
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.dll
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.pdb
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.AssemblyInfoInputs.cache
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.AssemblyInfo.cs
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.dll
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\refint\Quy.Geometric.Shapes.dll
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.pdb
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.genruntimeconfig.cache
+C:\Users\xquy1\Downloads\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\ref\Quy.Geometric.Shapes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\bin\Debug\net6.0\Quy.Geometric.Shapes.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\refint\Quy.Geometric.Shapes.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\Quy.Geometric.Shapes.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Code\OOP\Quy.Geometric.Shapes\Quy.Geometric.Shapes\obj\Debug\net6.0\ref\Quy.Geometric.Shapes.dll

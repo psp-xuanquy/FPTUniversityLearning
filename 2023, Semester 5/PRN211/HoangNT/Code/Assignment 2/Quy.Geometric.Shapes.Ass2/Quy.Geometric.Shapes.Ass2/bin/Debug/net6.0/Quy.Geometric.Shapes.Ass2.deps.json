@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quy.Geometric.Shapes.Ass2/1.0.0": {
+        "runtime": {
+          "Quy.Geometric.Shapes.Ass2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quy.Geometric.Shapes.Ass2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
