@@ -32,7 +32,7 @@ internal class Program
         //list[1] = s2;
         //list[2] = l1;
         //list[3] = l2;
-        Person[] list = new Person[] { s1, s2, l1, l2, new Student("SE99", "999", 2999, 9.9) };
+        Person[] list = new Person[] { s1, s2, l1, l2, new Student("SE99", "999", 1999, 9.9) };
 
         foreach (Person p in list)
         {

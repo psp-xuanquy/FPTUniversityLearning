@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quy.FAP.StudentManagerVer10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06d62b1382fd729d5d3533852698eb2ea926412a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quy.FAP.StudentManagerVer10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quy.FAP.StudentManagerVer10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
