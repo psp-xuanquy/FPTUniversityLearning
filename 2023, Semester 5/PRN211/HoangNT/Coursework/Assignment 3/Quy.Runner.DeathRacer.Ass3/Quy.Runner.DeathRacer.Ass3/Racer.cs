@@ -8,8 +8,6 @@ namespace Quy.Runner.DeathRacer.Ass3
 {
     internal interface Racer
     {
-        //Là 1 dạng class CHA đặc biệt, chứa hàm abstract ko có code
-
-        public double RunToDeath();
+        public abstract double RunToDeath();
     }
 }

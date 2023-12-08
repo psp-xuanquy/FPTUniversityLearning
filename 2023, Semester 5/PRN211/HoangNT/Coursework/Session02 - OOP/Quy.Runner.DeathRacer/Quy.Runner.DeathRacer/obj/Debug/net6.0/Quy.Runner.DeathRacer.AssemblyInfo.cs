@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quy.Runner.DeathRacer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d6715215b2b07d3b5b434196ae3dab502f60d50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb6f40c40c2c36823ce53dbb90b1348ad8180e59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quy.Runner.DeathRacer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quy.Runner.DeathRacer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

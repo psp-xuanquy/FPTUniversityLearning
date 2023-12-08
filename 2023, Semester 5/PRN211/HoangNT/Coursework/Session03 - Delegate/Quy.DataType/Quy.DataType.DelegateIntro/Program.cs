@@ -37,13 +37,20 @@ internal class Program
         f = SayHelloWorld;
         f();   //In ra nội dụng hàm SayHelloWorld
 
-        //
-        //
-        //
-        //
+        //VI DIỆU, Delegate ngầm phía sau là 1 class - ArrayList
+        //cho nên nó có thể lưu đc nhiều value bên trong
+        //tức là biến delegate có thể nhận vào nhiều hàm, thay vì chỉ 1 hàm như 2 lệnh ở trên
+        //Ta xài toán tử += để gán/nhồi liên tiếp các tên hàm vào trong delegate
 
-        //Hiện tại, f() đang lưu/trỏ/đại diện cho hàm SayHelloWorld(), ko quan tâm đến hàm SayHelloDoctor() ở trên 
+        //Hiện tại, trước lệnh này, f() đang lưu/trỏ/đại diện cho hàm SayHelloWorld()
+        //ko quan tâm đến hàm SayHelloDoctor() ở trên 
 
+        f += SayHelloEveryone;
+        f += SayHelloEverybody;   //f() đang lưu trong ram, đại diện cho 3 hàm
+                                  //giống hàm Add() trong ArrayList
+
+        f();   
+        //f.Invoke();
     }
 
 

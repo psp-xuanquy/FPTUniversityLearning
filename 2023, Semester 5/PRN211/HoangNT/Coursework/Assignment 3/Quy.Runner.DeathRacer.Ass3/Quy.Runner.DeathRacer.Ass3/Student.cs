@@ -13,13 +13,11 @@ namespace Quy.Runner.DeathRacer.Ass3
         public int Yob { get; set; }
         public double Gpa { get; set; }
 
-        //1 student vẫn là nó, nhưng có các đặc tính riêng 
-        public void DoQuiz()   //1 hành động bth của 1 Student
+        public void DoQuiz()
         {
             Console.WriteLine("Hi proctor, I'm doing PRN211 quizzes");
         }
 
-        //Vì sv đã tham gia vào clb đua Racer thì phải cam kết có hàm RunToDeath()
         public double RunToDeath() => System.Random.Shared.NextDouble() + 100;
     }
 }
