@@ -1,16 +1,22 @@
 ﻿
 //Thứ tự chơi DELEGATE
-//1. Xác định style loại hàm, định dạng hàm, đầu vào đầu ra của hàm 
-//2. Định nghĩa/tạo ra nhóm Delegate, DataType trỏ tới style hàm bằng cách dùng lệnh 'delegate' format hàm bao gồm tên delegate
-//Ex: delegate int F(int x, int y)
-//3. Tạo biến có kiểu delegate vừa tạo, dùng phép gán để trỏ đến 1 hàm nào đó cùng style
-//Ex: F x = ?? hàm nào đó cùng style ở đây. KO dùng dấu (), kẻo hiểu nhầm thành gọi hàm
-//Có thể dùng x += để trỏ 1 loạt hàm - multicast delegate
-//Có thể dùng anonymous hoặc lambda expression nếu muốn dùng hàm rút gọn
-//4. Gọi hàm qua 1 trong 2 cú pháp:
-//Cú pháp 1: Tên-biến(tham số)
-//Cú pháp 2: Tên-biến
-//5. In ra kết quả giống như hàm bth
+    //1. Xác định style loại hàm, định dạng hàm, đầu vào đầu ra của hàm 
+    //2. Định nghĩa/tạo ra nhóm Delegate, DataType trỏ tới style hàm bằng cách dùng lệnh 'delegate' format hàm bao gồm tên delegate
+        //Ex: delegate int F(int x, int y)
+    //3. Tạo biến có kiểu delegate vừa tạo, dùng phép gán để trỏ đến 1 hàm nào đó cùng style
+        //Ex: F x = ?? hàm nào đó cùng style ở đây. KO dùng dấu (), kẻo hiểu nhầm thành gọi hàm
+                    //Có thể dùng x += để trỏ 1 loạt hàm - multicast delegate
+                    //Có thể dùng anonymous hoặc lambda expression nếu muốn dùng hàm rút gọn
+    //4. Gọi hàm qua 1 trong 2 cú pháp:
+        //Cú pháp 1: Tên-biến(tham số)
+        //Cú pháp 2: Tên-biến
+    //5. In ra kết quả giống như hàm bth
+
+
+// Microsoft đưa ra 3 loại Delegate có sẵn, ta dùng luôn
+    //Action   --> ứng với hàm void ()
+    //Action<> --> ứng với hàm có tối đa 8 đầu vào
+    //Func<>   --> ứng với hàm có tối đa 10 đầu vào, có trả về return 
 
 using System.Threading.Channels;
 
