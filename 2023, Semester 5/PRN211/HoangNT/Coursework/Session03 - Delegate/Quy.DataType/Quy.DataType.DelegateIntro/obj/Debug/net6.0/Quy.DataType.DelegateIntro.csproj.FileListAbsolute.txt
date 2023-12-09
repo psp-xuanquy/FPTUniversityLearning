@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\bin\Debug\net6.0\Quy.DataType.DelegateIntro.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\bin\Debug\net6.0\Quy.DataType.DelegateIntro.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\bin\Debug\net6.0\Quy.DataType.DelegateIntro.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\bin\Debug\net6.0\Quy.DataType.DelegateIntro.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\bin\Debug\net6.0\Quy.DataType.DelegateIntro.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\refint\Quy.DataType.DelegateIntro.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\Quy.DataType.DelegateIntro.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session03 - Delegate\Quy.DataType\Quy.DataType.DelegateIntro\obj\Debug\net6.0\ref\Quy.DataType.DelegateIntro.dll
