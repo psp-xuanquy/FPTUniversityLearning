@@ -619,11 +619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
+      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
       "projectName": "MyStoreWinApp",
-      "projectPath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
+      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
       "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\obj\\",
+      "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -644,11 +644,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj"
+            "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\BusinessObject\\BusinessObject.csproj"
             },
-            "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj"
+            "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -681,7 +681,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

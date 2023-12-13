@@ -3187,11 +3187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\pe_hands-on\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\pe_hands-on\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\Repositories\\Repositories.csproj",
+      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\pe_hands-on\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\Repositories\\obj\\",
+      "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3269,7 +3269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

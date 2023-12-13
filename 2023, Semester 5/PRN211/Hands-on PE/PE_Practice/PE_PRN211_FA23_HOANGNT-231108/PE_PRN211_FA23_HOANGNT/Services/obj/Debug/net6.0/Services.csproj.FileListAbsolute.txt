@@ -1,0 +1,6 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.sourcelink.json

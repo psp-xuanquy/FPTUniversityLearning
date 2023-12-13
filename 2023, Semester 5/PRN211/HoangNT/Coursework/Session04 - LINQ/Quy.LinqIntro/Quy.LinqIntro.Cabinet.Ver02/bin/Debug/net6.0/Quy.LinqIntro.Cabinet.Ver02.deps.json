@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quy.LinqIntro.Cabinet.Ver02/1.0.0": {
+        "runtime": {
+          "Quy.LinqIntro.Cabinet.Ver02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quy.LinqIntro.Cabinet.Ver02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

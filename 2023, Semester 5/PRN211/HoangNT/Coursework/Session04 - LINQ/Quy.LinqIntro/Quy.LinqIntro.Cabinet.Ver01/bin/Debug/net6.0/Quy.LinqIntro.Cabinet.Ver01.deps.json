@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quy.LinqIntro.Cabinet.Ver01/1.0.0": {
+        "dependencies": {
+          "Quy.LinqIntro.StudentMgt": "1.0.0"
+        },
+        "runtime": {
+          "Quy.LinqIntro.Cabinet.Ver01.dll": {}
+        }
+      },
+      "Quy.LinqIntro.StudentMgt/1.0.0": {
+        "runtime": {
+          "Quy.LinqIntro.StudentMgt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quy.LinqIntro.Cabinet.Ver01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quy.LinqIntro.StudentMgt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

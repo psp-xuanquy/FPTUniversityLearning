@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzA5lNvaDTQYaP9Lf7SDnRd54qO0R54enAl74aibBMR+lix05/oMt7mdPVbAew9SmvjOvelEauE7rhicRB5PFw==",
+  "dgSpecHash": "spXB5QAM6xkijFS7/snKNu8HO4CL6xQlnBFscMKTv92NGQfq9G/iBTgggCnJZT6cHuoYSSX3L0aONFhSyp9M3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\pe_hands-on\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\BookStore_HoangNT\\BookStore_HoangNT.csproj",
+  "projectFilePath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_HOANGNT-231108\\PE_PRN211_FA23_HOANGNT\\BookStore_HoangNT\\BookStore_HoangNT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xquy1\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\xquy1\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

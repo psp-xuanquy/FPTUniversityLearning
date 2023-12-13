@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P3Zj1zetlQHfSRJGUcqz79GZZdn7FBmba2iggreoQKulQ+835CZQS0AwyYJVJ3F6nbKZg9wtDEmeEMYQziCsOg==",
+  "dgSpecHash": "gEXii20ggQqkq4n+7nh+jX/lUsODyluFi3EQYwQtmOTv5mYbQdgKy27DjGCBwOtls5r/OF57p+Dp5Y0oh7Aj8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
+  "projectFilePath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\MyStoreWinApp\\MyStoreWinApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

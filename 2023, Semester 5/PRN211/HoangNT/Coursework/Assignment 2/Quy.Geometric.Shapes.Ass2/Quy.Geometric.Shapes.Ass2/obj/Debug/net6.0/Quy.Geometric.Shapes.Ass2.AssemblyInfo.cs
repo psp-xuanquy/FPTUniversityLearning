@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quy.Geometric.Shapes.Ass2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e160a07c03805e5446563f37f88300f8cb90386")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quy.Geometric.Shapes.Ass2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quy.Geometric.Shapes.Ass2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

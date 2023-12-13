@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quy.DataType.DelegateAdvanced.Ver05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f269a80dcc7489d52dfeec3d6aea51e60149d67a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quy.DataType.DelegateAdvanced.Ver05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quy.DataType.DelegateAdvanced.Ver05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

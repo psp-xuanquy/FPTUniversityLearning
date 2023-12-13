@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.DataType.DelegateIntro"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.DataType.DelegateAdvanced", "Quy.DataType.DelegateAdvanced\Quy.DataType.DelegateAdvanced.csproj", "{BD327AFF-5176-489E-B7C7-029FA910E0E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.DataType.DelegateAdvanced.Ver02", "Quy.DataType.DelegateAdvanced.Ver02\Quy.DataType.DelegateAdvanced.Ver02.csproj", "{10A1722F-DF0B-4A76-B6ED-4D3FC7F11957}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.DataType.DelegateAdvanced.Ver02", "Quy.DataType.DelegateAdvanced.Ver02\Quy.DataType.DelegateAdvanced.Ver02.csproj", "{10A1722F-DF0B-4A76-B6ED-4D3FC7F11957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.DataType.DelegateAdvanced.Ver03", "Quy.DataType.DelegateAdvanced.Ver03\Quy.DataType.DelegateAdvanced.Ver03.csproj", "{AD4CBD74-4BE6-4E35-B2A4-37D370985F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.DataType.DelegateAdvanced.Ver03", "Quy.DataType.DelegateAdvanced.Ver03\Quy.DataType.DelegateAdvanced.Ver03.csproj", "{AD4CBD74-4BE6-4E35-B2A4-37D370985F08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.DataType.DelegateAdvanced.Ver04", "Quy.DataType.DelegateAdvanced.Ver04\Quy.DataType.DelegateAdvanced.Ver04.csproj", "{ACD4569A-8324-4FDA-BDE2-5F89E0B0ED92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.DataType.DelegateAdvanced.Ver04", "Quy.DataType.DelegateAdvanced.Ver04\Quy.DataType.DelegateAdvanced.Ver04.csproj", "{ACD4569A-8324-4FDA-BDE2-5F89E0B0ED92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.DataType.DelegateAdvanced.Ver05", "Quy.DataType.DelegateAdvanced.Ver05\Quy.DataType.DelegateAdvanced.Ver05.csproj", "{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quy.DataType.DelegateAdvanced.Ver05", "Quy.DataType.DelegateAdvanced.Ver05\Quy.DataType.DelegateAdvanced.Ver05.csproj", "{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quy.DataType.DelegateAdvanced.Ver06", "Quy.DataType.DelegateAdvanced.Ver06\Quy.DataType.DelegateAdvanced.Ver06.csproj", "{86B7A2F6-028B-429D-8D51-6F98956965F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B7A2F6-028B-429D-8D51-6F98956965F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B7A2F6-028B-429D-8D51-6F98956965F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B7A2F6-028B-429D-8D51-6F98956965F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B7A2F6-028B-429D-8D51-6F98956965F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

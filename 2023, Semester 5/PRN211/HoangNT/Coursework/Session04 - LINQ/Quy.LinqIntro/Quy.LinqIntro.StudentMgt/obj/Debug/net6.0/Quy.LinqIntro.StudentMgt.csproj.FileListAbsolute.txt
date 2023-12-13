@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\bin\Debug\net6.0\Quy.LinqIntro.StudentMgt.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\bin\Debug\net6.0\Quy.LinqIntro.StudentMgt.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\bin\Debug\net6.0\Quy.LinqIntro.StudentMgt.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\bin\Debug\net6.0\Quy.LinqIntro.StudentMgt.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\bin\Debug\net6.0\Quy.LinqIntro.StudentMgt.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\refint\Quy.LinqIntro.StudentMgt.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\Quy.LinqIntro.StudentMgt.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session04 - LINQ\Quy.LinqIntro\Quy.LinqIntro.StudentMgt\obj\Debug\net6.0\ref\Quy.LinqIntro.StudentMgt.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZP8KVWILXPwLxwGwwGK50W/6AUDSt3drA6hKwvSlTO4Fv1QA9RpRSQxpdaxu4M/k/przKywSWsyRcMIM2DE7Hg==",
+  "dgSpecHash": "1y6dMNXFaXrecA9/Kw5h5QyMeGJxsRiaYvnv66eU7plW4w1MpYBRE9jhwtPoLo0clPnpsTCtJWRoMI35nMa39w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xquy1\\OneDrive\\Documents\\FPT\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Assignments\\Assignment 01\\Assigment01_MemberManagement\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
