@@ -1,0 +1,17 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\bin\Debug\net6.0-windows\BookManagement_QuyDX.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\bin\Debug\net6.0-windows\BookManagement_QuyDX.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\bin\Debug\net6.0-windows\BookManagement_QuyDX.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\bin\Debug\net6.0-windows\BookManagement_QuyDX.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\bin\Debug\net6.0-windows\BookManagement_QuyDX.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.Form1.resources
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.csproj.GenerateResource.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\refint\BookManagement_QuyDX.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\BookManagement_QuyDX.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\BookManagement_QuyDX\obj\Debug\net6.0-windows\ref\BookManagement_QuyDX.dll

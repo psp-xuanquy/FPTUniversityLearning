@@ -1,0 +1,12 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\bin\Debug\net6.0\Services.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\bin\Debug\net6.0\Services.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\bin\Debug\net6.0\Services.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\refint\Services.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\Services.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Session05 - Database\BookManagement\Services\obj\Debug\net6.0\ref\Services.dll
