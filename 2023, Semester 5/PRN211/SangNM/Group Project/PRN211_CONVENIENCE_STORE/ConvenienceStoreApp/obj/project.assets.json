@@ -5975,23 +5975,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tuan Anh\\.nuget\\packages\\": {},
+    "C:\\Users\\xquy1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\ConvenienceStoreApp\\ConvenienceStoreApp.csproj",
+      "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\ConvenienceStoreApp\\ConvenienceStoreApp.csproj",
       "projectName": "ConvenienceStoreApp",
-      "projectPath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\ConvenienceStoreApp\\ConvenienceStoreApp.csproj",
-      "packagesPath": "C:\\Users\\Tuan Anh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\ConvenienceStoreApp\\obj\\",
+      "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\ConvenienceStoreApp\\ConvenienceStoreApp.csproj",
+      "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
+      "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\ConvenienceStoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Tuan Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xquy1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6006,11 +6006,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\BusinessObject\\BusinessObject.csproj"
+            "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\BusinessObject\\BusinessObject.csproj"
             },
-            "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Tuan Anh\\Documents\\Subject\\PRN211\\Group_Project\\PRN211_CONVENIENCE_STORE-master\\DataAccess\\DataAccess.csproj"
+            "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\SangNM\\Group Project\\PRN211_CONVENIENCE_STORE\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -6043,7 +6043,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

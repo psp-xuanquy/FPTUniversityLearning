@@ -16,3 +16,22 @@ C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STOR
 C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\DataAccess\obj\Debug\net5.0\DataAccess.pdb
 C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
 C:\Users\Tuan Anh\Documents\Subject\PRN211\Group_Project\PRN211_CONVENIENCE_STORE-master\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\SangNM\Group Project\PRN211_CONVENIENCE_STORE\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll

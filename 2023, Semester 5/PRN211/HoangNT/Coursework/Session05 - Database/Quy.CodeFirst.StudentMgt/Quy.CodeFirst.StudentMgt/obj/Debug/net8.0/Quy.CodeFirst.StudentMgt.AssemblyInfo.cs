@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quy.CodeFirst.StudentMgt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a9c149a0db5f60fd543cb4cf1032cf93d533868")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quy.CodeFirst.StudentMgt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quy.CodeFirst.StudentMgt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
