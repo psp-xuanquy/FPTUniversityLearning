@@ -1,0 +1,60 @@
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.deps.json
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\refint\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\BSDAO\obj\Debug\net6.0\ref\BSDAO.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.deps.json
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.AssemblyReference.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfoInputs.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfo.cs
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CoreCompileInputs.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CopyComplete
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\refint\BSDAO.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\BSDAO\obj\Debug\net6.0\ref\BSDAO.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.deps.json
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfo.cs
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CopyComplete
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\refint\BSDAO.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\BSDAO\obj\Debug\net6.0\ref\BSDAO.dll
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.deps.json
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.dll
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\bin\Debug\net6.0\BSDAO.pdb
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.dll
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\bin\Debug\net6.0\BusinessObject.pdb
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.AssemblyReference.cache
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfoInputs.cache
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.AssemblyInfo.cs
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CoreCompileInputs.cache
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.csproj.CopyComplete
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.dll
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\refint\BSDAO.dll
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\BSDAO.pdb
+E:\School\PRN211\GRP\ProjectPrn211\BSDAO\obj\Debug\net6.0\ref\BSDAO.dll

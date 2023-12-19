@@ -1,0 +1,292 @@
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.exe
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.deps.json
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ProjectPrn211.Form1.resources
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\refint\BSAPP.dll
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.pdb
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ref\BSAPP.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.exe
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\appsettings.json
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.deps.json
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.runtimeconfig.json
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Humanizer.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.AssemblyReference.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.HomePage.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.GenerateResource.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfoInputs.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfo.cs
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CoreCompileInputs.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CopyComplete
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\refint\BSAPP.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.pdb
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.genruntimeconfig.cache
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ref\BSAPP.dll
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.BirdManager.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.NestManager.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.Properties.Resources.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewCart.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewParents.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ManageAccount.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ManageProducts.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.RegisterForm.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ProjectPrn211.LoginForm.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.CreateOrder.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.PendingOrders.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.PurchasedOrders.resources
+D:\C# Project\Window Form\ProjectPrn211\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewOrders.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.exe
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.deps.json
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.runtimeconfig.json
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.BirdManager.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.CreateOrder.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.HomePage.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ProjectPrn211.LoginForm.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ManageAccount.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ManageProducts.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.NestManager.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.OrderStatusManager.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.PendingOrders.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.Properties.Resources.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.PurchasedOrders.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.RegisterForm.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewCart.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewOrders.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewParents.resources
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfo.cs
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CopyComplete
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\refint\BSAPP.dll
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.pdb
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.genruntimeconfig.cache
+C:\Users\pc\Downloads\Project\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ref\BSAPP.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.exe
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\appsettings.json
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.deps.json
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.runtimeconfig.json
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSAPP.pdb
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Humanizer.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSRepositories.pdb
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BusinessObject.pdb
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\bin\Debug\net6.0-windows\BSDAO.pdb
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.AssemblyReference.cache
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.BirdManager.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.CreateOrder.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.HomePage.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ProjectPrn211.LoginForm.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ManageAccount.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ManageProducts.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.NestManager.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.OrderStatusManager.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.PendingOrders.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.Properties.Resources.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.PurchasedOrders.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.RegisterForm.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewCart.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewOrders.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.ViewParents.resources
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.GenerateResource.cache
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfoInputs.cache
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.AssemblyInfo.cs
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CoreCompileInputs.cache
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.csproj.CopyComplete
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\refint\BSAPP.dll
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.pdb
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\BSAPP.genruntimeconfig.cache
+E:\School\PRN211\GRP\ProjectPrn211\ProjectPrn211\obj\Debug\net6.0-windows\ref\BSAPP.dll
