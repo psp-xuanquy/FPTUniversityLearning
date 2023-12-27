@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMCarManagement", "CRMCarManagement\CRMCarManagement.csproj", "{EFA4C374-808C-4ED0-9094-D764AF9E6DA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA4C374-808C-4ED0-9094-D764AF9E6DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA4C374-808C-4ED0-9094-D764AF9E6DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA4C374-808C-4ED0-9094-D764AF9E6DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA4C374-808C-4ED0-9094-D764AF9E6DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77EFF02-3A5B-4D4B-8E36-8709CA999491}
+	EndGlobalSection
+EndGlobal
