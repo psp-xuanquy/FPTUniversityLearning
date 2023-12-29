@@ -71,10 +71,10 @@ namespace DocnetCorePractice
             }
 
             //app.UseMiddleware<ApiKeyAuthenExtension>();
+            app.UseRouting();
             app.UseAuthorization();
             app.UseSerilogRequestLogging();
             app.MapControllers();
-            app.UseRouting();
             app.UseEndpoints(endpoint =>
             {
                 endpoint.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");

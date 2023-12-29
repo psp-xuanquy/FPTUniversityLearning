@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DocnetCorePractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ecb2fe511496e030080ebb1129e636e02695a23")]
 [assembly: System.Reflection.AssemblyProductAttribute("DocnetCorePractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DocnetCorePractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

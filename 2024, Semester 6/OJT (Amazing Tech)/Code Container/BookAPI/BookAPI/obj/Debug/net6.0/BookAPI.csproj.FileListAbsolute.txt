@@ -1,0 +1,8 @@
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.csproj.AssemblyReference.cache
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.AssemblyInfo.cs
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\BookAPI\BookAPI\obj\Debug\net6.0\BookAPI.sourcelink.json

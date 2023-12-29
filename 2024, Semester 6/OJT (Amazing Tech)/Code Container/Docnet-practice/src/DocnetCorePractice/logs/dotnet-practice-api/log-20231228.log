@@ -1,0 +1,181 @@
+2023-12-28T15:10:36.4076902+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-12-28T15:10:36.4638729+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-12-28T15:10:36.4678888+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T15:10:36.4684005+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T15:10:36.4688758+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T15:10:45.5877195+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 84.9860 ms
+2023-12-28T15:10:46.3354437+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 5.8993 ms
+2023-12-28T15:10:51.4396517+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 0.4240 ms
+2023-12-28T15:11:07.7868797+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T15:11:08.0037026+07:00 [INF] () [{"Name":"Iced Milk Coffee","Type":0,"Price":15000.0,"Discount":10,"IsActive":true,"Id":"cc3f9bb6eb1e44be98b87caf52b1cfbb","CreateTimes":"2023-12-28T15:11:07.7883543+07:00","LastUpdateTimes":"2023-12-28T15:11:07.7884+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Iced Black Coffee","Type":0,"Price":20000.0,"Discount":15,"IsActive":true,"Id":"0b422268833541379fb8c3883b7e236c","CreateTimes":"2023-12-28T15:11:07.7886614+07:00","LastUpdateTimes":"2023-12-28T15:11:07.7886615+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Mocha Coffee","Type":2,"Price":30000.0,"Discount":25,"IsActive":true,"Id":"3ddd2c7722594a1b9e0d54f28e21e91d","CreateTimes":"2023-12-28T15:11:07.7886659+07:00","LastUpdateTimes":"2023-12-28T15:11:07.788666+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T15:11:08.0054386+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 237.6852 ms
+2023-12-28T15:32:51.9151815+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-12-28T15:32:51.9634642+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-12-28T15:32:51.9665371+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T15:32:51.9670316+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T15:32:51.9675511+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T15:32:59.5762792+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 86.7615 ms
+2023-12-28T15:32:59.8165010+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 2.9116 ms
+2023-12-28T15:33:24.8775235+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T15:33:25.0629680+07:00 [INF] () [{"Name":"Iced Milk Coffee","Type":0,"Price":15000.0,"Discount":10,"IsActive":true,"Id":"9788c364a1ff4e11863f1e180128adb8","CreateTimes":"2023-12-28T15:33:24.8795339+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8795917+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Iced Black Coffee","Type":0,"Price":20000.0,"Discount":15,"IsActive":true,"Id":"0a0df48391af4057bfd6982ccb8a8133","CreateTimes":"2023-12-28T15:33:24.8798949+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8798951+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Mocha Coffee","Type":2,"Price":30000.0,"Discount":25,"IsActive":true,"Id":"17c528d48a5c4f17ad9c56aaa687b1a7","CreateTimes":"2023-12-28T15:33:24.8799006+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8799006+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T15:33:25.0653841+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 208.0834 ms
+2023-12-28T15:33:26.4795889+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T15:33:26.4808616+07:00 [INF] () [{"Name":"Iced Milk Coffee","Type":0,"Price":15000.0,"Discount":10,"IsActive":true,"Id":"9788c364a1ff4e11863f1e180128adb8","CreateTimes":"2023-12-28T15:33:24.8795339+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8795917+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Iced Black Coffee","Type":0,"Price":20000.0,"Discount":15,"IsActive":true,"Id":"0a0df48391af4057bfd6982ccb8a8133","CreateTimes":"2023-12-28T15:33:24.8798949+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8798951+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Mocha Coffee","Type":2,"Price":30000.0,"Discount":25,"IsActive":true,"Id":"17c528d48a5c4f17ad9c56aaa687b1a7","CreateTimes":"2023-12-28T15:33:24.8799006+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8799006+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T15:33:26.4823709+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 8.6801 ms
+2023-12-28T15:33:27.1820420+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T15:33:27.1829649+07:00 [INF] () [{"Name":"Iced Milk Coffee","Type":0,"Price":15000.0,"Discount":10,"IsActive":true,"Id":"9788c364a1ff4e11863f1e180128adb8","CreateTimes":"2023-12-28T15:33:24.8795339+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8795917+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Iced Black Coffee","Type":0,"Price":20000.0,"Discount":15,"IsActive":true,"Id":"0a0df48391af4057bfd6982ccb8a8133","CreateTimes":"2023-12-28T15:33:24.8798949+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8798951+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Mocha Coffee","Type":2,"Price":30000.0,"Discount":25,"IsActive":true,"Id":"17c528d48a5c4f17ad9c56aaa687b1a7","CreateTimes":"2023-12-28T15:33:24.8799006+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8799006+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T15:33:27.1865695+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 6.7530 ms
+2023-12-28T15:33:41.7341939+07:00 [INF] () Start retrieving caffe with Id 0
+2023-12-28T15:33:41.7353705+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/0" responded 204 in 51.3834 ms
+2023-12-28T15:33:51.0393884+07:00 [INF] () Start retrieving caffe with Id 1
+2023-12-28T15:33:51.0404905+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/1" responded 204 in 1.7695 ms
+2023-12-28T15:34:01.6049644+07:00 [INF] () Start retrieving caffe with Id 2
+2023-12-28T15:34:01.6057647+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/2" responded 204 in 1.0269 ms
+2023-12-28T15:34:12.9976956+07:00 [INF] () Start retrieving caffe with Id true
+2023-12-28T15:34:12.9982943+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/true" responded 204 in 0.7288 ms
+2023-12-28T15:34:30.8839450+07:00 [INF] () Start updating caffe with Id 2
+2023-12-28T15:34:30.8853362+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "PUT" "/api/action/update-caffe/2" responded 404 in 40.9612 ms
+2023-12-28T15:34:44.2524193+07:00 [INF] () Start updating caffe with Id 0
+2023-12-28T15:34:44.2533092+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "PUT" "/api/action/update-caffe/0" responded 404 in 1.3626 ms
+2023-12-28T15:34:57.1541150+07:00 [INF] () Start deleting caffe with Id 0
+2023-12-28T15:34:57.1554012+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "DELETE" "/api/action/delete-caffe/0" responded 404 in 3.0201 ms
+2023-12-28T15:35:46.6840842+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T15:35:46.6882848+07:00 [INF] () [{"Name":"Iced Milk Coffee","Type":0,"Price":15000.0,"Discount":10,"IsActive":true,"Id":"9788c364a1ff4e11863f1e180128adb8","CreateTimes":"2023-12-28T15:33:24.8795339+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8795917+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Iced Black Coffee","Type":0,"Price":20000.0,"Discount":15,"IsActive":true,"Id":"0a0df48391af4057bfd6982ccb8a8133","CreateTimes":"2023-12-28T15:33:24.8798949+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8798951+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"Mocha Coffee","Type":2,"Price":30000.0,"Discount":25,"IsActive":true,"Id":"17c528d48a5c4f17ad9c56aaa687b1a7","CreateTimes":"2023-12-28T15:33:24.8799006+07:00","LastUpdateTimes":"2023-12-28T15:33:24.8799006+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T15:35:46.6908921+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 6.8788 ms
+2023-12-28T15:50:10.1338189+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-12-28T15:50:10.2470243+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-12-28T15:50:10.2504396+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T15:50:10.2510498+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T15:50:10.2515672+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T15:50:13.0594116+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 118.0382 ms
+2023-12-28T15:50:13.4859136+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 2.9498 ms
+2023-12-28T15:50:17.2565786+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/sưagger" responded 404 in 0.6409 ms
+2023-12-28T15:50:34.1345743+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T15:50:34.2170540+07:00 [ERR] () Error during retrieving active caffes
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DocnetCorePractice.Controllers.ActionController.GetAllActiveCaffe() in D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\Controllers\ActionController.cs:line 111
+2023-12-28T15:50:34.2709589+07:00 [ERR] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 500 in 153.8605 ms
+2023-12-28T15:51:23.8372133+07:00 [INF] () Start Inserting new caffe
+2023-12-28T15:51:23.8578686+07:00 [ERR] () Error during Caffe insertion
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at DocnetCorePractice.Controllers.ActionController.InsertCaffe(CaffeModel caffeModel) in D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\Controllers\ActionController.cs:line 67
+2023-12-28T15:51:23.8592659+07:00 [ERR] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 500 in 95.5441 ms
+2023-12-28T18:44:16.3268801+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-12-28T18:44:16.3691320+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-12-28T18:44:16.3716150+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T18:44:16.3720284+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T18:44:16.3723733+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T18:44:23.7861320+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 94.7602 ms
+2023-12-28T18:44:24.4674425+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 3.4372 ms
+2023-12-28T19:06:29.5636636+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-12-28T19:06:29.6356144+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-12-28T19:06:29.6387826+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T19:06:29.6392692+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T19:06:29.6397368+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T19:06:34.0101002+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 50.4972 ms
+2023-12-28T19:06:34.6058981+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 2.8661 ms
+2023-12-28T19:07:30.5760806+07:00 [ERR] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/getalluser" responded 500 in 5.2277 ms
+System.InvalidOperationException: Endpoint DocnetCorePractice.Controllers.ActionController.GetAllUser (DocnetCorePractice) contains authorization metadata, but a middleware was not found that supports authorization.
+Configure your application startup by adding app.UseAuthorization() in the application startup code. If there are calls to app.UseRouting() and app.UseEndpoints(...), the call to app.UseAuthorization() must go between them.
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingAuthMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-12-28T19:07:30.6674249+07:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint DocnetCorePractice.Controllers.ActionController.GetAllUser (DocnetCorePractice) contains authorization metadata, but a middleware was not found that supports authorization.
+Configure your application startup by adding app.UseAuthorization() in the application startup code. If there are calls to app.UseRouting() and app.UseEndpoints(...), the call to app.UseAuthorization() must go between them.
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingAuthMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-12-28T19:08:12.8468902+07:00 [ERR] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/getalluser" responded 500 in 10.8110 ms
+System.InvalidOperationException: Endpoint DocnetCorePractice.Controllers.ActionController.GetAllUser (DocnetCorePractice) contains authorization metadata, but a middleware was not found that supports authorization.
+Configure your application startup by adding app.UseAuthorization() in the application startup code. If there are calls to app.UseRouting() and app.UseEndpoints(...), the call to app.UseAuthorization() must go between them.
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingAuthMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-12-28T19:08:12.8503606+07:00 [ERR] (Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware) An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Endpoint DocnetCorePractice.Controllers.ActionController.GetAllUser (DocnetCorePractice) contains authorization metadata, but a middleware was not found that supports authorization.
+Configure your application startup by adding app.UseAuthorization() in the application startup code. If there are calls to app.UseRouting() and app.UseEndpoints(...), the call to app.UseAuthorization() must go between them.
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.ThrowMissingAuthMiddlewareException(Endpoint endpoint)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-12-28T19:13:50.4859095+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-12-28T19:13:50.5896053+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-12-28T19:13:50.5943123+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T19:13:50.5951406+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T19:13:50.5961190+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T19:13:55.4408899+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 30.8842 ms
+2023-12-28T19:13:55.6262779+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 0.0843 ms
+2023-12-28T19:16:20.3006201+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7089"
+2023-12-28T19:16:20.3416795+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5117"
+2023-12-28T19:16:20.3443512+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T19:16:20.3447880+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T19:16:20.3451697+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T19:16:25.9394170+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 22.5177 ms
+2023-12-28T19:16:26.1520568+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 0.0962 ms
+2023-12-28T20:12:27.2966923+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7089"
+2023-12-28T20:12:27.3418188+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5117"
+2023-12-28T20:12:27.3446967+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T20:12:27.3452262+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T20:12:27.3458044+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T20:12:32.8963839+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 55.1897 ms
+2023-12-28T20:12:33.1176966+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 0.0849 ms
+2023-12-28T20:12:51.8300264+07:00 [INF] () Start Inserting new caffe
+2023-12-28T20:12:52.0603288+07:00 [INF] () [{"Name":"Ca phe sua","Type":0,"Price":20000.0,"Discount":10,"IsActive":true,"Id":"6b3d448bcb84482984eb48530a061a27","CreateTimes":"2023-12-28T20:12:51.8331096+07:00","LastUpdateTimes":"2023-12-28T20:12:51.8331098+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"string","Type":0,"Price":0.0,"Discount":0,"IsActive":true,"Id":"string","CreateTimes":"2023-12-28T20:12:51.8336425+07:00","LastUpdateTimes":"2023-12-28T20:12:51.833643+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T20:12:52.0661748+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 200 in 354.1210 ms
+2023-12-28T20:13:00.5658456+07:00 [INF] () Start Inserting new caffe
+2023-12-28T20:13:00.5669744+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 400 in 1.9247 ms
+2023-12-28T20:13:10.0381183+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T20:13:10.0391185+07:00 [INF] () [{"Name":"Ca phe sua","Type":0,"Price":20000.0,"Discount":10,"IsActive":true,"Id":"6b3d448bcb84482984eb48530a061a27","CreateTimes":"2023-12-28T20:12:51.8331096+07:00","LastUpdateTimes":"2023-12-28T20:12:51.8331098+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"string","Type":0,"Price":0.0,"Discount":0,"IsActive":true,"Id":"string","CreateTimes":"2023-12-28T20:12:51.8336425+07:00","LastUpdateTimes":"2023-12-28T20:12:51.833643+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T20:13:10.0398800+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 7.4805 ms
+2023-12-28T20:13:11.7436441+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T20:13:11.7450472+07:00 [INF] () [{"Name":"Ca phe sua","Type":0,"Price":20000.0,"Discount":10,"IsActive":true,"Id":"6b3d448bcb84482984eb48530a061a27","CreateTimes":"2023-12-28T20:12:51.8331096+07:00","LastUpdateTimes":"2023-12-28T20:12:51.8331098+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"string","Type":0,"Price":0.0,"Discount":0,"IsActive":true,"Id":"string","CreateTimes":"2023-12-28T20:12:51.8336425+07:00","LastUpdateTimes":"2023-12-28T20:12:51.833643+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T20:13:11.7559857+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 12.3767 ms
+2023-12-28T20:13:30.6726618+07:00 [INF] () Start retrieving caffe with Id 0
+2023-12-28T20:13:30.6740699+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/0" responded 204 in 14.6259 ms
+2023-12-28T20:13:47.4710291+07:00 [INF] () Start updating caffe with Id string
+2023-12-28T20:13:47.4721371+07:00 [INF] () Caffe with Id string updated successfully: {"Name":"string","Type":0,"Price":0.0,"Discount":0,"IsActive":true,"Id":"string","CreateTimes":"2023-12-28T20:12:51.8336425+07:00","LastUpdateTimes":"2023-12-28T20:12:51.833643+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}
+2023-12-28T20:13:47.4792635+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "PUT" "/api/action/update-caffe/string" responded 200 in 22.0371 ms
+2023-12-28T20:14:08.2147327+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T20:14:08.2167100+07:00 [INF] () [{"Name":"Ca phe sua","Type":0,"Price":20000.0,"Discount":10,"IsActive":true,"Id":"6b3d448bcb84482984eb48530a061a27","CreateTimes":"2023-12-28T20:12:51.8331096+07:00","LastUpdateTimes":"2023-12-28T20:12:51.8331098+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"},{"Name":"string","Type":0,"Price":0.0,"Discount":0,"IsActive":true,"Id":"string","CreateTimes":"2023-12-28T20:12:51.8336425+07:00","LastUpdateTimes":"2023-12-28T20:12:51.833643+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T20:14:08.2185015+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 3.8474 ms
+2023-12-28T20:14:19.9509585+07:00 [INF] () Start retrieving caffe with Id string
+2023-12-28T20:14:19.9552694+07:00 [INF] () Caffe found: "{\"Name\":\"string\",\"Type\":0,\"Price\":0.0,\"Discount\":0,\"IsActive\":true,\"Id\":\"string\",\"CreateTimes\":\"2023-12-28T20:12:51.8336425+07:00\",\"LastUpdateTimes\":\"2023-12-28T20:12:51.833643+07:00\",\"CreateUser\":\"0001-01-01T00:00:00\",\"LastUpdateUser\":\"0001-01-01T00:00:00\"}"
+2023-12-28T20:14:19.9564193+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/string" responded 200 in 5.6194 ms
+2023-12-28T20:14:33.4096558+07:00 [INF] () Start updating caffe with Id string
+2023-12-28T20:14:33.4129095+07:00 [INF] () Caffe with Id string updated successfully: {"Name":"string","Type":0,"Price":0.0,"Discount":0,"IsActive":true,"Id":"string","CreateTimes":"2023-12-28T20:12:51.8336425+07:00","LastUpdateTimes":"2023-12-28T20:12:51.833643+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}
+2023-12-28T20:14:33.4157793+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "PUT" "/api/action/update-caffe/string" responded 200 in 6.7770 ms
+2023-12-28T20:17:34.8178564+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 400 in 15.5371 ms
+2023-12-28T20:17:48.7983151+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 400 in 1.0750 ms
+2023-12-28T20:18:00.0396741+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 400 in 1.0033 ms
+2023-12-28T20:20:09.9739843+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7089"
+2023-12-28T20:20:10.0687407+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5117"
+2023-12-28T20:20:10.0761386+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-28T20:20:10.0772528+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-28T20:20:10.0781275+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-28T20:20:14.7416853+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 26.6764 ms
+2023-12-28T20:20:14.9546113+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 0.3466 ms
+2023-12-28T20:20:46.8652404+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/action/insert-caffe" responded 400 in 89.3057 ms
+2023-12-28T20:20:58.0265820+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T20:20:58.2394203+07:00 [INF] () [{"Name":"Ca phe sua","Type":0,"Price":20000.0,"Discount":10,"IsActive":true,"Id":"474801f99b334838ad1da2161c7e803b","CreateTimes":"2023-12-28T20:20:58.0288327+07:00","LastUpdateTimes":"2023-12-28T20:20:58.028833+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T20:20:58.2405081+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 236.7189 ms
+2023-12-28T20:20:59.2994024+07:00 [INF] () Start retrieving all active caffes
+2023-12-28T20:20:59.3083639+07:00 [INF] () [{"Name":"Ca phe sua","Type":0,"Price":20000.0,"Discount":10,"IsActive":true,"Id":"474801f99b334838ad1da2161c7e803b","CreateTimes":"2023-12-28T20:20:58.0288327+07:00","LastUpdateTimes":"2023-12-28T20:20:58.028833+07:00","CreateUser":"0001-01-01T00:00:00","LastUpdateUser":"0001-01-01T00:00:00"}]
+2023-12-28T20:20:59.3093663+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-active-caffe" responded 200 in 13.1264 ms
+2023-12-28T20:21:14.8317034+07:00 [INF] () Start retrieving caffe with Id string
+2023-12-28T20:21:14.8354379+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/api/action/get-all-detail-caffe-by-id/string" responded 204 in 8.4214 ms

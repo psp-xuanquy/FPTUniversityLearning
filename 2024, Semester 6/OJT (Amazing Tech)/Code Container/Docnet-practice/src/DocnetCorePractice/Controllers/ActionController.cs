@@ -1,5 +1,6 @@
 ﻿using DocnetCorePractice.Attribute;
 using DocnetCorePractice.Data.Entity;
+using DocnetCorePractice.Enum;
 using DocnetCorePractice.Model;
 using DocnetCorePractice.Service;
 using DocnetCorePractice.Services;
@@ -24,45 +25,39 @@ namespace DocnetCorePractice.Controllers
             _logger = Log.Logger;
         }
 
-        private static List<CaffeEntity> caffes = new List<CaffeEntity>()
+        private static List<UserEntity> users = new List<UserEntity>()
         {
-            new CaffeEntity() 
-            { 
-                Id = Guid.NewGuid().ToString("N"), 
-                Name = "Iced Milk Coffee", 
-                Type = Enum.ProductType.A, 
-                Price = 15_000, 
-                Discount = 10, 
-                IsActive = true 
-            },
-            new CaffeEntity() 
-            { 
-                Id = Guid.NewGuid().ToString("N"), 
-                Name = "Iced Black Coffee", 
-                Type = Enum.ProductType.A,
-                Price = 20_000, 
-                Discount = 15, 
-                IsActive = true 
-            },
-            new CaffeEntity() 
-            { 
-                Id = Guid.NewGuid().ToString("N"), 
-                Name = "Hot Milk Coffee",
-                Type = Enum.ProductType.B,
-                Price = 25_000, 
-                Discount = 20, 
-                IsActive = false 
-            },
-            new CaffeEntity() 
-            { 
-                Id = Guid.NewGuid().ToString("N"), 
-                Name = "Mocha Coffee", 
-                Type = Enum.ProductType.C, 
-                Price = 30_000, 
-                Discount = 25, 
-                IsActive = true 
+            new UserEntity()
+            {
+                Id = Guid.NewGuid().ToString("N"),
+                FirstName = "huy",
+                LastName = "nguyen",
+                Sex = Enum.Sex.Male,
+                Address = "Ho chi Minh",
+                Balance = 100000,
+                DateOfBirth = DateTime.Now,
+                PhoneNumber = "0123456789",
+                Roles = Enum.Roles.Basic,
+                TotalProduct = 0,
+                IsActive = true
             }
         };
+
+        private static List<CaffeEntity> caffes = new List<CaffeEntity>()
+        {
+            new CaffeEntity()
+            {
+                Id = Guid.NewGuid().ToString("N"),
+                Name = "Ca phe sua",
+                Price = 20000,
+                Discount = 10,
+                Type = Enum.ProductType.A,
+                IsActive = true
+            }
+        };
+
+        private static List<OrderItemEntity> orderItems = new List<OrderItemEntity>();
+        private static List<OrderEntity> orders = new List<OrderEntity>();
 
         [HttpPost]
         [Route("/api/[controller]/login")]
@@ -80,7 +75,7 @@ namespace DocnetCorePractice.Controllers
             return Ok(result);
         }
 
-        
+
         [HttpPost("/api/[controller]/adduser")]
         public IActionResult AddUser([FromBody] UserModel model)
         {
@@ -93,7 +88,6 @@ namespace DocnetCorePractice.Controllers
         //      - Name và Id không tồn tại trong CaffeEntity (nếu không thỏa return code 400)
         //      - Price hoặc discount >= 0 (nếu không thỏa return code 400)
         //   Nếu có điều kiện nào vi phạm thì không insert và return failed.
-
         [HttpPost]
         [Route("/api/[controller]/insert-caffe")]
         public IActionResult InsertCaffe([FromBody] CaffeModel caffeModel)
@@ -102,10 +96,10 @@ namespace DocnetCorePractice.Controllers
             {
                 _logger.Information("Start Inserting new caffe");
 
-                var existCaffeId = caffes.Where(x => x.Id == caffeModel.Id).FirstOrDefault();
-                var existCaffeName = caffes.Where(x => x.Name == caffeModel.Name).FirstOrDefault();
+                var existCaffeId = caffes.Any(x => x.Id == caffeModel.Id);
+                var existCaffeName = caffes.Any(x => x.Name == caffeModel.Name);
 
-                if (existCaffeId != null || existCaffeName != null)
+                if (existCaffeId || existCaffeName)
                 {
                     return BadRequest("Caffe Name or Id has already existed in the menu.");
                 }
@@ -125,10 +119,11 @@ namespace DocnetCorePractice.Controllers
                     IsActive = true
                 };
                 caffes.Add(newCaffe);
+
                 var jsonCaffe = JsonConvert.SerializeObject(caffes);
                 _logger.Information(jsonCaffe);
-                return Ok(caffes);
-            } 
+                return Ok(new { Message = "Caffe inserted successfully", CaffeId = newCaffe.Id });
+            }
             catch (Exception ex)
             {
                 _logger.Error(ex, "Error during Caffe insertion");
@@ -137,7 +132,6 @@ namespace DocnetCorePractice.Controllers
         }
 
         // 2. Viết API get all caffe có IsActive = true theo CaffeModel. nếu không có caffe nào thì return code 204
-
         [HttpGet]
         [Route("/api/[controller]/get-all-active-caffe")]
         public IActionResult GetAllActiveCaffe()
@@ -165,10 +159,9 @@ namespace DocnetCorePractice.Controllers
         }
 
         // 3. Viết API get detail caffe có input là Id với điều kiện isActive bằng true. Nếu không có user nào thì return code 204
-
         [HttpGet]
         [Route("/api/[controller]/get-all-detail-caffe-by-id/{id}")]
-        public IActionResult GetCaffeById(string id) 
+        public IActionResult GetCaffeById(string id)
         {
             try
             {
@@ -196,7 +189,6 @@ namespace DocnetCorePractice.Controllers
         //      - Id tồn tại trong CaffeEntity (nếu không thỏa return code 404)
         //      - Price hoặc discount >= 0 (nếu không thỏa return code 400)
         //   Nếu có điều kiện nào vi phạm thì không insert và return failed.
-
         [HttpPut]
         [Route("/api/[controller]/update-caffe/{id}")]
         public IActionResult UpdateCaffe(string id, [FromBody] CaffeEntity updatedCaffe)
@@ -233,7 +225,6 @@ namespace DocnetCorePractice.Controllers
 
         // 5. Viết API Delete caffe với input là Id. Caffe sẽ được delete nếu thỏa điều kiện sau:
         //      - Id tồn tại trong CaffeEntity (nếu không thỏa return code 400)
-
         [HttpDelete]
         [Route("/api/[controller]/delete-caffe/{id}")]
         public IActionResult DeleteCaffe(string id)
@@ -266,16 +257,137 @@ namespace DocnetCorePractice.Controllers
         //      - PhoneNumber phải đúng 10 ký tự (nếu không thỏa return code 400)
         //      - Balance hoặc TotalProduct >= 0 (nếu không thỏa return code 400)
         //  Nếu có điều kiện nào vi phạm thì không insert và return failed.
+        [HttpPost]
+        [Route("/api/[controller]/insert-user")]
+        public IActionResult InsertUser([FromBody] UserModel userModel)
+        {
+            try
+            {
+                _logger.Information("Start inserting new user");
 
+                if (users.Any(user => user.PhoneNumber == userModel.PhoneNumber || user.Id == userModel.Id))
+                {
+                    return BadRequest("PhoneNumber or Id already exists in UserEntity.");
+                }
 
+                if (userModel.DateOfBirth > DateTime.Now)
+                {
+                    return BadRequest("Date of birth cannot be in the future.");
+                }
+
+                if (userModel.PhoneNumber.Length != 10)
+                {
+                    return BadRequest("PhoneNumber must have exactly 10 characters.");
+                }
+
+                if (userModel.Balance < 0 || userModel.TotalProduct < 0)
+                {
+                    return BadRequest("Balance or TotalProduct cannot be negative.");
+                }
+
+                users.Add(new UserEntity
+                {
+                    Id = userModel.Id,
+                    FirstName = userModel.FirstName,
+                    LastName = userModel.LastName,
+                    Sex = userModel.Sex,
+                    DateOfBirth = userModel.DateOfBirth,
+                    Address = userModel.Address,
+                    PhoneNumber = userModel.PhoneNumber,
+                    Balance = userModel.Balance,
+                    TotalProduct = userModel.TotalProduct,
+                    IsActive = true
+                });
+
+                _logger.Information($"User with Id {userModel.Id} inserted successfully");
+                return Ok(users);
+            }
+            catch (Exception ex)
+            {
+                _logger.Error(ex, "Error during user insertion");
+                return StatusCode(500, "An internal server error occurred. Please check the logs for details.");
+            }
+        }
 
         // 7.Viết API get all user data trả về được parse theo UserModel. nếu không có user nào thì return code 204
+        [HttpGet]
+        [Route("/api/[controller]/get-all-users")]
+        public IActionResult GetAllUsers()
+        {
+            try
+            {
+                _logger.Information("Start retrieving all users");
+
+                if (users.Any())
+                {
+                    var listUserModel = users.Select(user => new UserModel
+                    {
+                        Id = user.Id,
+                        FirstName = user.FirstName,
+                        LastName = user.LastName,
+                        Sex = user.Sex,
+                        DateOfBirth = user.DateOfBirth,
+                        Address = user.Address,
+                        PhoneNumber = user.PhoneNumber,
+                        Balance = user.Balance,
+                        TotalProduct = user.TotalProduct
+                    }).ToList();
+
+                    return Ok(listUserModel);
+                }
+                else return NotFound("No users found.");
+            }
+            catch (Exception ex)
+            {
+                _logger.Error(ex, "Error during retrieving all users");
+                return StatusCode(500, "An internal server error occurred. Please check the logs for details.");
+            }
+        }
 
         // 8.Với input là ngày sinh(có kiều dữ liệu DateTime) và role(có kiểu dữ liệu Enum), Viết API get users với điều kiện:
         //      - là thành viên vip(có thể là vip1 hoặc vip2) và sinh trong tháng 6
         //  Nếu không có user nào thì return code 204
+        [HttpGet]
+        [Route("/api/[controller]/get-vip-users-in-june")]
+        public IActionResult GetVipUsersInJune()
+        {
+            try
+            {
+                _logger.Information("Start retrieving VIP users born in June");
 
+                var vipUsersInJune = users
+                    .Where(user => (user.Roles == Roles.Vip1 || user.Roles == Roles.Vip2) &&
+                                   user.DateOfBirth.Month == 6)
+                    .ToList();
 
+                if (vipUsersInJune.Any())
+                {
+                    var listUserModel = vipUsersInJune.Select(user => new UserModel
+                    {
+                        Id = user.Id,
+                        FirstName = user.FirstName,
+                        LastName = user.LastName,
+                        Sex = user.Sex,
+                        DateOfBirth = user.DateOfBirth,
+                        Address = user.Address,
+                        PhoneNumber = user.PhoneNumber,
+                        Balance = user.Balance,
+                        TotalProduct = user.TotalProduct
+                    }).ToList();
+
+                    return Ok(listUserModel);
+                }
+                else
+                {
+                    return NoContent(); // 204 No Content
+                }
+            }
+            catch (Exception ex)
+            {
+                _logger.Error(ex, "Error during retrieving VIP users born in June");
+                return StatusCode(500, "An internal server error occurred. Please check the logs for details.");
+            }
+        }
 
         // 9.Viết API update user với input là UserModel, kiểm tra điều kiện:
         //      - Id phải tồn tại trong UserEntity (nếu không thỏa return code 404)
@@ -283,15 +395,95 @@ namespace DocnetCorePractice.Controllers
         //      - PhoneNumber phải đúng 10 ký tự (nếu không thỏa return code 400)
         //      - Balance hoặc TotalProduct >= 0 (nếu không thỏa return code 400)
         //  Nếu có điều kiện nào vi phạm thì không update và return code 400 cho client.
+        // Cập nhật thông tin người dùng
+        [HttpPut]
+        [Route("/api/[controller]/update-user")]
+        public IActionResult UpdateUser([FromBody] UserModel userModel)
+        {
+            try
+            {
+                _logger.Information($"Start updating user with Id {userModel.Id}");
+
+                var existingUser = users.FirstOrDefault(user => user.Id == userModel.Id);
+
+                if (existingUser == null)
+                {
+                    return NotFound($"User with Id {userModel.Id} not found.");
+                }
+
+                if (userModel.DateOfBirth > DateTime.Now)
+                {
+                    return BadRequest("Date of birth cannot be in the future.");
+                }
+
+                if (userModel.PhoneNumber.Length != 10)
+                {
+                    return BadRequest("Phone number must be 10 characters long.");
+                }
+
+                if (userModel.Balance < 0 || userModel.TotalProduct < 0)
+                {
+                    return BadRequest("Balance or TotalProduct cannot be negative.");
+                }
+
+                existingUser.FirstName = userModel.FirstName;
+                existingUser.LastName = userModel.LastName;
+                existingUser.Sex = userModel.Sex;
+                existingUser.DateOfBirth = userModel.DateOfBirth;
+                existingUser.Address = userModel.Address;
+                existingUser.PhoneNumber = userModel.PhoneNumber;
+                existingUser.Balance = userModel.Balance;
+                existingUser.TotalProduct = userModel.TotalProduct;
+
+                var jsonUser = JsonConvert.SerializeObject(existingUser);
+                _logger.Information($"User with Id {userModel.Id} updated successfully: {jsonUser}");
+                return Ok(existingUser);
+            }
+            catch (Exception ex)
+            {
+                _logger.Error(ex, $"Error during updating user with Id: {userModel.Id}");
+                return StatusCode(500, "An internal server error occurred. Please check the logs for details.");
+            }
+        }
+
 
         // 10. Viết API Delete user với input là Id. User sẽ được delete nếu thỏa các điều kiện sau:
         //      - Id tồn tại trong UserEntity (nếu không thỏa return code 400)
         //      - Balance của user bằng 0 (nếu không thỏa return code 400)
+        [HttpDelete]
+        [Route("/api/[controller]/delete-user/{id}")]
+        public IActionResult DeleteUser(string id)
+        {
+            try
+            {
+                _logger.Information($"Start deleting user with Id {id}");
+
+                var deleteUser = users.FirstOrDefault(user => user.Id == id);
+
+                if (deleteUser == null)
+                {
+                    return NotFound($"User with Id {id} not found.");
+                }
+
+                if (deleteUser.Balance != 0)
+                {
+                    return BadRequest($"Cannot delete user with non-zero balance.");
+                }
+
+                users.Remove(deleteUser);
+
+                _logger.Information($"User with Id {id} deleted successfully");
+                return Ok(users);
+            }
+            catch (Exception ex)
+            {
+                _logger.Error(ex, $"Error during deleting user with Id: {id}");
+                return StatusCode(500, "An internal server error occurred. Please check the logs for details.");
+            }
+        }
 
         // (Lưu ý: các API phải được đặt trong try/catch, nếu APi lỗi sẽ return về code 500)
 
-        private static List<OrderEntity> orders = new List<OrderEntity>();
-        private static List<OrderItemEntity> orderItems = new List<OrderItemEntity>();
 
         // 11. Tạo CreateOrderRequest model để nhập các thông tin cho việc insert một order mới theo json:
         //{
@@ -321,6 +513,23 @@ namespace DocnetCorePractice.Controllers
         //}
 
         // 13. Viết function tính tổng tiền của một order với input là  CreateOrderResponse model.
+        public class OrderHelper
+        {
+            public static decimal CalculateTotalAmount(CreateOrderResponse order)
+            {
+                decimal totalAmount = 0;
+
+                if (order != null && order.Items != null)
+                {
+                    foreach (var item in order.Items)
+                    {
+                        totalAmount += (decimal)item.Price;
+                    }
+                }
+
+                return totalAmount;
+            }
+        }
 
         // 14. Viết API tạo 1 order mới với input là CreateOrderRequest model được tạo ở bài 11. Yêu cầu:
         //        - Kiểm tra nếu userId nếu không tồn tại thì return code 404
@@ -329,6 +538,7 @@ namespace DocnetCorePractice.Controllers
         //        - lần lượt insert các item vào OrderItemEntity
         //        - Dùng function trong bài 13 để tính TotalPrice và update vào OrderEntity
         //        - Return code 200 theo CreateOrderResponse model.
+        
 
         // 15. Tạo UpdateOrderRequest model để nhập các thông tin cho việc update một order theo json:
         //{
