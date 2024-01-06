@@ -1,14 +1,11 @@
-﻿using BookAPI.Attribute;
-using BookAPI.Data.Entity;
-using BookAPI.Enum;
-using BookAPI.Model;
-using BookAPI.Services;
-using DocnetCorePractice.Service;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Serilog;
-using Ilogger = Serilog.ILogger;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using System;
+using System.Threading.Tasks;
+using AutoMapper;
+using BookAPI.Repositories;
+using BookAPI.Models;
+using MyApiNetCore6.Repositories;
 
 namespace BookAPI.Controllers
 {
@@ -16,122 +13,100 @@ namespace BookAPI.Controllers
     [ApiController]
     public class BooksController : ControllerBase
     {
-        private readonly Ilogger _logger;
-        private readonly IAuthenticationService _authenticationService;
-        public IUserService _userService;
-        public BooksController(IServiceProvider serviceProvider)
+        private readonly IBookRepository _bookRepo;
+        private readonly IMapper _mapper;
+        private readonly ILogger<BooksController> _logger;
+
+        public BooksController(IBookRepository bookRepo, IMapper mapper, ILogger<BooksController> logger)
         {
-            _authenticationService = serviceProvider.GetRequiredService<IAuthenticationService>();
-            _userService = serviceProvider.GetRequiredService<IUserService>();
-            _logger = Log.Logger;
-        }
-
-
-        private static List<UserEntity> users = new List<UserEntity>()
-        {
-            new UserEntity()
-            {
-                Id = Guid.NewGuid().ToString("N"),
-                FirstName = "Quy",
-                LastName = "Xuan",
-                Sex = Enum.Sex.Male,
-                Address = "Ho chi Minh",
-                Balance = 100000,
-                DateOfBirth = DateTime.Now,
-                PhoneNumber = "0123456789",
-                Roles = Enum.Roles.Basic,
-                TotalProduct = 0,
-                IsActive = true
-            }
-        };
-
-        private static List<BookEntity> books = new List<BookEntity>
-        {
-            new BookEntity()
-            {
-                Id = Guid.NewGuid().ToString("N"),
-                BookName = "The Adventurer's Quest",
-                BookGenreType = GenreType.Action,
-                Author = "Alex Explorer",
-                Quantity = 10,
-                Price = 19.99,
-                Discount = 5,
-                IsActive = true
-            },
-            new BookEntity
-            {
-                Id = Guid.NewGuid().ToString("N"),
-                BookName = "Love Beyond Time",
-                BookGenreType = GenreType.Romance,
-                Author = "Sophia Romance",
-                Quantity = 8,
-                Price = 17.99,
-                Discount = 8,
-                IsActive = true
-            },
-            new BookEntity
-            {
-                Id = Guid.NewGuid().ToString("N"),
-                BookName = "Laugh Factory",
-                BookGenreType = GenreType.Comedy,
-                Author = "Charlie Chuckles",
-                Quantity = 12,
-                Price = 15.99,
-                Discount = 10,
-                IsActive = true
-            },
-            new BookEntity
-            {
-                Id = Guid.NewGuid().ToString("N"),
-                BookName = "Tears of Redemption",
-                BookGenreType = GenreType.Drama,
-                Author = "Olivia Drama",
-                Quantity = 15,
-                Price = 22.99,
-                Discount = 12,
-                IsActive = true
-            },
-            new BookEntity
-            {
-                Id = Guid.NewGuid().ToString("N"),
-                BookName = "The Haunting Shadows",
-                BookGenreType = GenreType.Horror,
-                Author = "David Fearson",
-                Quantity = 10,
-                Price = 24.99,
-                Discount = 15,
-                IsActive = true
-            }
-        };
-
-        [HttpPost]
-        [Route("/api/[controller]/login")]
-        public IActionResult Login(RequestLoginModel request)
-        {
-            return Ok(_authenticationService.Authenticator(request));
-        }
-
-        [ApiKey]
-        [Authorize(AuthenticationSchemes = "Bearer")]
-        [HttpGet("/api/[controller]/getalluser")]
-        public IActionResult GetAllUser()
-        {
-            var result = _userService.GetAllUser();
-            return Ok(result);
-        }
-
-
-        [HttpPost("/api/[controller]/adduser")]
-        public IActionResult AddUser([FromBody] UserModel model)
-        {
-            var result = _userService.AddUser(model);
-            return Ok(result);
+            _bookRepo = bookRepo;
+            _mapper = mapper;
+            _logger = logger;
         }
 
         [HttpGet]
-        public IActionResult GetBooks()
+        public async Task<IActionResult> GetAllBooks(string search, double? from, double? to, string sortBy, int page = 1)
         {
-            return Ok(books);
+            try
+            {
+                var books = await _bookRepo.GetAllBooksAsync();
+                // Additional logic for filtering, sorting, and paging can be added here
+                return Ok(books);
+            }
+            catch
+            {
+                return BadRequest("We can't get the books.");
+            }
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetBook(int id)
+        {
+            try
+            {
+                var book = await _bookRepo.GetBookAsync(id);
+                if (book == null)
+                {
+                    return NotFound();
+                }
+                return Ok(book);
+            }
+            catch
+            {
+                return BadRequest("We can't get the book.");
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(BookModel bookModel)
+        {
+            try
+            {
+                var newBookId = await _bookRepo.AddBookAsync(bookModel);
+                var newBook = await _bookRepo.GetBookAsync(newBookId);
+
+                return CreatedAtAction(nameof(GetBook), new { id = newBookId }, newBook);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error adding book: {Message}", ex.Message);
+
+                if (ex.InnerException != null)
+                {
+                    _logger.LogError(ex.InnerException, "Inner exception adding book: {Message}", ex.InnerException.Message);
+                }
+
+                return StatusCode(500, new { Success = false, Message = "Error adding book" });
+            }
+        }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateBook(int id, BookModel bookModel)
+        {
+            try
+            {
+                await _bookRepo.UpdateBookAsync(id, bookModel);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error updating book: {Message}", ex.Message);
+                return BadRequest("We can't update the book.");
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteBook(int id)
+        {
+            try
+            {
+                await _bookRepo.DeleteBookAsync(id);
+                return NoContent();
+            }
+            catch
+            {
+                return BadRequest("We can't delete the book.");
+            }
         }
     }
 }

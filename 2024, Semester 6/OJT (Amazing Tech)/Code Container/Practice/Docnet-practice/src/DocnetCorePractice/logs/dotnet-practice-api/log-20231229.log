@@ -1,0 +1,13 @@
+2023-12-29T21:52:12.5899248+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7089"
+2023-12-29T21:52:12.6523353+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5117"
+2023-12-29T21:52:12.6562760+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-29T21:52:12.6568810+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-29T21:52:12.6574091+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-29T21:52:17.4811408+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 200 in 76.7808 ms
+2023-12-29T21:52:17.8789345+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/favicon.ico" responded 404 in 0.0943 ms
+2023-12-29T21:54:34.6532758+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:7089"
+2023-12-29T21:54:34.7518324+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5117"
+2023-12-29T21:54:34.7643430+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-12-29T21:54:34.7708716+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-12-29T21:54:34.7748227+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\FPTUniversityLearning\2024, Semester 6\OJT (Amazing Tech)\Code Container\Docnet-practice\src\DocnetCorePractice\"
+2023-12-29T21:54:35.7260038+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "GET" "/" responded 404 in 1.4843 ms
