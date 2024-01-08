@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NCyqazqRH35A2yfKsPGzGVi43mg4893ouCc0bfh+wDI=",
+  "Source": "MySalesWebApiApp",
+  "BasePath": "_content/MySalesWebApiApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
