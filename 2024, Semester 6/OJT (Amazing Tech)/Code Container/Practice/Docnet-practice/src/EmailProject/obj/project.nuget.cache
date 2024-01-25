@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PjCPN2vtkOllhsMBFgemls9tzSW7FNYdh75uc1G0QQRF20z37qHBBAVqevZdL/l2dMUK/mpZtUP1bXRUz8E7uQ==",
+  "dgSpecHash": "Xbg7FVRLzCZ4IjOaF22tnneyB9fmG9K7qqVRyzj4l9rnhXJ7yd2UwPcoadPARlT08rijoUvLYQgICcqYZRX2zQ==",
   "success": true,
-  "projectFilePath": "D:\\FPTUniversityLearning\\2024, Semester 6\\OJT (Amazing Tech)\\Code Container\\Docnet-practice\\src\\EmailProject\\EmailProject.csproj",
+  "projectFilePath": "D:\\FPTUniversityLearning\\2024, Semester 6\\OJT (Amazing Tech)\\Code Container\\Practice\\Docnet-practice\\src\\EmailProject\\EmailProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

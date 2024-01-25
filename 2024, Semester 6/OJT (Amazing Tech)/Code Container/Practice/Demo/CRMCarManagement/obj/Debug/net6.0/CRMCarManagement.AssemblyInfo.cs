@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMCarManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c26e85222747e1701a3665f0a9a33d93ee3ca7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMCarManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMCarManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1OAc99+sj+uiz+I/S3xuo744+yvjOq1OpHOQc+9gdrDvwY4V2Vrgdl14RDezGxJFqzuDRCpoQGfvDyndl1FAyg==",
+  "dgSpecHash": "otdU/+sdOGd1L5+L//7IqWo8TVwB2VmIcINqd3qlCm7OzzZ30tQkzsKH4C9Bbqqklag1qVMrzkOoRAkksw8n1g==",
   "success": true,
-  "projectFilePath": "D:\\FPTUniversityLearning\\2024, Semester 6\\OJT (Amazing Tech)\\Code Container\\Demo\\CRMCarManagement\\CRMCarManagement.csproj",
+  "projectFilePath": "D:\\FPTUniversityLearning\\2024, Semester 6\\OJT (Amazing Tech)\\Code Container\\Practice\\Demo\\CRMCarManagement\\CRMCarManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\xquy1\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
