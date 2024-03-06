@@ -1,0 +1,22 @@
+[11:15:43 INF] Start add new book
+[11:15:45 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:17:50 INF] Start add new book
+[11:23:36 INF] Start add new book
+[11:23:39 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:24:56 INF] Delete book
+[11:25:10 INF] Delete book
+[11:26:00 INF] Start add new book
+[11:26:00 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:26:15 INF] Start add new book
+[11:26:15 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:27:25 INF] Start add new book
+[11:27:25 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:43:46 INF] Start add new book
+[11:43:48 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:48:35 INF] Update book
+[11:48:35 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:57:27 INF] Start add new book
+[11:57:28 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:59:32 INF] Update book
+[11:59:32 INF] [{"Book_id":0,"Name":"chùm nho thịnh nộ","Author":"John Steinbeck","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Category":"Fiction, Nobel","Price":242.25,"Book_Accout_id":null,"User":null}]
+[11:59:50 INF] Delete book

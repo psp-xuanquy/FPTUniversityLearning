@@ -1,0 +1,36 @@
+[21:32:43 ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [books] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Category] nvarchar(max) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [Author] nvarchar(max) NOT NULL,
+    [price] float NOT NULL,
+    [UserAccout_id] int NULL,
+    CONSTRAINT [PK_books] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_books_users_UserAccout_id] FOREIGN KEY ([UserAccout_id]) REFERENCES [users] ([Accout_id])
+);
+[21:33:18 ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [books] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Category] nvarchar(max) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [Author] nvarchar(max) NOT NULL,
+    [price] decimal(18,7) NOT NULL,
+    [UserAccout_id] int NULL,
+    CONSTRAINT [PK_books] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_books_users_UserAccout_id] FOREIGN KEY ([UserAccout_id]) REFERENCES [users] ([Accout_id])
+);
+[21:38:42 ERR] Failed executing DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [books] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Category] nvarchar(max) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [Author] nvarchar(max) NOT NULL,
+    [price] decimal(18,7) NOT NULL,
+    [UserAccout_id] int NULL,
+    CONSTRAINT [PK_books] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_books_users_UserAccout_id] FOREIGN KEY ([UserAccout_id]) REFERENCES [users] ([Accout_id])
+);

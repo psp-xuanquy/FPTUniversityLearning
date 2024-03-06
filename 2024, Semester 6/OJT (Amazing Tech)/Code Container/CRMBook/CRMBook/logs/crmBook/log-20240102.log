@@ -1,0 +1,73 @@
+[13:47:44 INF] Start get Thoi_tiet: 
+[13:47:45 INF] [{"Date":"2024-01-03T13:47:44.767935+07:00","TemperatureC":1,"TemperatureF":33,"Summary":"Freezing"},{"Date":"2024-01-04T13:47:44.7683094+07:00","TemperatureC":19,"TemperatureF":66,"Summary":"Hot"},{"Date":"2024-01-05T13:47:44.7683114+07:00","TemperatureC":54,"TemperatureF":129,"Summary":"Cool"},{"Date":"2024-01-06T13:47:44.7683116+07:00","TemperatureC":-4,"TemperatureF":25,"Summary":"Mild"},{"Date":"2024-01-07T13:47:44.7683117+07:00","TemperatureC":29,"TemperatureF":84,"Summary":"Hot"}]
+[15:07:50 DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+[15:07:50 DBG] Hosting starting
+[15:07:50 DBG] Using development certificate: CN=localhost (Thumbprint: 14523750077844C0AD07D19E210A684F44689649)
+[15:07:50 INF] Now listening on: https://localhost:7293
+[15:07:50 INF] Now listening on: http://localhost:5173
+[15:07:50 DBG] Loaded hosting startup assembly CRMBook
+[15:07:50 DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+[15:07:50 DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+[15:07:50 INF] Application started. Press Ctrl+C to shut down.
+[15:07:50 INF] Hosting environment: Development
+[15:07:50 INF] Content root path: C:\intern\CRMBook\CRMBook\
+[15:07:50 DBG] Hosting started
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLQ" accepted.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLQ" started.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLR" accepted.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLR" started.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLR" received FIN.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLQ" received FIN.
+[15:07:51 DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.<FillHandshakeBufferAsync>g__InternalFillHandshakeBufferAsync|189_0[TIOAdapter](TIOAdapter adap, ValueTask`1 task, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLS" accepted.
+[15:07:51 DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.<FillHandshakeBufferAsync>g__InternalFillHandshakeBufferAsync|189_0[TIOAdapter](TIOAdapter adap, ValueTask`1 task, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLS" started.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLQ" stopped.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLR" stopped.
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLR" sending FIN because: "The Socket transport's send loop completed gracefully."
+[15:07:51 DBG] Connection id "0HN0BD7L4OJLQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+[15:07:51 DBG] Connection 0HN0BD7L4OJLS established using the following protocol: "Tls12"
+[15:07:51 INF] Request starting HTTP/2 GET https://localhost:7293/swagger/index.html - -
+[15:07:51 DBG] Wildcard detected, all requests with hosts will be allowed.
+[15:07:51 DBG] No candidates found for the request path '/swagger/index.html'
+[15:07:51 DBG] Request did not match any endpoints
+[15:07:51 DBG] Response markup is scheduled to include browser refresh script injection.
+[15:07:51 INF] Request starting HTTP/2 GET https://localhost:7293/_framework/aspnetcore-browser-refresh.js - -
+[15:07:51 DBG] Response markup was updated to include browser refresh script injection.
+[15:07:51 INF] Request starting HTTP/2 GET https://localhost:7293/_vs/browserLink - -
+[15:07:51 INF] Request finished HTTP/2 GET https://localhost:7293/swagger/index.html - - - 200 - text/html;charset=utf-8 374.9518ms
+[15:07:51 INF] Request finished HTTP/2 GET https://localhost:7293/_framework/aspnetcore-browser-refresh.js - - - 200 12346 application/javascript;+charset=utf-8 10.8714ms
+[15:07:51 INF] Request finished HTTP/2 GET https://localhost:7293/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.8964ms
+[15:07:52 INF] Request starting HTTP/2 GET https://localhost:7293/swagger/v1/swagger.json - -
+[15:07:52 DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+[15:07:52 DBG] Request did not match any endpoints
+[15:07:52 INF] Request finished HTTP/2 GET https://localhost:7293/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.4210ms
+[15:15:15 INF] Start get Thoi_tiet: 
+[15:15:16 INF] [{"Date":"2024-01-03T15:15:15.7745231+07:00","TemperatureC":37,"TemperatureF":98,"Summary":"Freezing"},{"Date":"2024-01-04T15:15:15.7748025+07:00","TemperatureC":20,"TemperatureF":67,"Summary":"Chilly"},{"Date":"2024-01-05T15:15:15.7748041+07:00","TemperatureC":6,"TemperatureF":42,"Summary":"Warm"},{"Date":"2024-01-06T15:15:15.7748043+07:00","TemperatureC":19,"TemperatureF":66,"Summary":"Sweltering"},{"Date":"2024-01-07T15:15:15.7748044+07:00","TemperatureC":12,"TemperatureF":53,"Summary":"Bracing"}]
+[15:59:21 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25},{"Id":1,"Name":"Hồ","Category":"Fiction, Nobel","Description":"Ánh sáng lập lòe của chiếc lồng đom đóm đung đưa bên hông người thiếu nữ, ngọn lửa từ đám cháy đêm ở bờ bên kia in bóng xuống hồ. Tất cả phản chiếu trong đôi mắt tràn đầy những vọng niệm của Momoi Gimpei, gã đàn ông kỳ quái. Một thế giới truyện ma mị mà rào cảo của hiện thực đã hoàn toàn bị tước bỏ.","Author":"Kawabata Yasunari","price":94.05}]
+[16:16:28 INF] Update book
+[16:16:29 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25}]
+[16:16:39 INF] Update book
+[16:16:39 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25}]
+[16:16:49 INF] Update book
+[16:16:49 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25}]
+[16:18:44 INF] Update book
+[16:18:44 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25}]
+[16:20:31 INF] Update book
+[16:20:31 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25}]
+[16:20:58 INF] Update book
+[16:20:58 INF] [{"Id":0,"Name":"chùm nho thịnh nộ","Category":"Fiction, Nobel","Description":"Câu chuyện xảy ra gần một thế kỷ trước: Gia đình Joad bỏ nhà cửa, ruộng đồng, mồ mả tổ tiên ở Oklahoma, tìm mọi cách chạy qua California để khỏi chết đói. ","Author":"John Steinbeck","price":242.25}]
+[16:22:29 INF] Update book
+[16:22:29 INF] [{"Id":0,"Name":"string","Category":"string","Description":"string","Author":"string","price":0.0}]
+[16:22:39 INF] Update book
+[16:22:39 INF] [{"Id":0,"Name":"string","Category":"string","Description":"string","Author":"string","price":0.0}]
