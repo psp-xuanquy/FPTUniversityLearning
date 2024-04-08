@@ -21,7 +21,7 @@ namespace Services
 
         public BookManagementMember? CheckLogin(string email, string password)
         {
-            BookManagementMemberRepository repo = new BookManagementMemberRepository();
+            AccountRepository repo = new AccountRepository();
 
             BookManagementMember account = repo.Get(email); //tìm accoun theo email
 

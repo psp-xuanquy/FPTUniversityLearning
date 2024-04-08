@@ -3,15 +3,15 @@ dependent platform:
 file .JAR .WAR dùng trên hệ điều hành nào cũng đc 
 
 NNLT: C, Pascal, C++, 			Java(OOP) :
-	|			     1 source / 1 pp
-	V				|
-App	App	App			V
-|	|	|		       JVM ---> (M)OS  (L)OS  (W)OS
-V	V	V		(independent platform)	|
-win	MacOs	Linux					V
+	  |			     1 source / 1 pp
+	  V				|
+App	  App	  App			V
+|	  |	  |		       JVM ---> (M)OS  (L)OS  (W)OS
+V	  V	  V		(Independent Platform)	|
+Windows	  MacOS	  Linux					V
 				    		    Hardware
 
-					JDK(Java development Kit)
+					JDK(Java Development Kit)
 
 C#	VB.NET	   C++	  .NET	     J#
 |	  |	    |	    |         |
@@ -39,19 +39,20 @@ Ví dụ: source lưu ở thư mục D:\Kỳ 5 -> Ăn đòn
 			    D:\KY5  -> OKE
 - Được quyền dùng thêm dấu gạch ngang, dấu _, dấu . trong tên thư mục vẫn oke nhưng vẫn yêu cầu viết liền tên
 
-I. .NET framework, .NET CORE, .NET, .NET SDK, CROSS-PLAFORM, INDEPENDENT PLATFORM ************
+
+I. .NET framework, .NET CORE, .NET, .NET SDK, CROSS-PLATFORM, INDEPENDENT PLATFORM ************
 
 - SDK: SOFTWARE DEVELOPMENT KIT - Bộ công cụ lập trình, bộ công cụ và thư viện của 1 ngôn ngữ lập trình nào đó ta sẽ dùng để viết app
--> Đây là thứ bắt buộc phải có để bắt đầu 1 ngôn ngữ lậpt rình nào đó hoặc bắt đầu 1 loại app nào đó !!!
-									> Thường sẽ lên website chĩnh hãng download về để cài đặt và dùng 
+-> Đây là thứ bắt buộc phải có để bắt đầu 1 ngôn ngữ lập trình nào đó hoặc bắt đầu 1 loại app nào đó !!!
+									> Thường sẽ lên website chính hãng download về để cài đặt và dùng 
 
-* Để lập trình với C# (VB.NET, C++ .NET ... - 1 Họ ngôn ngữ của microsoft) ta cần cài .NET SDK(Chứa hư viện để viết cide, chứa môi trường máy ảo để chạy app)
+* Để lập trình với C# (VB.NET, C++ .NET ... - 1 Họ ngôn ngữ của microsoft) ta cần cài .NET SDK(Chứa thư viện để viết code, chứa môi trường máy ảo để chạy app)
 
 >>>> Lịch sử tiến hóa của .NET SDK ban đầu gồm các tên gọi sau (Theo trình tự thời gian)
 + .NET Framework	>	.NET CORE	>	.NET(hiện nay)
-Chỉ chạy trên windows		.LINUX		    cả windows và linux và .....
-						    Đa nền tảng, independent platform
-								cross platform
+Chỉ chạy trên Windows		.LINUX		    cả Windows và Linux và .....
+						    Đa nền tảng, Independent platform
+								Cross platform
 		"Write once, run any where"
 
 * Để lập trình với .NET về lí thuyết cần
@@ -63,7 +64,7 @@ Chỉ chạy trên windows		.LINUX		    cả windows và linux và .....
 
 > Khi cài visual studio, mặc nhiên máy tính đc cài luôn .NET SDK ở thư mục
 C:\PROGRAM FILES\DOTNET
-Và bộ cài tự động Add/tạo 1 biến môi trường trỏ thằng vào thư mục này 
+Và bộ cài tự động Add/tạo 1 biến môi trường trỏ thẳng vào thư mục này 
 - biến trong lập trình int a = 10; int yearOfBirth = 2002;
 					Tên gọi 1 value nào đó, dùng viết code
 - Biến môi trường: tên gọi cho 1 value nào đó , biến này đc các app cùng share, cùng xài biến này do OS - hệ điều hành quản lí, giúp các app chia sẻ info
@@ -74,11 +75,12 @@ Ví dụ: JAVA_HOME -> trỏ vào nơi cài tomcat
 	PATH -> trỏ vào nơi cài .NET SDK c:\PROGRAM FILES\DOTNET
 	Ai cần tìm DOTNET, Lệnh SDK, thì vào đây mà LẤY
 
-> Ta cos thể kiểm tra phiên bản SDK, runtime/máy ảo DOTNET bằng lệnh ở của sổ CMD: Gõ DOT net Enter, sau đó nhìn gợi ý gỡ lại: DOTNET --........
+> Ta có thể kiểm tra phiên bản SDK, runtime/máy ảo DOTNET bằng lệnh ở của sổ CMD: Gõ DOT net Enter, sau đó nhìn gợi ý gỡ lại: DOTNET --........
 
-Các phiên bản SDK/Máy ảo ảnh hưởng đến lúc ta tọa mới project trong visual studio(VS) 
+Các phiên bản SDK/Máy ảo ảnh hưởng đến lúc ta tạo mới project trong Visual Studio(VS) 
 ==========================================================
 Bắt đầu viết code...
+
 
 II. Tạo thư mục chứa code của mình viết ra mỗi buổi học, C: D: E: tùy bạn...
 - Ví dụ: D:\SOURCE\SEMSESTER-5
@@ -113,16 +115,69 @@ D:\PRN211
 	- hoặc gõ tên-tập-tin.exe và enter
 > Chạy riêng file DLL
 	- dotnet tập-tin-dll và enter
-> Đem file DLL sang máy linux, MacOS chỉ cần có cài SDK là run ngon lành (cross platform)
+> Đem file DLL sang máy Linux, MacOS chỉ cần có cài SDK là run ngon lành (cross platform)
 =================================================================================================
+
+
 III. Phân biệt SOLUTION | PROJECT
+* Java không có khái niệm solution, tạm hiểu solution là project LỚN chứa nhiều project bên trong
+ - Java: làm 1 app (web, mobile, desktop) ~~~~ tạo mới 1 project 
+	 chia code thành các package - thư mục trên HDD/SSD
+	 controller\
+		...java
+	 dao\
+		...java
+         dto\
+		...java
+
+ - C#: làm 1 app (web, mobile, desktop) ~~~~ tạo mới 1 solution
+	ví dụ: tạo 1 game  ~~~ tạo 1 solution
+       Nhóm code được viết ra để quản lý User/phân quyền	
+	.cs
+	.cs
+	.cs
+
+       Nhóm code khác lo việc tạo ra cái "chợ" để mua bán, trao đổi đồ/Item
+	.cs
+	.cs
+	.cs
+
+       Nhóm code về Gameplay, việc chơi các level - CODE CHÍNH
+	.cs
+	.cs
+	.cs
+       
+       Nhóm code về kết nối vs CSDL
+	.cs
+	.cs
+	.cs
+
+ - Với Java, mỗi nhóm code ở trên ứng với 1 PACKAGE gọi là 1 THƯ MỤC
+       C#, mỗi nhóm code ở trên gọi là 1 PROJECT
+	 1 SOLUTION có thể có nhiều PROJECT
+		Project 1: Quản lí User		.dll	.exe
+		Project 2: Quản lí trading	.dll	.exe
+		Project 3: Quản lí Gameplay	.dll	.exe
+		Project 4: Kết nối CSDL		.dll	.exe
+
+	 1 PROJECT có nhiều THƯ MỤC chứa code
+		Thư mục 	~~~ PACKAGE 
+		 .cs
+		 .cs
+		Thư mục		~~~ NAMESPACE
+		 .cs
+		 .cs
+
+	 1 NAMESPACE có nhiều file SOURCE CODE bên trong
+		 .cs .cs	~~~ 1 hoặc nhiều CLASS(lập trình OOP)
+	 		 
 
 IV. Coding Convention - quy tắc viết code - Quy ước viết code
 1. Quy tắc đặt tên solution
 
 2. Quy tắc đặt tên project 
 
-3. Quy tắc đặt tên NAME-SPACE (Ko gian tên - giống y chang package bên java)
+3. Quy tắc đặt tên NAMESPACE (Không gian tên - giống y chang package bên java)
 
 4. Quy tắc đặt tên class 
 

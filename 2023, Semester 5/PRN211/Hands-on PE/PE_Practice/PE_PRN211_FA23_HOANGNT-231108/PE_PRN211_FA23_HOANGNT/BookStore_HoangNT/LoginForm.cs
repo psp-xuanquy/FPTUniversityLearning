@@ -42,8 +42,5 @@ namespace BookStore_HoangNT
             bookMgt.Show(); //show form CRUD
             this.Hide();  //ẩn form login đi
         }
-
-
-
     }
 }

@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session01-Hello\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

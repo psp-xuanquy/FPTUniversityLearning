@@ -4,3 +4,13 @@ D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN2
 D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
 D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
 D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Services.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Services.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Services.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Repositories.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\bin\Debug\net6.0\Repositories.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\refint\Services.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\Services.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\PE_Practice\PE_PRN211_FA23_HOANGNT-231108\PE_PRN211_FA23_HOANGNT\Services\obj\Debug\net6.0\ref\Services.dll
