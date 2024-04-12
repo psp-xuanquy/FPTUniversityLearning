@@ -1,0 +1,29 @@
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\bin\Debug\net8.0\NumberCalculator.exe
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\bin\Debug\net8.0\NumberCalculator.deps.json
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\bin\Debug\net8.0\NumberCalculator.runtimeconfig.json
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\bin\Debug\net8.0\NumberCalculator.dll
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\bin\Debug\net8.0\NumberCalculator.pdb
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.dll
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\refint\NumberCalculator.dll
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.pdb
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\NumberCalculator.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\NumberCalculator\obj\Debug\net8.0\ref\NumberCalculator.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\bin\Debug\net8.0\NumberCalculator.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\bin\Debug\net8.0\NumberCalculator.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\bin\Debug\net8.0\NumberCalculator.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\bin\Debug\net8.0\NumberCalculator.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\bin\Debug\net8.0\NumberCalculator.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\refint\NumberCalculator.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\NumberCalculator.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session02-Language\Calculation\NumberCalculator\obj\Debug\net8.0\ref\NumberCalculator.dll

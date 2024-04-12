@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session02-Language\\Calculation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66104362-D8DB-4F81-8E6A-1B334A0685A9}|PassByRef\\PassByRef.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session02-language\\calculation\\passbyref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66104362-D8DB-4F81-8E6A-1B334A0685A9}|PassByRef\\PassByRef.csproj|solutionrelative:passbyref\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF3BE411-A5D5-459D-B339-393F5C3BA932}|PassByOutUsing\\PassByOutUsing.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session02-language\\calculation\\passbyoutusing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF3BE411-A5D5-459D-B339-393F5C3BA932}|PassByOutUsing\\PassByOutUsing.csproj|solutionrelative:passbyoutusing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session02-Language\\Calculation\\PassByRef\\Program.cs",
+              "RelativeDocumentMoniker": "PassByRef\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session02-Language\\Calculation\\PassByRef\\Program.cs",
+              "RelativeToolTip": "PassByRef\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:53:48.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session02-Language\\Calculation\\PassByOutUsing\\Program.cs",
+              "RelativeDocumentMoniker": "PassByOutUsing\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session02-Language\\Calculation\\PassByOutUsing\\Program.cs",
+              "RelativeToolTip": "PassByOutUsing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:53:42.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

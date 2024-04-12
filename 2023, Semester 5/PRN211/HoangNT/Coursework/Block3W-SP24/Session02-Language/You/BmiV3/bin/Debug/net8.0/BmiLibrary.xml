@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BmiLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:BmiLibrary.BmiCalculator">
+            <summary>
+            Class này sẽ cung cấp các chỉ số để tính BMI của mỗi cá nhân
+            This class offers method to calculate and evaluate personals' BMI indicator
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:BmiLibrary.BmiCalculator.GetBmi(System.Double,System.Double)" -->
+    </members>
+</doc>

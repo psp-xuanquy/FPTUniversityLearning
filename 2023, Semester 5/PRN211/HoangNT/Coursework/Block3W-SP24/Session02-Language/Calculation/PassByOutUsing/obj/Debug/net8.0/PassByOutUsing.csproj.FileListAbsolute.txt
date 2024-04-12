@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\bin\Debug\net8.0\PassByOutUsing.exe
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\bin\Debug\net8.0\PassByOutUsing.deps.json
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\bin\Debug\net8.0\PassByOutUsing.runtimeconfig.json
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\bin\Debug\net8.0\PassByOutUsing.dll
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\bin\Debug\net8.0\PassByOutUsing.pdb
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.dll
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\refint\PassByOutUsing.dll
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.pdb
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\PassByOutUsing.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Máy tính\PRN211.3W\Session02-Language\Calculator\PassByOutUsing\obj\Debug\net8.0\ref\PassByOutUsing.dll
