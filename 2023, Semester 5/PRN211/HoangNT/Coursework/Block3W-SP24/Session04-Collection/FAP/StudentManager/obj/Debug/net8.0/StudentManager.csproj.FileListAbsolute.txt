@@ -1,0 +1,15 @@
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.exe
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\bin\Debug\net8.0\StudentManager.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\refint\StudentManager.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\StudentManager.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\HoangNT\Coursework\Block3W-SP24\Session04-Collection\FAP\StudentManager\obj\Debug\net8.0\ref\StudentManager.dll

@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2E46A-CD60-4711-B442-90B9B2B39303}|StudentManagerV5\\StudentManagerV5.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2E46A-CD60-4711-B442-90B9B2B39303}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2E46A-CD60-4711-B442-90B9B2B39303}|StudentManagerV5\\StudentManagerV5.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2E46A-CD60-4711-B442-90B9B2B39303}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95531548-2A4A-4023-9F06-9362189FE5AD}|StudentManagerV4\\StudentManagerV4.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95531548-2A4A-4023-9F06-9362189FE5AD}|StudentManagerV4\\StudentManagerV4.csproj|solutionrelative:studentmanagerv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95531548-2A4A-4023-9F06-9362189FE5AD}|StudentManagerV4\\StudentManagerV4.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95531548-2A4A-4023-9F06-9362189FE5AD}|StudentManagerV4\\StudentManagerV4.csproj|solutionrelative:studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5237E581-B789-43B4-9174-BC35BF017AB0}|StudentManagerV3\\StudentManagerV3.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5237E581-B789-43B4-9174-BC35BF017AB0}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5237E581-B789-43B4-9174-BC35BF017AB0}|StudentManagerV3\\StudentManagerV3.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5237E581-B789-43B4-9174-BC35BF017AB0}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98CD64-96DD-4AB9-A10C-1BD819B0CE96}|StudentManagerV2\\StudentManagerV2.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98CD64-96DD-4AB9-A10C-1BD819B0CE96}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98CD64-96DD-4AB9-A10C-1BD819B0CE96}|StudentManagerV2\\StudentManagerV2.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98CD64-96DD-4AB9-A10C-1BD819B0CE96}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C3ED34-1924-4B16-BA70-87DBA994D975}|StudentManager\\StudentManager.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C3ED34-1924-4B16-BA70-87DBA994D975}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C3ED34-1924-4B16-BA70-87DBA994D975}|StudentManager\\StudentManager.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-sp24\\session03-oop\\fap\\studentmanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C3ED34-1924-4B16-BA70-87DBA994D975}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2E46A-CD60-4711-B442-90B9B2B39303}|StudentManagerV5\\StudentManagerV5.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\studentmanagerv5\\studentmanagerv5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26D2E46A-CD60-4711-B442-90B9B2B39303}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\studentmanagerv5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV4\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV4\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV4\\Program.cs",
+              "RelativeToolTip": "StudentManagerV4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:27:33.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV4\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV4\\Entities\\Student.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV4\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV4\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:27:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV3\\Program.cs",
+              "RelativeToolTip": "StudentManagerV3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:27:18.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV3\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3\\Entities\\Student.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV3\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV3\\Entities\\Student.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:27:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Entities\\Student.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV2\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:26:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManager\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Entities\\Student.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManager\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManager\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:26:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV2\\Program.cs",
+              "RelativeToolTip": "StudentManagerV2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:26:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManager\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManager\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManager\\Program.cs",
+              "RelativeToolTip": "StudentManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:26:36.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV5\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV5\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV5\\Program.cs",
+              "RelativeToolTip": "StudentManagerV5\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:37:43.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV5\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV5\\Entities\\Student.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV5\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV5\\Entities\\Student.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA1wCQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:03:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentManagerV5",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV5\\StudentManagerV5.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV5\\StudentManagerV5.csproj",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-SP24\\Session03-OOP\\FAP\\StudentManagerV5\\StudentManagerV5.csproj",
+              "RelativeToolTip": "StudentManagerV5\\StudentManagerV5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T09:02:59.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
