@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\quy.runner.deathracer\\racer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|solutionrelative:quy.runner.deathracer\\racer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\quy.runner.deathracer\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|solutionrelative:quy.runner.deathracer\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\quy.runner.deathracer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|solutionrelative:quy.runner.deathracer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\quy.runner.deathracer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|solutionrelative:quy.runner.deathracer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session02 - oop\\quy.runner.deathracer\\quy.runner.deathracer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB10BE2-64CD-48A3-AC86-8EB5FF2D9840}|Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer.csproj|solutionrelative:quy.runner.deathracer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Racer.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Racer.cs",
+              "RelativeDocumentMoniker": "Quy.Runner.DeathRacer\\Racer.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Racer.cs",
+              "RelativeToolTip": "Quy.Runner.DeathRacer\\Racer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:16:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Drone.cs",
+              "RelativeDocumentMoniker": "Quy.Runner.DeathRacer\\Drone.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Drone.cs",
+              "RelativeToolTip": "Quy.Runner.DeathRacer\\Drone.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:16:33.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Student.cs",
+              "RelativeDocumentMoniker": "Quy.Runner.DeathRacer\\Student.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Student.cs",
+              "RelativeToolTip": "Quy.Runner.DeathRacer\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:16:33.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Employee.cs",
+              "RelativeDocumentMoniker": "Quy.Runner.DeathRacer\\Employee.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Employee.cs",
+              "RelativeToolTip": "Quy.Runner.DeathRacer\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:16:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.Runner.DeathRacer\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session02 - OOP\\Quy.Runner.DeathRacer\\Quy.Runner.DeathRacer\\Program.cs",
+              "RelativeToolTip": "Quy.Runner.DeathRacer\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwCsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:16:33.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

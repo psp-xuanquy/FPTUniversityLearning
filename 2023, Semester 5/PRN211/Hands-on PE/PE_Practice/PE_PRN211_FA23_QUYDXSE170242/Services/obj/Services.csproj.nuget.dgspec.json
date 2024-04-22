@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj": {}
+    "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj": {
+    "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\obj\\",
+        "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\GMT\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\xquy1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -89,24 +95,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj": {
+    "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\xquy1\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Services\\obj\\",
+        "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\GMT\\.nuget\\packages\\",
+        "outputPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\xquy1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GMT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -115,14 +121,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\New folder\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj"
+              "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -131,6 +138,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -152,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

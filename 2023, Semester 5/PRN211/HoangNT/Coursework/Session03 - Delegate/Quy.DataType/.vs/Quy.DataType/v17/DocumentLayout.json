@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD4569A-8324-4FDA-BDE2-5F89E0B0ED92}|Quy.DataType.DelegateAdvanced.Ver04\\Quy.DataType.DelegateAdvanced.Ver04.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session03 - delegate\\quy.datatype\\quy.datatype.delegateadvanced.ver04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD4569A-8324-4FDA-BDE2-5F89E0B0ED92}|Quy.DataType.DelegateAdvanced.Ver04\\Quy.DataType.DelegateAdvanced.Ver04.csproj|solutionrelative:quy.datatype.delegateadvanced.ver04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4CBD74-4BE6-4E35-B2A4-37D370985F08}|Quy.DataType.DelegateAdvanced.Ver03\\Quy.DataType.DelegateAdvanced.Ver03.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session03 - delegate\\quy.datatype\\quy.datatype.delegateadvanced.ver03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4CBD74-4BE6-4E35-B2A4-37D370985F08}|Quy.DataType.DelegateAdvanced.Ver03\\Quy.DataType.DelegateAdvanced.Ver03.csproj|solutionrelative:quy.datatype.delegateadvanced.ver03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A1722F-DF0B-4A76-B6ED-4D3FC7F11957}|Quy.DataType.DelegateAdvanced.Ver02\\Quy.DataType.DelegateAdvanced.Ver02.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session03 - delegate\\quy.datatype\\quy.datatype.delegateadvanced.ver02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A1722F-DF0B-4A76-B6ED-4D3FC7F11957}|Quy.DataType.DelegateAdvanced.Ver02\\Quy.DataType.DelegateAdvanced.Ver02.csproj|solutionrelative:quy.datatype.delegateadvanced.ver02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD327AFF-5176-489E-B7C7-029FA910E0E1}|Quy.DataType.DelegateAdvanced\\Quy.DataType.DelegateAdvanced.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session03 - delegate\\quy.datatype\\quy.datatype.delegateadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD327AFF-5176-489E-B7C7-029FA910E0E1}|Quy.DataType.DelegateAdvanced\\Quy.DataType.DelegateAdvanced.csproj|solutionrelative:quy.datatype.delegateadvanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80E020FC-A0B2-4C77-B86D-97B73D7AC390}|Quy.DataType.DelegateIntro\\Quy.DataType.DelegateIntro.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session03 - delegate\\quy.datatype\\quy.datatype.delegateintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80E020FC-A0B2-4C77-B86D-97B73D7AC390}|Quy.DataType.DelegateIntro\\Quy.DataType.DelegateIntro.csproj|solutionrelative:quy.datatype.delegateintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B7A2F6-028B-429D-8D51-6F98956965F4}|Quy.DataType.DelegateAdvanced.Ver06\\Quy.DataType.DelegateAdvanced.Ver06.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hoangnt\\coursework\\block3w-fa23\\session03 - delegate\\quy.datatype\\quy.datatype.delegateadvanced.ver06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B7A2F6-028B-429D-8D51-6F98956965F4}|Quy.DataType.DelegateAdvanced.Ver06\\Quy.DataType.DelegateAdvanced.Ver06.csproj|solutionrelative:quy.datatype.delegateadvanced.ver06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}|Quy.DataType.DelegateAdvanced.Ver05\\Quy.DataType.DelegateAdvanced.Ver05.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\quy.datatype.delegateadvanced.ver05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6F6B2A-ACB0-44E7-AD70-0464D0AE32DC}|Quy.DataType.DelegateAdvanced.Ver05\\Quy.DataType.DelegateAdvanced.Ver05.csproj|solutionrelative:quy.datatype.delegateadvanced.ver05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver04\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateAdvanced.Ver04\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver04\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateAdvanced.Ver04\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:29:59.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver03\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateAdvanced.Ver03\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver03\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateAdvanced.Ver03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:29:55.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver02\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateAdvanced.Ver02\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver02\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateAdvanced.Ver02\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:29:48.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateAdvanced\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateAdvanced\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:28:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateIntro\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateIntro\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateIntro\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateIntro\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwFMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:17:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver06\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateAdvanced.Ver06\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver06\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateAdvanced.Ver06\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwC4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:17:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver05\\Program.cs",
+              "RelativeDocumentMoniker": "Quy.DataType.DelegateAdvanced.Ver05\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\HoangNT\\Coursework\\Block3W-FA23\\Session03 - Delegate\\Quy.DataType\\Quy.DataType.DelegateAdvanced.Ver05\\Program.cs",
+              "RelativeToolTip": "Quy.DataType.DelegateAdvanced.Ver05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T05:17:05.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
