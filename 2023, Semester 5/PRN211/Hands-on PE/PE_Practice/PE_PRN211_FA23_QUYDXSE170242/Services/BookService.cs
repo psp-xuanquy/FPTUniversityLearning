@@ -6,7 +6,7 @@ namespace Services
     public class BookService
     {
         private BookRepository _repo = new BookRepository();
-        
+
         public List<Book> GetAllBooks()
         {
             return _repo.GetAll();
@@ -16,11 +16,6 @@ namespace Services
         {
             return _repo.GetAll().Where(b => b.BookName.ToLower().Contains(keyword.ToLower()) ||
                                              b.Description.ToLower().Contains(keyword.ToLower())).ToList();
-        }
-
-        public void DeleteABook(int id)
-        {
-            _repo.Delete(id);
         }
 
         public Book? GetABook(int id)
@@ -85,8 +80,13 @@ namespace Services
             catch (Exception ex)
             {
                 Console.WriteLine($"Error updating book: {ex.Message}");
-                throw; 
+                throw;
             }
+        }
+
+        public void DeleteABook(int id)
+        {
+            _repo.Delete(id);
         }
     }
 }
