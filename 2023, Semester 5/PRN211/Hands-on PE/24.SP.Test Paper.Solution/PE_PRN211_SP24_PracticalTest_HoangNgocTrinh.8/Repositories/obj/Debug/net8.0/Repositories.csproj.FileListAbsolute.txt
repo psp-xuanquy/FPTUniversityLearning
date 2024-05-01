@@ -23,3 +23,18 @@ C:\Users\giao.lang\Desktop\PRN211.47.4.PE\PE_PRN211_SP24_PracticalTest_HoangNgoc
 C:\Users\giao.lang\Desktop\PRN211.47.4.PE\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.Memory.8\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
 C:\Users\giao.lang\Desktop\PRN211.47.4.PE\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.Memory.8\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
 C:\Users\giao.lang\Desktop\PRN211.47.4.PE\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.Memory.8\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\bin\Debug\net8.0\Repositories.runtimeconfig.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\Repositories.genruntimeconfig.cache
+D:\FPTUniversityLearning\2023, Semester 5\PRN211\Hands-on PE\24.SP.Test Paper.Solution\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\Repositories\obj\Debug\net8.0\ref\Repositories.dll

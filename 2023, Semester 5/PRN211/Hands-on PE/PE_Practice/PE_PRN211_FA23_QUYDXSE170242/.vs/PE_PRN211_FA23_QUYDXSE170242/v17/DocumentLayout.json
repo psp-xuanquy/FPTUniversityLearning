@@ -1,12 +1,168 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FC943A-C126-46F9-9596-DA6C858C098E}|Services\\Services.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\pe_practice\\pe_prn211_fa23_quydxse170242\\services\\bookmanagementmemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FC943A-C126-46F9-9596-DA6C858C098E}|Services\\Services.csproj|solutionrelative:services\\bookmanagementmemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FC943A-C126-46F9-9596-DA6C858C098E}|Services\\Services.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\pe_practice\\pe_prn211_fa23_quydxse170242\\services\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FC943A-C126-46F9-9596-DA6C858C098E}|Services\\Services.csproj|solutionrelative:services\\bookcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FC943A-C126-46F9-9596-DA6C858C098E}|Services\\Services.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\pe_practice\\pe_prn211_fa23_quydxse170242\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FC943A-C126-46F9-9596-DA6C858C098E}|Services\\Services.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\pe_practice\\pe_prn211_fa23_quydxse170242\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D634E3-DF64-4470-B5E4-2278F61FDA96}|BookStore_DaoXuanQuy\\BookStore_DaoXuanQuy.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\pe_practice\\pe_prn211_fa23_quydxse170242\\bookstore_daoxuanquy\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44D634E3-DF64-4470-B5E4-2278F61FDA96}|BookStore_DaoXuanQuy\\BookStore_DaoXuanQuy.csproj|solutionrelative:bookstore_daoxuanquy\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D634E3-DF64-4470-B5E4-2278F61FDA96}|BookStore_DaoXuanQuy\\BookStore_DaoXuanQuy.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\bookstore_daoxuanquy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D634E3-DF64-4470-B5E4-2278F61FDA96}|BookStore_DaoXuanQuy\\BookStore_DaoXuanQuy.csproj|solutionrelative:bookstore_daoxuanquy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\repositories\\bookmanagement2023dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookmanagement2023dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\repositories\\bookmanagementmemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookmanagementmemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\repositories\\entities\\bookmanagementmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52375D4-B1AD-4234-80CD-AB1363A9DEDA}|Repositories\\Repositories.csproj|solutionrelative:repositories\\entities\\bookmanagementmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCategoryService.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\BookCategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\BookCategoryService.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\BookCategoryService.cs",
+              "RelativeToolTip": "Services\\BookCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:55:31.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:55:44.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManagementMemberService.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\BookManagementMemberService.cs",
+              "RelativeDocumentMoniker": "Services\\BookManagementMemberService.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Services\\BookManagementMemberService.cs",
+              "RelativeToolTip": "Services\\BookManagementMemberService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:55:41.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:54:49.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\BookStore_DaoXuanQuy\\BookForm.cs",
+              "RelativeDocumentMoniker": "BookStore_DaoXuanQuy\\BookForm.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\BookStore_DaoXuanQuy\\BookForm.cs [Design]",
+              "RelativeToolTip": "BookStore_DaoXuanQuy\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:44:19.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\BookStore_DaoXuanQuy\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore_DaoXuanQuy\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\BookStore_DaoXuanQuy\\Program.cs",
+              "RelativeToolTip": "BookStore_DaoXuanQuy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:35:36.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookManagementMember.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Entities\\BookManagementMember.cs",
+              "RelativeDocumentMoniker": "Repositories\\Entities\\BookManagementMember.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\Entities\\BookManagementMember.cs",
+              "RelativeToolTip": "Repositories\\Entities\\BookManagementMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:33:52.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookManagementMemberRepository.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\BookManagementMemberRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookManagementMemberRepository.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\BookManagementMemberRepository.cs",
+              "RelativeToolTip": "Repositories\\BookManagementMemberRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:28:14.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookManagement2023DbContext.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\BookManagement2023DbContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookManagement2023DbContext.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\PE_Practice\\PE_PRN211_FA23_QUYDXSE170242\\Repositories\\BookManagement2023DbContext.cs",
+              "RelativeToolTip": "Repositories\\BookManagement2023DbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:25:17.956Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
