@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D34C7B9D-29F3-4EF0-A089-C2D7E34ED112}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\repositories\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C7B9D-29F3-4EF0-A089-C2D7E34ED112}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\24.sp.test paper.solution\\pe_prn211_sp24_practicaltest_hoangngoctrinh.8\\bookmanagement_hoangngoctrinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C7B9D-29F3-4EF0-A089-C2D7E34ED112}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C7B9D-29F3-4EF0-A089-C2D7E34ED112}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\24.sp.test paper.solution\\pe_prn211_sp24_practicaltest_hoangngoctrinh.8\\bookmanagement_hoangngoctrinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D34C7B9D-29F3-4EF0-A089-C2D7E34ED112}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|d:\\fptuniversitylearning\\2023, semester 5\\prn211\\hands-on pe\\24.sp.test paper.solution\\pe_prn211_sp24_practicaltest_hoangngoctrinh.8\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|solutionrelative:repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\repositories\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C91DD98F-7913-48EB-854C-CB7F7B101B78}|Repositories\\Repositories.csproj|solutionrelative:repositories\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2867939A-6069-4902-91C7-18626A659DEA}|Services\\Services.csproj|D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\Program.cs",
+              "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\Program.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:46:49.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BookService.cs",
               "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\appsettings.json",
               "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\appsettings.json",
@@ -63,19 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BookManagementDbContext.cs",
               "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\Repositories\\BookManagementDbContext.cs",
               "RelativeDocumentMoniker": "Repositories\\BookManagementDbContext.cs",
               "ToolTip": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\Repositories\\BookManagementDbContext.cs",
               "RelativeToolTip": "Repositories\\BookManagementDbContext.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAowFMAAABCAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowFYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T16:03:53.992Z"
+              "WhenOpened": "2024-04-25T16:03:53.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UserAccountRepository.cs",
               "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\Repositories\\UserAccountRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserAccountRepository.cs",
@@ -83,12 +101,11 @@
               "RelativeToolTip": "Repositories\\UserAccountRepository.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T16:03:47.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T16:03:47.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BookCategoryService.cs",
               "DocumentMoniker": "D:\\FPTUniversityLearning\\2023, Semester 5\\PRN211\\Hands-on PE\\24.SP.Test Paper.Solution\\PE_PRN211_SP24_PracticalTest_HoangNgocTrinh.8\\Services\\BookCategoryService.cs",
               "RelativeDocumentMoniker": "Services\\BookCategoryService.cs",
